@@ -1,0 +1,2517 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ELEX WooCommerce Request a Quote - Basic\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-14 06:01+0000\n"
+"PO-Revision-Date: 2024-08-14 06:05+0000\n"
+"Last-Translator: \n"
+"Language-Team: Finnish\n"
+"Language: fi\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.7; wp-6.6.1\n"
+"X-Domain: elex-request-a-quote"
+
+#: ../../../../../../../projects/elex-request-a-quote/class-elex-request-a-quote.php:50
+msgid ""
+"WooCommerce plugin must be active for ELEX Request a Quote Plugin to work."
+msgstr "WooCommerce plugin on aktiivinen ELEX pyydä Tarjous Plugin töihin."
+
+#: ../../../../../../../projects/elex-request-a-quote/class-elex-request-a-quote.php:63
+#: ../../../../../../../projects/elex-request-a-quote/view/header.php:4
+#: ../../../../../../../projects/elex-request-a-quote/src/RequestAQuote.php:447
+#: ../../../../../../../projects/elex-request-a-quote/src/RequestAQuote.php:448
+msgid "Settings"
+msgstr "Asetukset"
+
+#: ../../../../../../../projects/elex-request-a-quote/class-elex-request-a-quote.php:64
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:136
+msgid "Documentation"
+msgstr "Asiakirjat"
+
+#: ../../../../../../../projects/elex-request-a-quote/class-elex-request-a-quote.php:65
+msgid "Support"
+msgstr "Tukea"
+
+#: ../../../../../../../projects/elex-request-a-quote/class-elex-request-a-quote.php:74
+msgid ""
+"The Premium version of ELEX Request a Quote is already installed and "
+"activated. Please deactivate it in order to activate the basic version. If "
+"you encounter any issues, kindly contact our "
+msgstr ""
+"ELEX Request a Quote -sovelluksen Premium-versio on jo asennettu ja "
+"aktivoitu. Poista se käytöstä aktivoidaksesi perusversion. Jos kohtaat "
+"ongelmia, ota ystävällisesti yhteyttä meihin"
+
+#: ../../../../../../../projects/elex-request-a-quote/class-elex-request-a-quote.php:75
+msgid ""
+"The WooCommerce version of ELEX Request a Quote is already installed and "
+"activated. Please deactivate it in order to activate the basic version. If "
+"you encounter any issues, kindly contact our "
+msgstr ""
+"ELEX Request a Quote -sovelluksen WooCommerce-versio on jo asennettu ja "
+"aktivoitu. Poista se käytöstä aktivoidaksesi perusversion. Jos kohtaat "
+"ongelmia, ota ystävällisesti yhteyttä meihin"
+
+#: ../../../../../../../projects/elex-request-a-quote/class-elex-request-a-quote.php:77
+msgid "for assistance."
+msgstr "apua."
+
+#: ../../../../../../../projects/elex-request-a-quote/class-elex-request-a-quote.php:86
+#: ../../../../../../../projects/elex-request-a-quote/class-elex-request-a-quote.php:90
+msgid "Support "
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/header.php:4
+#: ../../../../../../../projects/elex-request-a-quote/src/RequestAQuote.php:456
+#: ../../../../../../../projects/elex-request-a-quote/src/RequestAQuote.php:457
+msgid "Customize Quote List & Form"
+msgstr "Muokata Lainaus List & Form"
+
+#. %s:  ELEX Request a Quote "Quote List" tab link URL
+#: ../../../../../../../projects/elex-request-a-quote/view/header.php:15
+#, php-format
+msgid ""
+"To customize your website's quote request form and quote items listing page, "
+"visit  %s section."
+msgstr ""
+"Muokata sivustosi tarjouspyyntö lomake ja lainata kohteita listalle sivu, "
+"käy osoitteessa %s kohta."
+
+#. %s: ELEX Request a Quote "Settings" tab link
+#: ../../../../../../../projects/elex-request-a-quote/view/header.php:20
+#, php-format
+msgid "To set up request a quote on your site, visit %s section."
+msgstr "Perustaa pyydä tarjous sivustossasi, käy osoitteessa %s kohta."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/header.php:54
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:128
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:178
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:228
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:179
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:232
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:268
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:120
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:157
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:331
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:19
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:68
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:185
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:233
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:355
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:708
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:888
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:1026
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:1067
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:51
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:169
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:717
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:831
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:297
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:325
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:354
+msgid "[Premium]"
+msgstr "[Premium]"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:98
+msgid "Note: Basic version supports only few features."
+msgstr "Huomautus: Perus-versio tukee vain muutamia ominaisuuksia."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:99
+msgid "Your business is precious! Go Premium to get below features."
+msgstr "Yrityksesi on arvokas! Mene Palkkio saat alla ominaisuuksia."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:100
+msgid " -  Product-based exclusion for Request a Quote."
+msgstr "- Tuotepohjainen poissulkeminen tarjouspyynnössä."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:102
+msgid " - User role-based exclusion for Request a Quote."
+msgstr "- Käyttäjärooleihin perustuva poissulkeminen tarjouspyyntöä varten."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:103
+msgid "- Disable Request a Quote option for unregistered users."
+msgstr "- Poista pyydä Tarjous vaihtoehto rekisteröimättömiä käyttäjiä."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:104
+msgid "- Exclude Request a Quote based on the product stocks."
+msgstr "- Sulkea pyydä Tarjous perustuu tuotteen varastot."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:105
+msgid "- Product-based exclusion from the 'Hide Add to Cart and Price' option."
+msgstr ""
+"- Tuote-pohjainen ulkopuolelle 'Piilottaa Lisää Ostoskoriin ja Hinta-"
+"vaihtoehto."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:106
+msgid ""
+"- User role-based exclusion from the 'Hide Add to Cart and Price' option."
+msgstr ""
+"- Käyttäjän rooli-pohjainen ulkopuolelle 'Piilottaa Lisää Ostoskoriin ja "
+"Hinta-vaihtoehto."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:108
+msgid "- Quote list customization option for an empty quote list page."
+msgstr "- Lainaus list räätälöinnin vaihtoehto tyhjä lainaus luettelosta."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:110
+msgid "- Product table customization option for the quote list page."
+msgstr "- Tuote taulukko räätälöinnin vaihtoehto lainaus luettelosta."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:111
+msgid "- Quote Expiry  feature as per the number of days set by the Admin."
+msgstr "- Lainaus vanhentumistoiminto kohti määrä päivää asettamat Admin."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:112
+msgid ""
+"- Accepted Payment Gateway feature to accept the payment method of Shop "
+"owner's choice."
+msgstr ""
+"- Hyväksyä Maksu Yhdyskäytävä ominaisuus hyväksyä maksun menetelmä Liikkeen "
+"omistaja on valinta."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:113
+msgid ""
+"- Option to change the \"Add to Quote \" Button Position Inline with the "
+"\"Add to Cart\" Button."
+msgstr ""
+"- Mahdollisuus vaihtaa \"Lisää Lainaus\" - Painiketta Asennossa Inline "
+"kanssa \"Lisää Ostoskoriin\" - Painiketta."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:114
+msgid "- Quote Button on Cart Page."
+msgstr "- Lainaus-Painiketta Cart Sivulla."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:115
+msgid ""
+"- Option to set the Add to Quote Button Behaviour to redirect to Quote List "
+"Page."
+msgstr ""
+"- Mahdollisuus asettaa Lisää Lainaus-Painiketta Käyttäytymistä ohjata "
+"Lainaus Luettelosta."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:116
+msgid "- Predefined Templates for the Emails."
+msgstr "- Valmiita Malleja Sähköposteja."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:117
+msgid ""
+"- Send Automatic Reminder emails to the customer as per the number of days "
+"set by the admin,when there is no activity from the customer."
+msgstr ""
+"- Lähetä Automaattinen Muistutus sähköposteja asiakkaalle kohti määrä päivää "
+"asettamat admin,kun ei ole toimintaa asiakkaalta."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:118
+msgid "- Allow Customer to Send Counter Proposal from their My Account Page."
+msgstr "- Salli Asiakkaiden Lähettää vastaehdotuksen niiden Oma Tili-Sivulla."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:119
+msgid "- Allow Customer to download Quote PDF from their My Account Page."
+msgstr "- Anna Asiakkaan lataa PDF-tarjouksen niiden Oma Tili-Sivulla."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:120
+msgid ""
+"- Accept the Preferred Price/Percentage from the Customer during Quote "
+"Submission."
+msgstr ""
+"- Hyväksy Edullinen Hinta/Prosentti Asiakkaalta aikana Quote Jättämisestä."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:121
+msgid ""
+"- Attach PDF or image file to Quote Approved/Rejected/Negotiation mails from "
+"the Order Page."
+msgstr ""
+"- Kiinnitä PDF-tai kuvatiedoston Lainaus Hyväksytty/Hylätty/Neuvottelu "
+"sähköpostit Järjestyksessä Sivu."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:122
+msgid "- AutoComplete Quote Form for Registered User."
+msgstr "- Automaattinen täydennys Lainaus Muodossa Rekisteröitynyt Käyttäjä."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:123
+msgid "- Create WordPress User when the Guest User submits the Quote Request."
+msgstr ""
+"- Luoda WordPress Käyttäjä, kun Vieras Käyttäjä lähettää tarjouspyyntö."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:124
+msgid "- reCAPTCHA verification for the Quote Submission."
+msgstr "- reCAPTCHA todentaminen tarjouksen Jättämistä."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:125
+msgid "- All Buttons Customization including Color and Label"
+msgstr "- Kaikki Painikkeet Räätälöinnin, mukaan lukien Väri ja Etiketti"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:144
+msgid "You May Also like"
+msgstr "Pidät Ehkä Myös"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/saved_toast.php:12
+msgid "Changes Saved Successfully!"
+msgstr "Muutokset Tallennettu Onnistuneesti!"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support_header.php:1
+#: ../../../../../../../projects/elex-request-a-quote/src/RequestAQuote.php:464
+#: ../../../../../../../projects/elex-request-a-quote/src/RequestAQuote.php:465
+msgid "Help & Support"
+msgstr "Apua & Tukea"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/create_order_status.php:15
+msgid "Quote Requested"
+msgstr "Lainaus Pyysi"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/create_order_status.php:26
+msgid "Quote Approved"
+msgstr "Lainaus Hyväksytty"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/create_order_status.php:37
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/general.php:76
+msgid "Quote Rejected"
+msgstr "Lainaus Hylätty"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/RequestAQuote.php:188
+msgid "Quotes List"
+msgstr "Lainausmerkit Lista"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/RequestAQuote.php:199
+msgid "Quote Received"
+msgstr "Quote Saanut"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/RequestAQuote.php:436
+#: ../../../../../../../projects/elex-request-a-quote/src/RequestAQuote.php:437
+msgid "Request a Quote"
+msgstr "Pyydä Tarjous"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/tickets.php:6
+msgid "Before raising the ticket, we recommend you to go through our detailed"
+msgstr ""
+"Ennen kuin nostaa lippu, suosittelemme, että voit käydä läpi meidän "
+"yksityiskohtaisen"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/tickets.php:6
+msgid "documentation."
+msgstr "asiakirjat."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/tickets.php:7
+msgid "Or"
+msgstr "Tai"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/tickets.php:8
+msgid ""
+"To get in touch with one of our helpdesk representatives, please raise a "
+"support ticket on our website."
+msgstr ""
+"Saada yhteyttä yksi meidän helpdesk edustajat, nosta tukipyynnön "
+"sivustollamme."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/tickets.php:9
+msgid ""
+"* Please don`t forget to attach your System Info File with the request for "
+"better support."
+msgstr ""
+"* Älä unohda liittää Järjestelmään Info-Tiedosto, jossa pyytää tukea "
+"paremmin."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/tickets.php:13
+msgid "Raise a ticket"
+msgstr "Nostaa lippu"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/tickets.php:21
+msgid ""
+"To copy the System Info, click below then press Ctrl + C (PC) or Cmd + C "
+"(Mac)."
+msgstr ""
+"Voit kopioida järjestelmätiedot napsauttamalla alla sitten paina Ctrl + C "
+"(PC) tai Cmd + C (Mac)."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/tickets.php:31
+msgid "Download System Info"
+msgstr "Lataa System Info"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/faqs.php:5
+msgid "Q1."
+msgstr "Q1."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/faqs.php:6
+msgid "Can I hide the “Add to Cart” button on the product page?"
+msgstr "Voinko piilottaa \"Lisää Ostoskoriin\" - painiketta tuotteen sivulle?"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/faqs.php:11
+msgid ""
+"Yes, You can easily hide the ‘Add to Cart’ button on the product page as "
+"well as the shop page."
+msgstr ""
+"Kyllä, Voit helposti piilottaa \"Lisää Koriin\" - painiketta tuotteen "
+"sivulle sekä kauppa-sivu."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/faqs.php:17
+msgid "Q2."
+msgstr "Q2."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/faqs.php:18
+msgid "Can I hide the price of the products?"
+msgstr "Voin piilottaa tuotteiden hinta?"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/faqs.php:25
+msgid "Yes, You can hide the price of a particular product."
+msgstr "Kyllä, Voit piilottaa hinta tietyn tuotteen."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/faqs.php:35
+msgid "Q3."
+msgstr "Q3."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/faqs.php:38
+msgid "Can I customize my quote list page?"
+msgstr "Voin muokata my lainaus luettelosta sivu?"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/faqs.php:48
+msgid ""
+"Yes, ELEX Request a Quote plugin allows you to customize & enhance your "
+"frontend quote list page."
+msgstr ""
+"Kyllä, ELEX pyydä Tarjous plugin avulla voit muokata ja parantaa "
+"käyttöliittymää lainaus luettelosta."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/faqs.php:59
+msgid "Q4."
+msgstr "Q4."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/faqs.php:62
+msgid "Does this plugin have the option to customize the Email templates?"
+msgstr "Ei tämä plugin on mahdollisuus muokata Email malleja?"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/faqs.php:71
+msgid ""
+"Yes, this plugin gives you the option to select from the predefined template "
+"or customize & create your own email template."
+msgstr ""
+"Kyllä, tämä plugin antaa sinulle mahdollisuuden valita ennalta määritetyn "
+"mallin tai muokata ja luoda omia email template."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/faqs.php:82
+msgid "Q5."
+msgstr "Q5."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/faqs.php:83
+msgid ""
+"Can I restrict guest/ unregistered users from adding products into the Quote "
+"List and redirect them to the login or sign up page?"
+msgstr ""
+"Voinko rajoittaa vieraiden/ rekisteröimättömät käyttäjät voivat lisätä "
+"tuotteita Lainaus Luettelosta ja ohjata heitä kirjaudu tai rekisteröidy "
+"sivun?"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/faqs.php:90
+msgid ""
+"Yes, this option is available in the plugin settings. We have a separate "
+"option for this where you can enable and redirect the guest/unregistered "
+"users to create an account or sign in to request a quote"
+msgstr ""
+"Kyllä, tämä vaihtoehto on saatavilla plugin asetukset. Meillä on erillinen "
+"vaihtoehto tämä on, jossa voit ottaa käyttöön ja ohjata "
+"vieras/rekisteröimättömät käyttäjät voivat luoda tilin tai kirjaudu sisään "
+"pyydä tarjous"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/quote/quote_list_main.php:5
+msgid "Powered by ELEX Request a Quote "
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/quote/view_quote_list.php:9
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/mini_quote_list/render_mini_quote_list.js:58
+msgid "View Quote List"
+msgstr "Näytä Lainaus Lista"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/button/add_to_quote.php:21
+msgid "Clear List Button Label"
+msgstr "Tyhjennä Luettelo-Painiketta Tarra"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/button/add_to_quote.php:24
+msgid "Enter custom label text for 'Clear List' Button"
+msgstr "Kirjoita mukautetun tarran teksti 'Tyhjennä Luettelo-Painiketta"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/button/add_to_quote.php:53
+msgid "Send Request Button Label"
+msgstr "Lähetä Pyyntö-Painiketta Tarra"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/button/add_to_quote.php:56
+msgid "Enter custom label text for 'Send Request' Button"
+msgstr "Kirjoita mukautetun tarran teksti 'Lähetä Pyyntö-Painiketta"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/button/add_to_quote.php:84
+msgid "Update List Button Label"
+msgstr "Päivitä Luettelo-Painiketta Etiketti"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/button/add_to_quote.php:87
+msgid "Enter custom label text for 'Update List' Button"
+msgstr "Kirjoita mukautetun tarran teksti 'Update List' - Painiketta"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/button/add_to_quote.php:115
+msgid "View Quote List Button Label"
+msgstr "Näytä Lainaus Luettelo-Painiketta Tarra"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/button/add_to_quote.php:118
+msgid "Enter custom label text for 'View Quote List' Button"
+msgstr "Kirjoita mukautetun tarran teksti 'Näytä Lainaus Lista' - Nappia"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/button/add_to_quote.php:144
+msgid "Button Color"
+msgstr "Painike Väri"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/button/add_to_quote.php:148
+msgid "Border"
+msgstr "Raja"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/button/add_to_quote.php:159
+msgid "Background"
+msgstr "Tausta"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/button/add_to_quote.php:169
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:273
+msgid "Text"
+msgstr "Teksti"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/button/add_to_quote.php:179
+msgid "Preview"
+msgstr "Esikatselu"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/button/add_to_quote.php:180
+#: ../../../../../../../projects/elex-request-a-quote/view/button/add_to_quote.php:223
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/widget.php:126
+msgid "Button Label"
+msgstr "Painiketta Tarra"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/button/add_to_quote.php:185
+#: ../../../../../../../projects/elex-request-a-quote/view/button/add_to_quote.php:197
+#: ../../../../../../../projects/elex-request-a-quote/view/button/add_to_quote.php:209
+msgid "On hover"
+msgstr "Hover"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:10
+msgid "Select \"Quote List\" Page"
+msgstr "Valitse \"Lainaus List\" Sivu"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:12
+msgid "Select the WooCommerce page where you want to display the quote list."
+msgstr "Valitse WooCommerce sivulle, jossa haluat näyttää lainaus luettelosta."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:45
+msgid "Quote List Page Title"
+msgstr "Lainaus Luettelossa Sivun Otsikko"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:47
+msgid "Enter the title on the quote list page."
+msgstr "Kirjoita otsikko on lainaus luettelo-sivulla."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:75
+msgid "\"Quote List\" Page Layout"
+msgstr "\"Lainaus Lista\" Page Layout"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:95
+msgid "Product list on the left & form on the right"
+msgstr "Tuote vasemmalla olevasta luettelosta & form oikealla"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:114
+msgid "Product list on the top & form on the bottom"
+msgstr "Tuotteen listan top & form pohjassa"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:125
+msgid "Choose What to Show If List is Empty"
+msgstr "Valita, Mitä Näyttää, Jos Luettelo on Tyhjä"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:139
+msgid "Illustration"
+msgstr "Kuva"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:146
+msgid "Empty Text"
+msgstr "Tyhjä Teksti"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:154
+msgid "\"Go to Shop Page\" button\""
+msgstr "\"Mene Kauppa Sivu\" - painiketta\""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:162
+msgid "Quote a Request Form"
+msgstr "Lainaus Lomake"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:175
+msgid "Contents to Show in Product Table"
+msgstr "Sisältö Näyttää Tuote-Taulukko"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:189
+msgid "Product Image"
+msgstr "Tuotteen Kuva"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:194
+msgid "Product Price"
+msgstr "Tuotteen Hinta"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:200
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/quote_list/quote_list_content.js:64
+msgid "Quantity"
+msgstr "Määrä"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:205
+msgid "Each Product Subtotal"
+msgstr "Jokainen Tuote Välisumma"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:210
+msgid "Product SKU"
+msgstr "Tuotteen SKU"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:215
+msgid "Taxes"
+msgstr "Verot"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:225
+msgid "Accept Preferred Price from Customer"
+msgstr "Hyväksy Edullinen Hinta Asiakkaalta"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:233
+msgid "Toggle On to accept the Preferred Price from Customer. "
+msgstr "Ota käyttöön, jos haluat hyväksyä ensisijaisen hinnan asiakkaalta."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:264
+msgid "Show \"Powered by ELEX Request a Quote\""
+msgstr "Näyttää \"Powered by ELEX pyydä Tarjous\""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:265
+msgid ""
+"Turn On or Off if you want to show or hide the ELEXtensions watermark on the "
+"quote list page."
+msgstr ""
+"Kytke Päälle tai Pois päältä, jos haluat näyttää tai piilottaa ELEXtensions "
+"vesileima lainaus luettelosta."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:288
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:299
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/general.php:121
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/google_chat.php:84
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/sms.php:179
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:368
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:1208
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/widget.php:195
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:982
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:698
+msgid "Save Changes"
+msgstr "Tallenna Muutokset"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:13
+msgid "Show \"Update List\" Button"
+msgstr "Näyttää \"Update List\" - Painiketta"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:15
+msgid ""
+"Turn On/Off if you want to show/hide update list button on the quote list "
+"page."
+msgstr ""
+"Päälle/Pois jos haluat näyttää/piilottaa päivitä luettelo-painiketta lainaus "
+"luettelosta."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:43
+msgid "Show \"Clear List\" Button"
+msgstr "Näytä \"Clear List\" - Painiketta"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:45
+msgid ""
+"Turn On/Off if you want to show/hide the clear list button on the quote list "
+"page."
+msgstr ""
+"Päälle/Pois jos haluat näyttää/piilottaa tyhjennä luettelo-painiketta "
+"lainaus luettelosta."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:76
+msgid "Add more Items Button"
+msgstr "Lisää Kohteita-Painiketta"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:79
+msgid ""
+"Turn On/Off if you want to show/hide add more items button on the quote list "
+"page."
+msgstr ""
+"Päälle/Pois jos haluat näyttää/piilottaa lisää kohteita-painiketta lainaus "
+"luettelosta."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:110
+msgid "Add more Items Button Label"
+msgstr "Lisää Kohteita-Painiketta Etiketti"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:112
+msgid ""
+"Enter the label text for 'Add more items' button on the quote list page."
+msgstr "Kirjoita tarran teksti 'Lisää kohteita-painiketta lainaus luettelosta."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:141
+msgid "Add More Items Button Redirect Page"
+msgstr "Lisää Kohteita-Painiketta Uudelleenohjaussivu"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:143
+msgid ""
+"Select the page where you want the customer to be redirected to upon "
+"clicking the add more items button"
+msgstr ""
+"Valitse sivu, johon haluat asiakas ohjataan, kun klikkaamalla lisää kohteita-"
+"painiketta"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:176
+msgid ""
+"If there is No Activity on Quote by Customer, Send Reminder Email in Every"
+msgstr ""
+"Jos Ei ole Toimintaa Lainaus Asiakas, Lähettää Muistutuksen Sähköpostitse "
+"Jokainen"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:184
+msgid ""
+"Set the number of days for sending a reminder email to the customer. Leave "
+"blank to skip automatic reminders."
+msgstr ""
+"Aseta määrä päivää maksumuistutuksen lähettämisestä sähköpostitse "
+"asiakkaalle. Jätä tyhjäksi, jos haluat ohittaa automaattisen muistutuksia."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:211
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:53
+msgid "Days"
+msgstr "Päivää"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:219
+msgid "Trials"
+msgstr "Tutkimuksissa"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:229
+msgid "Allow Customer to Send Counter Proposal"
+msgstr "Salli Asiakkaiden Lähettää vastaehdotuksen"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:237
+msgid "Turn on if you want to allow customer to send Counter Proposal."
+msgstr "Käynnistä, jos haluat, että asiakas lähettää vastaehdotuksen."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:265
+msgid "Allow Customer to Download PDF"
+msgstr "Anna Asiakkaan Lataa PDF"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:274
+msgid "Turn on if you want to allow customer to download PDF."
+msgstr "Käynnistä, jos haluat sallia asiakkaan lataa PDF."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/form_settings.php:15
+msgid "Updated Successfully."
+msgstr "Päivitetty Onnistuneesti."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/form_settings.php:38
+msgid "Deleted Successfully."
+msgstr "Poistettu Onnistuneesti."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/form_settings.php:59
+msgid "Saved Successfully"
+msgstr "Tallennettu Onnistuneesti"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/form_settings.php:80
+msgid "Field with same name Already Exist"
+msgstr "Kentän sama nimi on Jo Olemassa"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/form_settings.php:100
+msgid "Enter 2 or more values for the selected input type."
+msgstr "Anna 2 tai enemmän arvoja valitun input type."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/general.php:16
+msgid "Notifications Email Address"
+msgstr "Ilmoitukset Sähköposti-Osoite"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/general.php:19
+msgid ""
+"Enter the email addresses to receive a notification when the customer places "
+"a quote request. By default, the administrator email id is taken to get a "
+"notification. Multiple email ids should be separated by commas."
+msgstr ""
+"Kirjoita sähköpostiosoitteesi saada ilmoituksen, kun asiakas asettaa "
+"tarjouspyyntö. Oletuksena administrator email id on otettu, jos haluat saada "
+"ilmoituksen. Useita sähköpostiosoitteita olisi pilkulla erotettuna."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/general.php:44
+msgid "Select Order Statuses To Notify Customers"
+msgstr "Valitse Järjestyksessä Statukset Ilmoittaa Asiakkaille"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/general.php:46
+msgid ""
+"Select the order statuses for which customers should receive an email "
+"notification."
+msgstr ""
+"Valitse tilauksen tilat, joista asiakkaat saavat sähköposti-ilmoituksen."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/general.php:69
+msgid ""
+"Quote Requested\n"
+"                                        "
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/general.php:79
+msgid ""
+"Quote Approved\n"
+"                                        "
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/general.php:95
+msgid "Debug Log"
+msgstr "Virheenkorjauslokin"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/general.php:97
+msgid ""
+"Find email, sms and google chat logs here (wp-content\\uploads\\wc-logs)."
+msgstr ""
+"Etsi sähköposti -, tekstiviesti-ja google chat lokit täällä (wp-"
+"content\\kuvat\\wc-lokit)."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/google_chat.php:14
+msgid "Google Chat Notification"
+msgstr "Google Chat Ilmoitus"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/google_chat.php:17
+msgid ""
+"Enable to receive Google Chat notification when the customer makes a quote "
+"request."
+msgstr ""
+"Jotta saada Google Chat ilmoituksen, kun asiakas tekee tarjouksen pyynnöstä."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/google_chat.php:51
+msgid "Webhook URL"
+msgstr "Webhook URL"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/google_chat.php:53
+msgid ""
+"Enter the Google Chat Webhook URL. You can find this URL on your google chat "
+"window."
+msgstr ""
+"Kirjoita Google Chat Webhook URL-osoite. Voit löytää tämän URL-osoitteen "
+"google chat-ikkuna."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/sms.php:13
+msgid "SMS Notification"
+msgstr "TEKSTIVIESTI-Ilmoituksen"
+
+#. %s: URL to create Twilio account.
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/sms.php:32
+#, php-format
+msgid ""
+"Enable to receive SMS notification when the customer makes a quote request. "
+"Sign up for a new Twilio account %s."
+msgstr ""
+"Jotta saada TEKSTIVIESTI-ilmoituksen, kun asiakas tekee tarjouksen pyynnöstä."
+" Rekisteröidy uusi Twilio tilin, %s."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/sms.php:45
+msgid "Twilio SID"
+msgstr "Twilio SID"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/sms.php:47
+msgid "Enter Your Twilio SID"
+msgstr "Kirjoita Twilio SID"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/sms.php:77
+msgid "Twilio Token"
+msgstr "Twilio Token"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/sms.php:79
+msgid "Enter Your Twilio Token"
+msgstr "Kirjoita Twilio Token"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/sms.php:111
+msgid "Twilio Mobile Number"
+msgstr "Twilio Matkapuhelinnumero"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/sms.php:113
+msgid ""
+"Enter the mobile number where you want to get a notification when the "
+"customer places a quote request"
+msgstr ""
+"Kirjoita matkapuhelinnumero, johon haluat saada ilmoituksen, kun asiakas "
+"asettaa tarjouspyyntö"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/sms.php:145
+msgid "Notification Mobile Number"
+msgstr "Ilmoitus Matkapuhelinnumero"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/sms.php:147
+msgid "Enter Your Twilio mobile Number"
+msgstr "Kirjoita Twilio matkapuhelinnumero"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:19
+msgid "Hide Price"
+msgstr "Piilota Hinta"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:21
+msgid ""
+"Enabling the Hide Price will automatically enable the Hide Add to Cart "
+"button on the Shop page and the Product Page."
+msgstr ""
+"Mahdollistaa Piilottaa Hinta automaattisesti, jotta Piilottaa Lisää "
+"Ostoskoriin painiketta Kauppa sivu ja Tuotteen Sivulle."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:46
+msgid ""
+"Turn on to hide price in the Product page, Shop Page and Quote List Page."
+msgstr ""
+"Kytke piilottaa hinta Tuotteen sivulta, Kauppa Sivu ja Tarjous Luettelo-"
+"Sivulla."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:61
+msgid "Hide Add to Cart Button on Shop Page"
+msgstr "Piilottaa Lisää Ostoskoriin Painiketta Kauppa Sivu"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:74
+msgid "Turn on to hide the add to cart button on the shop page."
+msgstr "Kytke piilottaa lisää ostoskoriin painiketta shop sivulla."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:89
+msgid "Hide Add to Cart Button on Product Page"
+msgstr "Piilottaa Lisää Ostoskoriin-Painiketta Tuotteen Sivulta"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:99
+msgid "Turn on to hide the add to cart button on the product page."
+msgstr "Kytke piilottaa lisää ostoskoriin painiketta tuotesivulla."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:117
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:495
+msgid "Include Products"
+msgstr "Sisältävät Tuotteet"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:133
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:170
+msgid ""
+"Turn on & Select the Products for which the above settings should not be "
+"applied"
+msgstr ""
+"Kytke päälle ja Valitse Tuotteet, jotka edellä mainitut asetukset pitäisi "
+"soveltaa"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:154
+msgid "Exclude Products"
+msgstr "Sulje Pois Tuotteita"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:182
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:748
+msgid "Exclude Products By Category"
+msgstr "Sulje Pois Tuotteita Luokittain"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:184
+msgid ""
+"Select the product categories that you want to exclude from the above "
+"applied settings"
+msgstr ""
+"Valitse tuote luokkia, jotka haluat jättää pois edellä soveltaa asetukset"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:228
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:792
+msgid "Exclude Products By Name"
+msgstr "Sulje Pois Tuotteita Nimen"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:230
+msgid ""
+"Select the product names that you want to exclude from the above applied "
+"settings"
+msgstr ""
+"Valitse tuotteen nimet, jotka haluat jättää pois edellä soveltaa asetukset"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:275
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:834
+msgid "Exclude Products By Tags"
+msgstr "Sulje Pois Tuotteita, Tunnisteet"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:277
+msgid ""
+"Select the product tags that you want to exclude from the above applied "
+"settings"
+msgstr ""
+"Valitse tuotteen luokka, että haluat jättää pois edellä soveltaa asetukset"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:328
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:885
+msgid "Role Based Filter"
+msgstr "Rooli Perustuu Filter"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:347
+msgid ""
+"Select the roles for which the above settings should be\n"
+"                                        applied/not."
+msgstr ""
+"Valitse roolit, joista edellä mainitut asetukset olisi sovellettava/ei."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:16
+msgid "Quote Expires in"
+msgstr "Lainaus Päättyy"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:25
+msgid ""
+"Set the number of days after the quote request date for the quote to expire. "
+"Leave blank if the quote should not expire."
+msgstr ""
+"Aseta määrä päivää sen jälkeen, kun tarjouspyyntö päivämäärä lainaus päättyy."
+" Jätä tyhjäksi, jos lainaus ei vanhene."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:65
+msgid "Accepted Payment Gateways"
+msgstr "Hyväksytty Maksu Yhdyskäytäviä"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:73
+msgid ""
+"Select the store payment methods to display during checkout. Leave blank to "
+"show all payment methods."
+msgstr ""
+"Valitse myymälä maksutavat näyttää kassalla. Jätä tyhjäksi, jos haluat "
+"näyttää kaikki maksutavat."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:117
+msgid "Quote Button on Shop Page"
+msgstr "Lainaus-Painiketta Kauppa Sivu"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:119
+msgid "Toggle On or Off to display the Add to Quote button on the shop page"
+msgstr ""
+"Kytkeä Päälle tai Pois päältä näytä Lisää Lainaus-painiketta shop sivulla"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:150
+msgid "Quote Button on Product Page"
+msgstr "Lainaus-Painiketta Tuotteen Sivulta"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:153
+msgid ""
+"Toggle On or Off the display of the Add to Quote button on the product page"
+msgstr ""
+"Kytkeä Päälle tai Pois päältä näytön Lisää Lainaus-painiketta tuotteen "
+"sivulta"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:183
+msgid "Add to Quote Button Position on Product Page"
+msgstr "Lisää Lainaus-Painiketta Asentoon Tuotteen Sivulta"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:190
+msgid "Button position may vary depending on the theme."
+msgstr "Painikkeen sijainti voi vaihdella riippuen teema."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:213
+msgid "Inline with Add to Cart"
+msgstr "Inline kanssa Lisää Ostoskoriin"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:220
+msgid "Below Add to Cart"
+msgstr "Alla Lisää Ostoskoriin"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:230
+msgid "Quote Button on Cart Page"
+msgstr "Lainaus-Painiketta Cart Sivulla"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:238
+msgid ""
+"Enable or disable the \"Add to Quote\" button on the Cart page. When enabled,"
+" this button will appear on the Cart page. Customers can click the \"Add to "
+"Quote\" button to automatically add the products in their cart to a quote "
+"list page."
+msgstr ""
+"Ottaa käyttöön tai poistaa \"Lisää Lainaus\" - painiketta Cart sivulla. Kun "
+"käytössä, tämä painike tulee näkyviin Ostoskoriin sivulla. Asiakkaat voivat "
+"klikkaa \"Lisää Lainaus\" - painiketta automaattisesti lisätä tuotteita "
+"niiden ostoskoriin lainaus luettelosta."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:266
+msgid "Quote Button Configurations"
+msgstr "Lainaus-Painiketta Kokoonpanoissa"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:272
+msgid "Open Quote Form"
+msgstr "Avoin Tarjouspyyntö"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:275
+msgid "Select how you want to show the quote list to your user."
+msgstr "Valitse, kuinka haluat näyttää lainaus lista käyttäjän."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:298
+msgid "In a New Page"
+msgstr "Uuden Sivun"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:301
+msgid "In a Light Box"
+msgstr "Kevyt Laatikko"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:313
+msgid "Add to Quote Success Alert Message"
+msgstr "Lisää Lainaus Menestys varoitusviestin"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:317
+msgid ""
+"Enter the alert message to display on successful addition of the product to "
+"the quote list."
+msgstr ""
+"Enter hälytys viesti näyttää onnistuneen lisäksi tuotteen lainaus "
+"luettelosta."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:340
+#: ../../../../../../../projects/elex-request-a-quote/src/Settings/SettingsController.php:397
+#: ../../../../../../../projects/elex-request-a-quote/src/Settings/Models/GeneralSettings.php:92
+msgid "Product successfully added to the Quote List"
+msgstr "Tuote onnistuneesti lisätty Lainaus Lista"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:352
+msgid "Add to Quote Button Behaviour"
+msgstr "Lisää Lainaus-Painiketta Käyttäytymistä"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:361
+msgid ""
+"Select \"Redirect to the Quote List Page\" to enable automatic redirection "
+"to the Quote List Page upon clicking the \"Add to Quote\" button."
+msgstr ""
+"Valitse \"Redirect Lainaus Lista-Sivun\" ota käyttöön automaattinen "
+"uudelleenohjaus Lainaus Luettelosta Sivu, kun klikkaamalla \"Lisää Lainaus\" "
+"- painiketta."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:384
+msgid "Redirect to the Quote List Page"
+msgstr "Ohjata Lainaus Luettelosta Sivu"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:387
+msgid "Stay on the Shop/Product page"
+msgstr "Pysy Shop/Tuote sivu"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:396
+msgid "Quote Button Customization"
+msgstr "Lainaus-Painiketta Räätälöinnin"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:400
+msgid "Quote Button Label"
+msgstr "Lainaus-Painiketta Etiketti"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:402
+msgid "Enter a custom label text for the request a quote button"
+msgstr "Kirjoita mukautetun tarran teksti pyydä tarjous-painiketta"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:432
+msgid "Default Button Color"
+msgstr "Oletuksena Painike Väri"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:434
+msgid "Choose the default color for the buttons."
+msgstr "Valitse oletus väri painikkeita."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:471
+msgid "Filter Products"
+msgstr "Filter Tuotteet"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:477
+msgid ""
+"The quote button will be added to all the products by\n"
+"                default. If you want to include\n"
+"                or exclude certain products, use the filter options given "
+"below."
+msgstr ""
+"Lainaus-painiketta lisätään kaikki tuotteet oletuksena. Jos haluat "
+"sisällyttää tai jättää pois tiettyjä tuotteita, käytä suodatin vaihtoehtoja "
+"alla."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:513
+msgid ""
+"Select the products for which request a quote settings should\n"
+"                                        be applied. Rest of the products "
+"will be excluded\n"
+"                                        automatically."
+msgstr ""
+"Valitse tuotteita, joiden pyydä tarjous asetukset olisi sovellettava. Loput "
+"tuotteet suljetaan automaattisesti."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:535
+msgid "Include Products By Category"
+msgstr "Sisältävät Tuotteet Luokittain"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:537
+msgid ""
+"Select the products categories for which you want to display the request a "
+"quote button"
+msgstr "Valitse luokat, jotka haluat näyttää pyydä tarjous-painiketta"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:591
+msgid "Include Products By Name"
+msgstr "Sisältävät Tuotteet Nimi"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:594
+msgid ""
+"Select the products names for which you want to display the request a quote "
+"button"
+msgstr ""
+"Valitse tuotteet, nimet, joille haluat näyttää pyydä tarjous-painiketta"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:646
+msgid "Include Products By Tags"
+msgstr "Sisältää Tuotteiden Tunnisteet"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:649
+msgid ""
+"Select the products tags for which you want to display the request a quote "
+"button"
+msgstr ""
+"Valitse tuotteet, luokka, josta haluat näyttää pyydä tarjous-painiketta"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:705
+msgid "Exclude Product"
+msgstr "Sulje Pois Tuotteen"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:727
+msgid ""
+"Select the products for which request a quote settings should\n"
+"                                        not be applied."
+msgstr "Valitse tuotteita, joiden pyydä tarjous asetukset pitäisi soveltaa."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:750
+msgid ""
+"Select the products categories for which you don't want to display the "
+"request a quote button"
+msgstr ""
+"Valitse tuotteita, luokat, joita et halua näyttää pyydä tarjous-painiketta"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:795
+msgid ""
+"Select the individual product names for which you don't want to display the "
+"request a quote button"
+msgstr ""
+"Valitse yksittäisen tuotteen nimet, joita et halua näyttää pyydä tarjous-"
+"painiketta"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:837
+msgid ""
+"Select the products tags for which you don't want to display the request a "
+"quote button"
+msgstr ""
+"Valitse tuotteet-tunnisteita, joita et halua näyttää pyydä tarjous-painiketta"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:907
+msgid ""
+"Select the roles for which request a quote settings should be\n"
+"                                        applied/not."
+msgstr ""
+"Valitse roolit, joiden pyydä tarjous asetuksia pitäisi voida soveltaa/ei."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:928
+msgid "Include Roles"
+msgstr "Kuuluvat Tehtävät"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:930
+msgid ""
+"Select the user roles for which you want to display the request a quote "
+"button"
+msgstr "Valitse käyttäjä roolit, jotka haluat näyttää pyydä tarjous-painiketta"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:973
+msgid "Exclude Roles"
+msgstr "Jättää Roolit"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:975
+msgid ""
+"Select the user roles for which you don't want to display the request a "
+"quote button"
+msgstr ""
+"Valitse käyttäjä roolit, joita et halua näyttää pyydä tarjous-painiketta"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:1023
+msgid "Disable Quote Request for Unregistered Users"
+msgstr "Poistaa tarjouspyyntö Rekisteröimättömille Käyttäjille"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:1042
+msgid ""
+"By enabling this option guest users can be redirected to the\n"
+"                                        My Account page for registration."
+msgstr ""
+"Ottamalla käyttöön tämän vaihtoehdon vieras käyttäjät voidaan ohjata Oma "
+"Tili-sivulla rekisteröintiä."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:1064
+msgid "Include/Exclude products based on stock"
+msgstr "Mukaan/Pois tuotteita, jotka perustuvat varastossa"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:1072
+msgid ""
+"Select an option to determine how you want to display the add to quote "
+"button based on the product availablity"
+msgstr ""
+"Valitse vaihtoehto, joka määrittää, miten haluat näyttää lisää lainaus-"
+"painiketta, joka perustuu tuotteen availablity"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:1097
+msgid "Show Add to Quote Button for all the products"
+msgstr "Näytä Lisää Lainaus-Painiketta kaikki tuotteet"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:1102
+msgid "Hide Add to Quote button for Out of Stock products"
+msgstr "Piilota Lisää ostoehdotukseen-painiketta Out of Stock-tuotteita"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:1108
+msgid ""
+"Show Add to Quote button only for Out of Stock\n"
+"                                        products"
+msgstr "Näytä Lisää Lainaus-painiketta vain Varastossa tuotteita"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:1126
+msgid "Third Party API key"
+msgstr "Kolmannen Osapuolen API-avain"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:1133
+msgid ""
+"In case you want to get quote requests/orders via third party plugins, Turn "
+"On the below\n"
+"\t\t\t\t\tfunctionality & get the API Key."
+msgstr ""
+"Jos haluat saada tarjouspyyntöjä/tilauksia kautta kolmannen osapuolen "
+"plugins, Kytke alle toiminnallisuutta ja saada API-Avain."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:1150
+msgid "Third Party Usage"
+msgstr "Kolmannen Osapuolen Käyttö"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:1163
+msgid "Turn this ON, to get the API Key."
+msgstr "Tämän PÄÄLLE, saada API-Avain."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:1170
+msgid "Rest API Key"
+msgstr "Rest API Avain"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:1179
+msgid "Copy API Key"
+msgstr "Kopioi API-Avain"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:1222
+msgid "Copied Successfully!"
+msgstr "Kopioitu Onnistuneesti!"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:1239
+msgid "Error copying text"
+msgstr "Virhe kopioitaessa tekstiä"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/widget.php:11
+msgid "Show Quote List Icon"
+msgstr "Näytä Lainaus Lista Kuvake"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/widget.php:31
+msgid "Quote List Color On Hover"
+msgstr "Lainaus Luettelosta Väri Hääriä"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/widget.php:33
+msgid "Select the color of the widget when a customer hovers over it."
+msgstr "Valitse väri widget kun asiakas leijuu se."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/widget.php:61
+msgid "Quote List Icon Type"
+msgstr "Lainaus Lista Kuvake Tyyppi"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/widget.php:63
+msgid ""
+"You may face compatibility issues with specific themes when Fixed icon type "
+"is chosen."
+msgstr ""
+"Saatat kohdata yhteensopivuusongelmia, joilla on erityisiä teemoja, kun "
+"Kiinteä kuvake tyyppi on valittu."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/widget.php:81
+msgid "Float"
+msgstr "Float"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/widget.php:82
+msgid "Fixed"
+msgstr "Kiinteä"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/widget.php:93
+msgid "Show Button Label Next to Icon"
+msgstr "Näytä-Painiketta Etiketti Vieressä Kuvake"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/widget.php:128
+msgid "Please enter the text that you would like to display as a button label."
+msgstr "Kirjoita teksti, jonka haluat näyttää kuin painiketta etiketti."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/widget.php:163
+msgid "Show List Pop Up on Hover"
+msgstr "Näytä Lista Pop Up Hääriä"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/widget.php:165
+msgid ""
+"Turn it on or off if you want to display or hide the list of products in the "
+"quote list by hovering over the quote list widget."
+msgstr ""
+"Kytke se päälle tai pois päältä, jos haluat näyttää tai piilottaa luettelon "
+"tuotteita lainaus luettelon leijuu lainaus luettelosta widget."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:9
+msgid ""
+"You can configure your email and sms/chat template here,\n"
+"                Make use of placeholders to\n"
+"                fill the fields dynamically."
+msgstr ""
+"Voit määrittää sähköposti-ja sms/chat-malli täällä, käyttää paikkamerkkejä "
+"täyttää kenttiä dynaamisesti."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:18
+msgid ""
+"Please note that placeholders can be applied only to\n"
+"                the\n"
+"                email and chat/sms body."
+msgstr ""
+"Huomaa, että paikkamerkkejä voidaan soveltaa vain sähköposti ja chat/sms "
+"kehon."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:27
+msgid ""
+"Also note, the @payment_link placeholder can only be\n"
+"                applied to\n"
+"                the email body sent after the quote is approved. You can "
+"also include HTML tags and\n"
+"                inline styles in the email body but the same wont be "
+"applicable to the chat/sms\n"
+"                body."
+msgstr ""
+"Huomaa myös, että @payment_link-paikkamerkki voi olla vain\n"
+"                sovelletaan\n"
+"                sähköpostin tekstiosa, joka lähetetään tarjouksen "
+"hyväksymisen jälkeen. Voit myös lisätä HTML-tunnisteita ja\n"
+"                tekstin sisäisiä tyylejä sähköpostin rungossa, mutta sama ei "
+"päde chattiin/tekstiviestiin\n"
+"                kehon."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:48
+msgid "Use Predefined Email Templates"
+msgstr "Käytä Ennalta Email Malleja"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:56
+msgid ""
+"Enable this option to use predefined email templates within the plugin. You "
+"can configure the email content below."
+msgstr ""
+"Jotta tämä vaihtoehto, jos haluat käyttää ennalta email malleja sisällä "
+"plugin. Voit määrittää sähköpostin sisällön alla."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:90
+msgid "Email Template"
+msgstr "Sähköpostimalli"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:107
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:134
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:154
+msgid "Preview Template"
+msgstr "Esikatselu Malli"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:124
+msgid ""
+"Rectangle Logo\n"
+"\t\t\t\t\t\t\t\t\t\t\tTemplate"
+msgstr "Suorakulmion Logo Malli"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:150
+msgid "Non Logo Template"
+msgstr "Ei Logo Malli"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:166
+msgid "Company Logo"
+msgstr "Yrityksen Logo"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:179
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form/fields/form.js:135
+msgid "Upload Image"
+msgstr "Lataa Kuva"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:198
+msgid "upload png or jpeg file"
+msgstr "ladata png tai jpeg-tiedosto"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:208
+msgid "Terms and Condition"
+msgstr "Ehdot ja Kunto"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:210
+msgid ""
+"Enable this option if you wish to include the terms and conditions in the "
+"email template."
+msgstr "Salli tämä vaihtoehto, jos haluat sisällyttää ehtoja sähköpostimalli."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:242
+msgid "Terms and Condition Content"
+msgstr "Ehdot ja Kunto-Sisältöä"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:257
+msgid "Quote Request Email Template: Sent to the Site Administrator"
+msgstr "Tarjouspyyntö Email Template: Lähetetty Sivuston Ylläpitäjä"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:264
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:382
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:494
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:607
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:726
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:840
+msgid "Email Subject"
+msgstr "Sähköpostin Aihe"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:266
+msgid ""
+"Enter the subject for the email sent to the administrator when a quote is "
+"received."
+msgstr ""
+"Kirjoita sähköpostin aihe lähetetään ylläpitäjälle, kun tarjous on "
+"vastaanotettu."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:300
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:417
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:529
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:642
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:760
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:874
+msgid "Email Heading"
+msgstr "Sähköpostin Otsikko"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:302
+msgid ""
+"Enter the heading for the email sent to the administrator when a quote is "
+"received."
+msgstr ""
+"Kirjoita otsikko sähköposti lähetetään ylläpitäjälle, kun tarjous on "
+"vastaanotettu."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:336
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:453
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:565
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:678
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:794
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:908
+msgid "Email Body"
+msgstr "Sähköposti Elin"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:338
+msgid ""
+"Enter the body for the email sent to the administrator when a quote is "
+"received."
+msgstr ""
+"Anna kehon sähköposti lähetetään ylläpitäjälle, kun tarjous on vastaanotettu."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:375
+msgid "Quote Requested Email Template: Sent to the Customer"
+msgstr "Lainaus Pyysi sähköpostimalli: Lähetetty Asiakkaalle"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:384
+msgid ""
+"Enter the subject for the email sent to the customer when a quote is "
+"requested."
+msgstr ""
+"Kirjoita sähköpostin aihe lähetetään asiakkaalle, kun tarjous on pyydetty."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:419
+msgid ""
+"Enter the heading for the email sent to the customer when a quote is "
+"requested."
+msgstr ""
+"Kirjoita otsikko sähköpostitse lähetetään asiakkaalle, kun tarjous on "
+"pyydetty."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:455
+msgid ""
+"Enter the body for the email sent to the customer when a quote is requested."
+msgstr ""
+"Anna kehon sähköpostitse lähetetään asiakkaalle, kun tarjous on pyydetty."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:487
+msgid "Quote Approved Email Template: Sent to the Customer"
+msgstr "Lainaus Hyväksytty sähköpostimalli: Lähetetty Asiakkaalle"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:496
+msgid ""
+"Enter the subject for the email sent to the customer when a quote is "
+"accepted by the administrator."
+msgstr ""
+"Kirjoita sähköpostin aihe lähetetään asiakkaalle, kun tarjous on hyväksytty "
+"valvoja."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:531
+msgid ""
+"Enter the heading for the email sent to the customer after the quote request "
+"is accepted by the administrator."
+msgstr ""
+"Kirjoita otsikko sähköposti lähetetään asiakkaalle sen jälkeen, kun "
+"tarjouspyyntö on hyväksytty valvoja."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:567
+msgid ""
+"Enter the body for the email sent to the customer after the quote request is "
+"accepted by the administrator."
+msgstr ""
+"Anna kehon sähköposti lähetetään asiakkaalle sen jälkeen, kun tarjouspyyntö "
+"on hyväksytty valvoja."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:600
+msgid "Quote Rejected Email Template: Sent to the Customer"
+msgstr "Lainaus Hylkäsi sähköpostimalli: Lähetetty Asiakkaalle"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:609
+msgid ""
+"Enter the subject for the email sent to the customer when a quote is "
+"rejected by the administrator."
+msgstr ""
+"Kirjoita sähköpostin aihe lähetetään asiakkaalle, kun tarjous on hylätty "
+"ylläpitäjä."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:644
+msgid ""
+"Enter the heading for the email sent to the customer after the quote request "
+"is rejected by the administrator."
+msgstr ""
+"Kirjoita otsikko sähköposti lähetetään asiakkaalle sen jälkeen, kun "
+"tarjouspyyntö on hylännyt ylläpitäjä."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:680
+msgid ""
+"Enter the body for the email sent to the customer after the quote request is "
+"rejected by the administrator."
+msgstr ""
+"Anna kehon sähköposti lähetetään asiakkaalle sen jälkeen, kun tarjouspyyntö "
+"on hylännyt ylläpitäjä."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:714
+msgid "Reminder Email Template: Sent to the Customer"
+msgstr "Muistutus Sähköposti Malli: Lähetetty Asiakkaalle"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:728
+msgid ""
+"Enter the subject for the email sent to the customer when there is no action "
+"from the customer."
+msgstr ""
+"Kirjoita sähköpostin aihe lähetetään asiakkaalle, kun siellä ei ole "
+"toimintaa asiakkaalta."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:762
+msgid "Enter the heading for the reminder email sent to the customer."
+msgstr "Kirjoita otsikko muistutus sähköposti lähetetään asiakkaalle."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:796
+msgid "Enter the email body for the reminder email sent to the customer."
+msgstr "Kirjoita sähköpostin elin muistutus sähköposti lähetetään asiakkaalle."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:828
+msgid "Negotiation Email Template: Sent to the Customer"
+msgstr "Neuvottelu sähköpostimalli: Lähetetty Asiakkaalle"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:842
+msgid "Enter the subject for the negotiation email sent to the customer."
+msgstr "Kirjoita aihe-neuvotteluja varten sähköposti lähetetään asiakkaalle."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:876
+msgid "Enter the heading for the negotiation email sent to the customer."
+msgstr "Kirjoita otsikko neuvottelujen sähköposti lähetetään asiakkaalle."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:910
+msgid "Enter the email body for the negotiation email sent to the customer."
+msgstr ""
+"Kirjoita sähköpostin elin neuvottelu sähköposti lähetetään asiakkaalle."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:942
+msgid ""
+"Quote Requested SMS / Google Chat Template: Sent to the Site Administrator"
+msgstr ""
+"Lainaus Pyysi SMS / Google Chatissa Mallin: Lähetetty Sivuston Ylläpitäjä"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:949
+msgid "SMS And Google Chat Body"
+msgstr "SMS Ja Google Chat Kehon"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:952
+msgid ""
+"Enter the content for the SMS/google chat notification sent to the "
+"administrator on receiving a quote request. you can enter text or fill the "
+"fields dynamically using placeholders from the above table. HTML tags are "
+"not accepted in this field."
+msgstr ""
+"Kirjoita sisältöä SMS/google chat ilmoitus lähetetään ylläpitäjä saavat "
+"tarjouspyyntö. voit syöttää tekstiä tai täytä kentät dynaamisesti "
+"käyttämällä paikkamerkeillä edellä olevasta taulukosta. HTML-tunnisteita ei "
+"hyväksytä tällä alalla."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:992
+msgid "Title"
+msgstr "Otsikko"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:993
+msgid "Placeholder"
+msgstr "Paikkamerkki"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:998
+msgid "Core Fields"
+msgstr "Core-Kentät"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1003
+msgid "Billing First Name"
+msgstr "Laskutus Etunimi"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1008
+msgid "Billing Last Name"
+msgstr "Laskutus Sukunimi"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1013
+msgid "Billing Company"
+msgstr "Laskutus Yritys"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1018
+msgid "Billing Country"
+msgstr "Laskutusosoite: Maa"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1022
+msgid "Billing Address 1"
+msgstr "Laskutusosoite 1"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1027
+msgid "Billing Address 2"
+msgstr "Laskutusosoite 2"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1031
+msgid "Billing City"
+msgstr "Laskutusosoite: Kaupunki"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1035
+msgid "Billing State"
+msgstr "Laskutusosoite: Osavaltio"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1039
+msgid "Billing Postcode"
+msgstr "Laskutus Postinumero"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1043
+msgid "Billing Phone"
+msgstr "Laskutus Puhelin"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1047
+msgid "Billing Email"
+msgstr "Laskutus Sähköpostitse"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1051
+msgid "Order Items"
+msgstr "Jotta Kohteita"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1055
+msgid "Payment Link"
+msgstr "Maksu-Linkkiä"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1059
+msgid "Customer Note"
+msgstr "Asiakas Huomaa"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1063
+msgid "Order ID"
+msgstr "Jotta ID"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1067
+msgid "Custom Fields"
+msgstr "Mukautettuja Kenttiä"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:89
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:120
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:355
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:452
+msgid "Name and type Can not be empty"
+msgstr "Nimi ja tyyppi Voi olla tyhjä"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:104
+msgid "Field has been rearranged successfully"
+msgstr "Kenttä on muutettu onnistuneesti"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:144
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:340
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:474
+msgid "Enter options for the selcted types"
+msgstr "Anna vaihtoehtoja selcted tyypit"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:158
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:387
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:420
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:491
+msgid "Atleast one option is required"
+msgstr "Ainakin yksi vaihtoehto on pakollinen"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:171
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:400
+msgid "Already exist"
+msgstr "Jo olemassa"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:184
+msgid "Field has been added successfully"
+msgstr "- Kenttä on lisätty onnistuneesti"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:272
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:637
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/Models/FormSettings.php:40
+msgid "Quote Request Form"
+msgstr "Tarjouspyyntö-Lomake"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:275
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:640
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/Models/FormSettings.php:42
+msgid "Your request has been submitted."
+msgstr "Pyyntö on toimitettu."
+
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:303
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/quote_list/success_alert_toast.js:14
+msgid "Saved Successfully."
+msgstr "Tallennettu Onnistuneesti."
+
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:433
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:504
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:543
+msgid "No Field Exist"
+msgstr "Ei Alalla Ole"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:515
+msgid "Field has been edited successfully"
+msgstr "Kenttä on muokattu onnistuneesti"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/ListPageController.php:125
+msgid "Quote List Page"
+msgstr "Lainaus Luettelosta Sivu"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/ListPageController.php:130
+msgid "Additional Options"
+msgstr "Muita Vaihtoehtoja"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/ListPageController.php:135
+msgid "Quote Form"
+msgstr "Lainaus Muodossa"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/ListPageController.php:167
+#: ../../../../../../../projects/elex-request-a-quote/src/Widget/WidgetController.php:37
+#: ../../../../../../../projects/elex-request-a-quote/src/Widget/WidgetController.php:62
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/ListPageSettings.php:28
+#: ../../../../../../../projects/elex-request-a-quote/src/Widget/Models/WidgetModel.php:29
+msgid "Quote List"
+msgstr "Lainaus Lista"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/ListPageController.php:172
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/ListPageSettings.php:37
+msgid "Your Quote List is Empty"
+msgstr "Quote Luettelo on Tyhjä"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/ListPageController.php:208
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/ListPageSettings.php:57
+msgid "Add More Items"
+msgstr "Lisää Kohteita"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/QuoteListController.php:181
+msgid "Your request has been sent successfully"
+msgstr "Pyyntösi on lähetetty onnistuneesti"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Templates/order_items.php:9
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:61
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:69
+msgid "Products"
+msgstr "Tuotteet"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Templates/order_items.php:13
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:62
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:70
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/quote_list/quote_list_content.js:52
+msgid "Price"
+msgstr "Hinta"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Templates/order_items.php:18
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:63
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:71
+msgid "Qty."
+msgstr "Määrä."
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Templates/order_items.php:23
+#: ../../../../../../../projects/elex-request-a-quote/src/Templates/order_items.php:125
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:64
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:117
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:72
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:125
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/squared_logo_template.php:122
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/quote_list/quote_list_content.js:78
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/quote_list/quote_list_content.js:110
+msgid "Subtotal"
+msgstr "Yhteensä"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Templates/order_items.php:133
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:121
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:129
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/squared_logo_template.php:126
+msgid "Fees"
+msgstr "Palkkiot"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Templates/order_items.php:142
+msgid "Discount"
+msgstr "Alennus"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Templates/order_items.php:151
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/quote_list/quote_list_content.js:90
+msgid "Tax"
+msgstr "Vero"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Templates/order_items.php:160
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:125
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:133
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/squared_logo_template.php:130
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/quote_list/quote_list_content.js:129
+msgid "Total"
+msgstr "Yhteensä"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Templates/order_items.php:175
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:143
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:152
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/squared_logo_template.php:148
+msgid "Terms & Conditions"
+msgstr "Ehdot & Edellytykset"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/HelpAndSupport/HelpAndSupportController.php:44
+msgid "FAQs"
+msgstr "Usein kysytyt kysymykset"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/HelpAndSupport/HelpAndSupportController.php:49
+msgid "Raise a Ticket"
+msgstr "Nostaa Lippu"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/ElementorWidget/Eraq_add_to_quote_widget.php:11
+#: ../../../../../../../projects/elex-request-a-quote/src/Settings/SettingsController.php:398
+#: ../../../../../../../projects/elex-request-a-quote/src/Settings/Models/GeneralSettings.php:93
+msgid "Add to Quote"
+msgstr "Lisää Lainaus"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Settings/SettingsController.php:415
+msgid "show_for_all_products"
+msgstr "show_for_all_products"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Settings/SettingsController.php:535
+msgid "General Settings"
+msgstr "Yleiset Asetukset"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Settings/SettingsController.php:540
+msgid "Hide Add to Cart & Price"
+msgstr "Piilottaa Lisää Ostoskoriin ja Hinta"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Settings/SettingsController.php:545
+msgid "Notification Settings"
+msgstr "Ilmoituksen Asetukset"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Settings/SettingsController.php:549
+msgid "Template Settings"
+msgstr "Mallin Asetuksia"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Settings/SettingsController.php:554
+msgid "Quote List Menu"
+msgstr "Lainaus List-Valikosta"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Settings/SettingsController.php:558
+msgid "Button Customization"
+msgstr "Button Räätälöinnin"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Settings/SettingsController.php:562
+msgid "Go Premium!"
+msgstr "Go Premium!"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/Models/FormSettings.php:46
+msgid "First Name"
+msgstr "Ensimmäinen Nimi"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/Models/FormSettings.php:49
+msgid "Add your first name."
+msgstr "Lisää etunimesi."
+
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/Models/FormSettings.php:61
+msgid "Last Name"
+msgstr "Sukunimi"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/Models/FormSettings.php:64
+msgid "Add your last name."
+msgstr "Lisää sukunimesi."
+
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/Models/FormSettings.php:76
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:273
+msgid "Email"
+msgstr "Sähköposti"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/Models/FormSettings.php:79
+msgid "Add your email."
+msgstr "Lisää sähköpostiosoitteesi."
+
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/Models/FormSettings.php:92
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1063
+msgid "Phone"
+msgstr "Puhelin"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/Models/FormSettings.php:95
+msgid "Enter your Phone number"
+msgstr "Anna puhelinnumerosi"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1020
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1069
+msgid "First name"
+msgstr "Ensimmäinen nimi"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1024
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1073
+msgid "Last name"
+msgstr "Sukunimi"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1028
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1077
+msgid "Company"
+msgstr "Yritys"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1032
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1081
+msgid "Address line 1"
+msgstr "Osoite-rivi 1"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1036
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1085
+msgid "Address line 2"
+msgstr "Osoiterivi 2,"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1040
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1089
+msgid "City"
+msgstr "Kaupunki"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1044
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1093
+msgid "Postcode / ZIP"
+msgstr "Postinumero / ZIP"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1048
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1097
+msgid "Country / Region"
+msgstr "Maa / Alue"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1052
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1101
+msgid "Select a country / region&hellip;"
+msgstr "Valitse maa / alue..."
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1055
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1104
+msgid "State / County"
+msgstr "State / County"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1060
+msgid "Email address"
+msgstr "Sähköpostiosoite"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1119
+msgid "Billing"
+msgstr "Laskutus"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1164
+msgid "Shipping"
+msgstr "Toimitus"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1208
+msgid "General"
+msgstr "Yleinen"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1364
+msgid "First name should be a string."
+msgstr "Ensimmäinen nimi pitäisi olla merkkijono."
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1370
+msgid "Last name should be a string."
+msgstr "Viimeinen nimi pitäisi olla merkkijono."
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1375
+msgid "Company name should be a string."
+msgstr "Yrityksen nimi pitäisi olla merkkijono."
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1380
+msgid "Email should be in valid format."
+msgstr "Sähköposti pitäisi olla väärässä muodossa."
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1385
+msgid "Email should be a int of length 10."
+msgstr "Sähköposti pitäisi olla int pituus 10."
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1390
+msgid "Address 1  should be a string."
+msgstr "Osoite 1 pitäisi olla merkkijono."
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1395
+msgid "Address 2  should be a string."
+msgstr "Osoite 2 pitäisi olla merkkijono."
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1400
+msgid "City name  should be a string."
+msgstr "Kaupungin nimi pitäisi olla merkkijono."
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1405
+msgid "state name  should be a string."
+msgstr "valtion nimi pitäisi olla merkkijono."
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1410
+msgid "Postcode  should be a string."
+msgstr "Postinumero pitäisi olla merkkijono."
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1416
+msgid "Country name should be a string."
+msgstr "Maan nimi pitäisi olla merkkijono."
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1421
+msgid "Address array is empty"
+msgstr "Osoite joukko on tyhjä"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1429
+msgid "Custom Fields array is empty"
+msgstr "Custom Kentät joukko on tyhjä"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1443
+msgid "User not found"
+msgstr "Käyttäjä ei löytynyt"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1458
+msgid "Unauthorize Access"
+msgstr "Luvattoman Käytön"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/Models/TemplateModel.php:263
+msgid "Product Name: Price * Quantity = Subtotal"
+msgstr "Tuotteen Nimi: Hinta * Määrä = Yhteensä"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/Models/TemplateModel.php:273
+msgid "Total :"
+msgstr "Yhteensä :"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/Models/TemplateModel.php:353
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:137
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:145
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/squared_logo_template.php:142
+msgid "Accept & Pay"
+msgstr "Hyväksy Ja Maksa"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:7
+msgid "Received a Quote!"
+msgstr "Sai Lainata!"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:21
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:26
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/squared_logo_template.php:23
+msgid "Quote #213"
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:26
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:30
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/squared_logo_template.php:32
+msgid "Issued By: Max Smith"
+msgstr "Antanut: Max Smith"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:29
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:33
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/squared_logo_template.php:35
+msgid "Issued Date: 02-March-2022"
+msgstr "Annettu Päivämäärä: 02-Maaliskuu-2022"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:32
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:36
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/squared_logo_template.php:38
+msgid "Expiry Date: 04-March-2022"
+msgstr "Toimenpiteiden Voimassaolon Päättymistä Päivämäärä: 04-Maaliskuu-2022"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:41
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:49
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/squared_logo_template.php:46
+msgid "Will Miller"
+msgstr "On Miller"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:44
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:52
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/squared_logo_template.php:49
+msgid "Kelly.elliot@gmail.com"
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:47
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:55
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/squared_logo_template.php:52
+msgid "(190)081-0336"
+msgstr "(190)081-0336"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:77
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:97
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:85
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:105
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/squared_logo_template.php:82
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/squared_logo_template.php:102
+msgid "Product Name"
+msgstr "Tuotteen Nimi"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:78
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:98
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:86
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:106
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/squared_logo_template.php:83
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/squared_logo_template.php:103
+msgid "SKU:s123432"
+msgstr "SKU:s123432"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:146
+msgid ""
+"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy "
+"eirmod tempor invidunt\n"
+"                        ut labore et dolore magna aliquyam erat, sed diam "
+"voluptua. At vero eos."
+msgstr ""
+"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy "
+"eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam "
+"voluptua. Osoitteessa vero eos."
+
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:155
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:165
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/squared_logo_template.php:160
+msgid "Powered by ELEX Request a Quote"
+msgstr "Powered by ELEX pyydä Tarjous"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:45
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/squared_logo_template.php:42
+msgid "Customer Details"
+msgstr "Asiakkaan Tiedot"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:156
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/squared_logo_template.php:151
+msgid ""
+"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy "
+"eirmod tempor invidunt\n"
+"\t\t\t\t\t\tut labore et dolore magna aliquyam erat, sed diam voluptua. At "
+"vero eos."
+msgstr ""
+"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy "
+"eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam "
+"voluptua. Osoitteessa vero eos."
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:258
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_setting_header.js:14
+msgid "Form Settings"
+msgstr "Lomakkeen Asetukset"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:269
+msgid "Show Request a Quote Form"
+msgstr "Näytä pyydä Tarjous Lomakkeella"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:284
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:338
+msgid ""
+"Enable this option to create a WordPress user for guest users after they "
+"submit the form."
+msgstr ""
+"Jotta tämä vaihtoehto, jos haluat luoda WordPress käyttäjä, vieras-käyttäjät,"
+" kun he lähetä lomake."
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:296
+msgid "Auto Complete Form"
+msgstr "Automaattinen Täydennys Lomake"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:309
+msgid ""
+"Turn this On to autocomplete request quote form with user account details."
+msgstr ""
+"Tämän Päälle autocomplete request quote muodossa käyttäjän tilin tiedot."
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:321
+msgid "Create WordPress User"
+msgstr "Luoda WordPress Käyttäjä"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:350
+msgid "Enable reCAPTCHA"
+msgstr "Jotta reCAPTCHA"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:367
+msgid ""
+"Enable to activate reCAPTCHA v3 verification for submissions on the 'Request "
+"a Quote' form. "
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:375
+msgid "To use reCAPTCHA, sign up for an "
+msgstr "Jos haluat käyttää reCAPTCHAa, rekisteröidy an"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:380
+msgid "API Key Pair "
+msgstr "API-avainpari"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:382
+msgid "for your site."
+msgstr "sivustosi."
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:395
+msgid "Site Key"
+msgstr "Sivusto Avain"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:397
+msgid "Enter a Valid Site Key"
+msgstr "Kirjoita Voimassa oleva Sivusto Avain"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:408
+msgid "Enter your Site Key"
+msgstr "Kirjoita Sivuston Avain"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:417
+msgid "Secret Key"
+msgstr "Salainen Avain"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:419
+msgid ""
+"Enter a valid secret key. Quotes will not be accepted if entered incorrectly."
+msgstr ""
+"Kirjoita voimassa oleva salainen avain. Lainaa ei hyväksytä, jos tuli väärin."
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:429
+msgid "Enter your Secret key"
+msgstr "Kirjoita Salainen avain"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:441
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_setting_header.js:44
+msgid "Form Header Title"
+msgstr "Lomakkeen Otsikko-Otsikko"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:448
+msgid ""
+"Enter the text you want to display as the header/title of the quote form."
+msgstr ""
+"Kirjoita teksti, jonka haluat näkyvän otsikon/otsikko lainaus muodossa."
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:495
+msgid "Fill Your Details"
+msgstr "Täytä Tietosi"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:507
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_setting_header.js:67
+msgid "Form Submit Actions"
+msgstr "Lomake Toimitettava Toimia"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:517
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_setting_header.js:72
+msgid "\"Send Request\" Button Redirectional URl"
+msgstr "\"Lähetä Pyyntö\" - Painiketta Redirectional URl"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:527
+msgid ""
+"Please provide the page URL that you wish to redirect to, After clicking the "
+"\"Send Request\" button"
+msgstr ""
+"Anna sivun URL-osoite, jonka haluat uudelleenohjata, Jälkeen klikkaamalla "
+"\"Lähetä kysely\" - painiketta"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:583
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_setting_header.js:98
+msgid "\"Send Request\" Success Message"
+msgstr "\"Lähetä Pyyntö\" Menestys Viesti"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:593
+msgid ""
+"Enter the text that you want to display as a message after the successful "
+"submission of the quote request."
+msgstr ""
+"Kirjoita teksti, jonka haluat näkyvän, kun viesti on lähetetty onnistuneesti,"
+" tarjouspyyntö."
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:640
+msgid "Your request has been sent successfully."
+msgstr "Pyyntösi on lähetetty onnistuneesti."
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:650
+msgid "Form Field Settings"
+msgstr "Lomakekentän Asetukset"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:656
+msgid ""
+"When you create custom fields, the placeholder for the email template will "
+"be created based on the label text (For eg: Upload Image will be "
+"@Upload_Image). If you make changes to the label text in the future, please "
+"make sure to use the updated placeholder in the email body. Also, the label "
+"text cannot be modified for orders placed before the change."
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:664
+msgid "Label Name"
+msgstr "Otsikon Nimi"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:665
+msgid "Field Type "
+msgstr "Kentän tyyppi"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:666
+msgid "Placeholder "
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:667
+msgid "Connected To "
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:668
+msgid "Required "
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:669
+msgid "Actions "
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:694
+msgid "Add New Field "
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/toast_message/update_message.js:17
+msgid "Updated Successfully"
+msgstr "Päivitetty Onnistuneesti"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/quote_list/quote_list_content.js:239
+msgid "Update List"
+msgstr "Päivitys Lista"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/quote_list/quote_list_content.js:444
+msgid "Product Detail"
+msgstr "Tuotteen Yksityiskohta"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/quote_list/quote_list_empty.js:29
+msgid "Go to Shop Page"
+msgstr "Mene Kauppa Sivu"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/quote_list/show_clear_list.js:14
+msgid "Clear List"
+msgstr "Tyhjennä Luettelo"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/mini_quote_list/render_mini_quote_list.js:31
+msgid "items in Quote List"
+msgstr "kohteita Lainaus Lista"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_setting_header.js:23
+msgid "Show Request a Quote"
+msgstr "Näytä pyydä Tarjous"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_setting_header.js:35
+msgid ""
+"Turn this Off, if you want to use any third party form to get the quote "
+"requests."
+msgstr ""
+"Kytke tämä Pois päältä, jos et halua käyttää mitään kolmannen osapuolen "
+"muodossa saada tarjouspyyntöjä."
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:273
+msgid "Select a type"
+msgstr "Valitse tyyppi"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:273
+msgid "Textarea"
+msgstr "Textarea"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:273
+msgid "Url"
+msgstr "Url"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:273
+msgid "Image"
+msgstr "Kuva"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:273
+msgid "Checkbox"
+msgstr "Valintaruutu"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:273
+msgid "Date"
+msgstr "Päivämäärä"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:273
+msgid "Number"
+msgstr "Numero"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:273
+msgid "Radio"
+msgstr "Radio"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:273
+msgid "Tel"
+msgstr "Puh"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:304
+msgid "Select Connected To"
+msgstr "Valitse Kytketty"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:304
+msgid "billing_first_name"
+msgstr "billing_first_name"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:304
+msgid "billing_last_name"
+msgstr "billing_last_name"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:304
+msgid "billing_email"
+msgstr "billing_email"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:304
+msgid "billing_company"
+msgstr "billing_company"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:304
+msgid "billing_country"
+msgstr "billing_country"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:304
+msgid "billing_address_1"
+msgstr "billing_address_1"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:304
+msgid "billing_address_2"
+msgstr "billing_address_2"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:304
+msgid "billing_city"
+msgstr "billing_city"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:304
+msgid "billing_state"
+msgstr "billing_state"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:304
+msgid "billing_postcode"
+msgstr "billing_postcode"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:304
+msgid "billing_phone"
+msgstr "billing_phone"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:304
+msgid "order_comments"
+msgstr "order_comments"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:304
+msgid "Custom Field"
+msgstr "Mukautetun Kentän"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:395
+msgid "Enter values and click enter to add more"
+msgstr "Kirjoita arvot ja paina enter lisää"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:396
+msgid "Click Enter to add more"
+msgstr "Klikkaa Enter lisää"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form/fields/form.js:407
+msgid "Send Request"
+msgstr "Lähetä Pyyntö"
+
+#. Name of the plugin
+msgid "ELEX WooCommerce Request a Quote - Basic"
+msgstr "ELEX WooCommerce pyydä Tarjous - Perus"
+
+#. Description of the plugin
+msgid ""
+"Create Request a Quote option for your WooCommerce products. You can also "
+"create and customize request a quote forms to be displayed on the frontend. "
+"The plugin will also send automated email notifications for quote "
+"submissions, approvals, and rejections."
+msgstr ""
+"Luo pyydä Tarjous vaihtoehto WooCommerce tuotteita. Voit myös luoda ja "
+"muokata pyydä tarjous lomakkeet näkyvät frontend. Plugin myös lähettää "
+"automaattisia sähköposti-ilmoituksia lainaus väittää, hyväksynnät ja "
+"hylkäämiset."
+
+#. URI of the plugin
+msgid "https://elextensions.com/plugin/"
+msgstr ""
+
+#. Author of the plugin
+msgid "ELEXtensions"
+msgstr "ELEXtensions"
+
+#. Author URI of the plugin
+msgid "https://elextensions.com/"
+msgstr ""

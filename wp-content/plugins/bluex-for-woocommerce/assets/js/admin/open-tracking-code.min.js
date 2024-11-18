@@ -1,0 +1,1 @@
+jQuery(function(n){({init:function(){n(document.body).on("click",".correios-tracking-code a.tracking-code-link",this.openTrackingLink)},openTrackingLink:function(i){i.preventDefault();var e=n(this).text().trim(),t="https://www.blue.cl/seguimiento/?n_seguimiento="+encodeURIComponent(e);window.open(t,"_blank","noopener,noreferrer")}}).init()});

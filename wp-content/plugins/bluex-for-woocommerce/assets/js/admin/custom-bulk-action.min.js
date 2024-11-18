@@ -1,0 +1,1 @@
+jQuery(document).ready(function(e){var a='<option value="mark_shipping-progress">Cambiar el estado a Listo para enviar</option>';e('select[name="action"]').prepend(a),e('select[name="action2"]').prepend(a)});

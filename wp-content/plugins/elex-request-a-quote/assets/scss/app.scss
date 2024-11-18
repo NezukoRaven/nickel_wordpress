@@ -1,0 +1,16 @@
+@import "variables";
+@import "~bootstrap/scss/functions";
+@import "~bootstrap/scss/variables";
+@import "~bootstrap/scss/maps";
+@import "~bootstrap/scss/mixins";
+@import "~bootstrap/scss/root";
+.elex-rqst-quote-wrap {
+    @import "~bootstrap/scss/bootstrap";
+    @import "style.scss";
+}
+.elex-rqst-quote-front-wrap {
+    @import "~bootstrap/scss/bootstrap";
+    @import "front-style.scss";
+    max-width: 1240px !important;
+    width: 100%;
+}

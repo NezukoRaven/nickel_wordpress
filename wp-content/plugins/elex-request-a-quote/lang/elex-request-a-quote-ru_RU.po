@@ -1,0 +1,2638 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ELEX WooCommerce Request a Quote - Basic\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-09 07:53+0000\n"
+"PO-Revision-Date: 2024-08-09 07:55+0000\n"
+"Last-Translator: \n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.7; wp-6.6.1\n"
+"X-Domain: elex-request-a-quote"
+
+#: ../../../../../../../projects/elex-request-a-quote/class-elex-request-a-quote.php:50
+msgid ""
+"WooCommerce plugin must be active for ELEX Request a Quote Plugin to work."
+msgstr ""
+"Плагин WooCommerce должен быть активен, чтобы плагин ELEX Request a Quote "
+"работал."
+
+#: ../../../../../../../projects/elex-request-a-quote/class-elex-request-a-quote.php:63
+#: ../../../../../../../projects/elex-request-a-quote/view/header.php:4
+#: ../../../../../../../projects/elex-request-a-quote/src/RequestAQuote.php:430
+#: ../../../../../../../projects/elex-request-a-quote/src/RequestAQuote.php:431
+msgid "Settings"
+msgstr "Настройки"
+
+#: ../../../../../../../projects/elex-request-a-quote/class-elex-request-a-quote.php:64
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:136
+msgid "Documentation"
+msgstr "Документация"
+
+#: ../../../../../../../projects/elex-request-a-quote/class-elex-request-a-quote.php:65
+msgid "Support"
+msgstr "Поддержка"
+
+#: ../../../../../../../projects/elex-request-a-quote/class-elex-request-a-quote.php:74
+msgid ""
+"The Premium version of ELEX Request a Quote is already installed and "
+"activated. Please deactivate it in order to activate the basic version. If "
+"you encounter any issues, kindly contact our "
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/class-elex-request-a-quote.php:75
+msgid ""
+"The WooCommerce version of ELEX Request a Quote is already installed and "
+"activated. Please deactivate it in order to activate the basic version. If "
+"you encounter any issues, kindly contact our "
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/class-elex-request-a-quote.php:77
+msgid "for assistance."
+msgstr "за помощью."
+
+#: ../../../../../../../projects/elex-request-a-quote/class-elex-request-a-quote.php:86
+#: ../../../../../../../projects/elex-request-a-quote/class-elex-request-a-quote.php:90
+msgid "Support "
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/header.php:4
+#: ../../../../../../../projects/elex-request-a-quote/src/RequestAQuote.php:439
+#: ../../../../../../../projects/elex-request-a-quote/src/RequestAQuote.php:440
+msgid "Customize Quote List & Form"
+msgstr "Настройка Списка предложений и формы"
+
+#. %s:  ELEX Request a Quote "Quote List" tab link URL
+#: ../../../../../../../projects/elex-request-a-quote/view/header.php:15
+#, php-format
+msgid ""
+"To customize your website's quote request form and quote items listing page, "
+"visit  %1$s section."
+msgstr ""
+"Чтобы настроить форму запроса ценового предложения на вашем веб-сайте и "
+"страницу со списком ценовых позиций, посетите раздел % 1 $ s."
+
+#. %s: ELEX Request a Quote "Settings" tab link
+#: ../../../../../../../projects/elex-request-a-quote/view/header.php:20
+#, php-format
+msgid "To set up request a quote on your site, visit  %1$s section."
+msgstr ""
+"Чтобы настроить запрос ценового предложения на вашем сайте, посетите раздел "
+"%1 $s."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/header.php:53
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:128
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:178
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:228
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:179
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:232
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:268
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:120
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:157
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:331
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:19
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:68
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:185
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:233
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:355
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:708
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:888
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:1026
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:1067
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:51
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:169
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:717
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:831
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:297
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:325
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:354
+msgid "[Premium]"
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:98
+msgid "Note: Basic version supports only few features."
+msgstr "Примечание: Базовая версия поддерживает только несколько функций."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:99
+msgid "Your business is precious! Go Premium to get below features."
+msgstr ""
+"Ваш бизнес ценен! Перейдите на премиум-версию, чтобы получить перечисленные "
+"ниже функции."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:100
+msgid " -  Product-based exclusion for Request a Quote."
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:102
+msgid " - User role-based exclusion for Request a Quote."
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:103
+msgid "- Disable Request a Quote option for unregistered users."
+msgstr ""
+"- Отключите опцию Запроса ценового предложения для незарегистрированных "
+"пользователей."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:104
+msgid "- Exclude Request a Quote based on the product stocks."
+msgstr ""
+"- Исключите запрос ценового предложения, основанного на запасах продукции."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:105
+msgid "- Product-based exclusion from the 'Hide Add to Cart and Price' option."
+msgstr ""
+"- Исключение товара на основе опции \"Скрыть добавление в корзину и цену\"."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:106
+msgid ""
+"- User role-based exclusion from the 'Hide Add to Cart and Price' option."
+msgstr ""
+"- Исключение пользователя на основе ролей из опции \"Скрыть добавление в "
+"корзину и цену\"."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:108
+msgid "- Quote list customization option for an empty quote list page."
+msgstr ""
+"- Опция настройки списка предложений для пустой страницы списка предложений."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:110
+msgid "- Product table customization option for the quote list page."
+msgstr "- Опция настройки таблицы продуктов для страницы списка предложений."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:111
+msgid "- Quote Expiry  feature as per the number of days set by the Admin."
+msgstr ""
+"- Функция истечения срока действия котировки в соответствии с количеством "
+"дней, установленным администратором."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:112
+msgid ""
+"- Accepted Payment Gateway feature to accept the payment method of Shop "
+"owner's choice."
+msgstr ""
+"- Функция Принятого платежного шлюза для принятия способа оплаты по выбору "
+"владельца магазина."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:113
+msgid ""
+"- Option to change the \"Add to Quote \" Button Position Inline with the "
+"\"Add to Cart\" Button."
+msgstr ""
+"- Возможность изменить положение кнопки \"Добавить в предложение\" Рядом с "
+"кнопкой \"Добавить в корзину\"."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:114
+msgid "- Quote Button on Cart Page."
+msgstr "- Кнопка с предложением на странице корзины."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:115
+msgid ""
+"- Option to set the Add to Quote Button Behaviour to redirect to Quote List "
+"Page."
+msgstr ""
+"- Возможность настроить поведение кнопки \"Добавить в цитату\" для "
+"перенаправления на страницу списка цитат."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:116
+msgid "- Predefined Templates for the Emails."
+msgstr "- Предопределенные шаблоны для электронных писем."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:117
+msgid ""
+"- Send Automatic Reminder emails to the customer as per the number of days "
+"set by the admin,when there is no activity from the customer."
+msgstr ""
+"- Отправлять автоматические электронные письма с напоминаниями клиенту в "
+"соответствии с количеством дней, установленным администратором, когда от "
+"клиента нет активности."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:118
+msgid "- Allow Customer to Send Counter Proposal from their My Account Page."
+msgstr ""
+"- Разрешить Клиенту отправлять Встречное предложение со страницы \"Мой "
+"аккаунт\"."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:119
+msgid "- Allow Customer to download Quote PDF from their My Account Page."
+msgstr ""
+"- Разрешить Клиенту загружать PDF-предложение со страницы \"Мой аккаунт\"."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:120
+msgid ""
+"- Accept the Preferred Price/Percentage from the Customer during Quote "
+"Submission."
+msgstr ""
+"- Примите Предпочтительную цену / Процент от Клиента во время Подачи "
+"Предложения."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:121
+msgid ""
+"- Attach PDF or image file to Quote Approved/Rejected/Negotiation mails from "
+"the Order Page."
+msgstr ""
+"- Прикрепите PDF-файл или изображение к письмам с Утвержденными / "
+"Отклоненными предложениями / Согласованиями со страницы заказа."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:122
+msgid "- AutoComplete Quote Form for Registered User."
+msgstr ""
+"- Автоматическое заполнение формы предложения для Зарегистрированного "
+"пользователя."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:123
+msgid "- Create WordPress User when the Guest User submits the Quote Request."
+msgstr ""
+"- Создайте пользователя WordPress, когда Гостевой Пользователь отправит "
+"Запрос предложения."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:124
+msgid "- reCAPTCHA verification for the Quote Submission."
+msgstr "- Проверка рекапчи для отправки предложения."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:125
+msgid "- All Buttons Customization including Color and Label"
+msgstr "- Настройка всех кнопок, включая цвет и надпись"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:144
+msgid "You May Also like"
+msgstr "Вам Также может понравиться"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/saved_toast.php:12
+msgid "Changes Saved Successfully!"
+msgstr "Изменения успешно сохранены!"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support_header.php:1
+#: ../../../../../../../projects/elex-request-a-quote/src/RequestAQuote.php:447
+#: ../../../../../../../projects/elex-request-a-quote/src/RequestAQuote.php:448
+msgid "Help & Support"
+msgstr "Справка и поддержка"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/create_order_status.php:15
+msgid "Quote Requested"
+msgstr "Запрошенное предложение"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/create_order_status.php:26
+msgid "Quote Approved"
+msgstr "Утвержденное предложение"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/create_order_status.php:37
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/general.php:76
+msgid "Quote Rejected"
+msgstr "Цитата Отклонена"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/RequestAQuote.php:190
+msgid "Quotes List"
+msgstr "Список Цитат"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/RequestAQuote.php:201
+msgid "Quote Received"
+msgstr "Полученное предложение"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/RequestAQuote.php:419
+#: ../../../../../../../projects/elex-request-a-quote/src/RequestAQuote.php:420
+msgid "Request a Quote"
+msgstr "Запросить ценовое предложение"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/tickets.php:6
+msgid "Before raising the ticket, we recommend you to go through our detailed"
+msgstr ""
+"Прежде чем поднимать цену билета, мы рекомендуем вам ознакомиться с нашими "
+"подробными"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/tickets.php:6
+msgid "documentation."
+msgstr "Документация."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/tickets.php:7
+msgid "Or"
+msgstr "Или"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/tickets.php:8
+msgid ""
+"To get in touch with one of our helpdesk representatives, please raise a "
+"support ticket on our website."
+msgstr ""
+"Чтобы связаться с одним из представителей нашей службы поддержки, пожалуйста,"
+" отправьте запрос в службу поддержки на нашем веб-сайте."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/tickets.php:9
+msgid ""
+"* Please don`t forget to attach your System Info File with the request for "
+"better support."
+msgstr ""
+"* Пожалуйста, не забудьте приложить файл с информацией о вашей системе "
+"вместе с запросом об улучшении поддержки."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/tickets.php:13
+msgid "Raise a ticket"
+msgstr "Поднимите билет"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/tickets.php:21
+msgid ""
+"To copy the System Info, click below then press Ctrl + C (PC) or Cmd + C "
+"(Mac)."
+msgstr ""
+"Чтобы скопировать системную информацию, щелкните ниже, затем нажмите Ctrl + "
+"C (ПК) или Cmd + C (Mac)."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/tickets.php:31
+msgid "Download System Info"
+msgstr "Загрузить Системную информацию"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/faqs.php:5
+msgid "Q1."
+msgstr "Q1."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/faqs.php:6
+msgid "Can I hide the “Add to Cart” button on the product page?"
+msgstr "Могу ли я скрыть кнопку “Добавить в корзину” на странице товара?"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/faqs.php:11
+msgid ""
+"Yes, You can easily hide the ‘Add to Cart’ button on the product page as "
+"well as the shop page."
+msgstr ""
+"Да, вы можете легко скрыть кнопку \"Добавить в корзину\" как на странице "
+"товара, так и на странице магазина."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/faqs.php:17
+msgid "Q2."
+msgstr "Вопрос 2."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/faqs.php:18
+msgid "Can I hide the price of the products?"
+msgstr "Могу ли я скрыть цену на продукты?"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/faqs.php:25
+msgid ""
+"Yes, You can hide the price of a particular product.\n"
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/faqs.php:37
+msgid "Q3."
+msgstr "Вопрос 3."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/faqs.php:40
+msgid ""
+"Can I customize my quote list page?\n"
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/faqs.php:52
+msgid ""
+"Yes, ELEX Request a Quote plugin allows you to customize & enhance your "
+"frontend quote list page.\n"
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/faqs.php:65
+msgid "Q4."
+msgstr "Q4."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/faqs.php:68
+msgid ""
+"Does this plugin have the option to customize the Email templates?\n"
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/faqs.php:80
+msgid ""
+"Yes, this plugin gives you the option to select from the predefined template "
+"or customize & create your own email template.\n"
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/faqs.php:93
+msgid "Q5."
+msgstr "Q5."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/faqs.php:94
+msgid ""
+"Can I restrict guest/ unregistered users from adding products into the Quote "
+"List and redirect them to the login or sign up page?"
+msgstr ""
+"Могу ли я запретить гостевым / незарегистрированным пользователям добавлять "
+"товары в список предложений и перенаправлять их на страницу входа в систему "
+"или регистрации?"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/faqs.php:101
+msgid ""
+"Yes, this option is available in the plugin settings. We have a separate "
+"option for this where you can enable and redirect the guest/unregistered "
+"users to create an account or sign in to request a quote\n"
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/quote/quote_list_main.php:5
+msgid "Powered by ELEX Request a Quote "
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/quote/view_quote_list.php:9
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/mini_quote_list/render_mini_quote_list.js:58
+msgid "View Quote List"
+msgstr "Просмотреть Список Предложений"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/button/add_to_quote.php:21
+msgid "Clear List Button Label"
+msgstr "Очистить Ярлык кнопки Списка"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/button/add_to_quote.php:24
+msgid "Enter custom label text for 'Clear List' Button"
+msgstr "Введите пользовательский текст метки для кнопки \"Очистить список\""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/button/add_to_quote.php:53
+msgid "Send Request Button Label"
+msgstr "Метка кнопки Отправки запроса"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/button/add_to_quote.php:56
+msgid "Enter custom label text for 'Send Request' Button"
+msgstr "Введите пользовательский текст метки для кнопки \"Отправить запрос\""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/button/add_to_quote.php:84
+msgid "Update List Button Label"
+msgstr "Метка кнопки Обновления списка"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/button/add_to_quote.php:87
+msgid "Enter custom label text for 'Update List' Button"
+msgstr "Введите пользовательский текст метки для кнопки \"Обновить список\""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/button/add_to_quote.php:115
+msgid "View Quote List Button Label"
+msgstr "Ярлык кнопки Просмотра Списка Предложений"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/button/add_to_quote.php:118
+msgid "Enter custom label text for 'View Quote List' Button"
+msgstr ""
+"Введите пользовательский текст метки для кнопки \"Просмотреть список "
+"предложений\""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/button/add_to_quote.php:144
+msgid "Button Color"
+msgstr "Цвет пуговицы"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/button/add_to_quote.php:148
+msgid "Border"
+msgstr "Граница"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/button/add_to_quote.php:159
+msgid "Background"
+msgstr "Предыстория"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/button/add_to_quote.php:169
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:273
+msgid "Text"
+msgstr "Текст"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/button/add_to_quote.php:179
+msgid "Preview"
+msgstr "Предварительный просмотр"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/button/add_to_quote.php:180
+#: ../../../../../../../projects/elex-request-a-quote/view/button/add_to_quote.php:223
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/widget.php:126
+msgid "Button Label"
+msgstr "Метка кнопки"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/button/add_to_quote.php:185
+#: ../../../../../../../projects/elex-request-a-quote/view/button/add_to_quote.php:197
+#: ../../../../../../../projects/elex-request-a-quote/view/button/add_to_quote.php:209
+msgid "On hover"
+msgstr "При наведении курсора"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:10
+msgid "Select \"Quote List\" Page"
+msgstr "Выберите страницу \"Список предложений\""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:12
+msgid "Select the WooCommerce page where you want to display the quote list."
+msgstr ""
+"Выберите страницу WooCommerce, на которой вы хотите отобразить список "
+"предложений."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:45
+msgid "Quote List Page Title"
+msgstr "Заголовок страницы Списка предложений"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:47
+msgid "Enter the title on the quote list page."
+msgstr "Введите название на странице списка предложений."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:75
+msgid "\"Quote List\" Page Layout"
+msgstr "Макет страницы \"Список предложений\""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:95
+msgid "Product list on the left & form on the right"
+msgstr "Список продуктов слева и форма справа"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:114
+msgid "Product list on the top & form on the bottom"
+msgstr "Список продуктов вверху и форма внизу"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:125
+msgid "Choose What to Show If List is Empty"
+msgstr "Выберите, что показывать, Если список пуст"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:139
+msgid "Illustration"
+msgstr "Иллюстрация"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:146
+msgid "Empty Text"
+msgstr "Пустой текст"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:154
+msgid "\"Go to Shop Page\" button\""
+msgstr "Кнопка \"Перейти на страницу магазина\"\""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:162
+msgid "Quote a Request Form"
+msgstr "Укажите форму запроса"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:175
+msgid "Contents to Show in Product Table"
+msgstr "Содержимое для отображения в таблице продуктов"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:189
+msgid "Product Image"
+msgstr "Изображение продукта"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:194
+msgid "Product Price"
+msgstr "Цена продукта"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:200
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/quote_list/quote_list_content.js:64
+msgid "Quantity"
+msgstr "Количество"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:205
+msgid "Each Product Subtotal"
+msgstr "Промежуточный итог по каждому Продукту"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:210
+msgid "Product SKU"
+msgstr "Артикул продукта"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:215
+msgid "Taxes"
+msgstr "Налоги"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:225
+msgid "Accept Preferred Price from Customer"
+msgstr "Примите Предпочтительную цену от Клиента"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:233
+msgid "Toggle On to accept the Preferred Price from Customer. "
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:264
+msgid "Show \"Powered by ELEX Request a Quote\""
+msgstr "Показать \"Powered by ELEX Запросить ценовое предложение\""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:265
+msgid ""
+"Turn On or Off if you want to show or hide the ELEXtensions watermark on the "
+"quote list page."
+msgstr ""
+"Включите или выключите, если вы хотите отобразить или скрыть водяной знак "
+"ELEXtensions на странице списка предложений."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:288
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:299
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/general.php:121
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/google_chat.php:84
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/sms.php:179
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:368
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:1208
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/widget.php:195
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:982
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:698
+msgid "Save Changes"
+msgstr "Сохранение изменений"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:13
+msgid "Show \"Update List\" Button"
+msgstr "Показать кнопку \"Обновить список\""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:15
+msgid ""
+"Turn On/Off if you want to show/hide update list button on the quote list "
+"page."
+msgstr ""
+"Включите / выключите, если вы хотите показать / скрыть кнопку обновления "
+"списка на странице списка предложений."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:43
+msgid "Show \"Clear List\" Button"
+msgstr "Показать кнопку \"Очистить список\""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:45
+msgid ""
+"Turn On/Off if you want to show/hide the clear list button on the quote list "
+"page."
+msgstr ""
+"Включите / выключите, если вы хотите показать / скрыть кнопку очистить "
+"список на странице списка предложений."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:76
+msgid "Add more Items Button"
+msgstr "Кнопка \"Добавить дополнительные элементы\""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:79
+msgid ""
+"Turn On/Off if you want to show/hide add more items button on the quote list "
+"page."
+msgstr ""
+"Включите / выключите, если вы хотите показать / скрыть кнопку \"Добавить "
+"дополнительные товары\" на странице списка предложений."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:110
+msgid "Add more Items Button Label"
+msgstr "Метка кнопки \"Добавить дополнительные элементы\""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:112
+msgid ""
+"Enter the label text for 'Add more items' button on the quote list page."
+msgstr ""
+"Введите текст надписи для кнопки \"Добавить дополнительные товары\" на "
+"странице списка предложений."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:141
+msgid "Add More Items Button Redirect Page"
+msgstr "Кнопка \"Добавить дополнительные элементы\" Перенаправляет страницу"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:143
+msgid ""
+"Select the page where you want the customer to be redirected to upon "
+"clicking the add more items button"
+msgstr ""
+"Выберите страницу, на которую вы хотите перенаправить клиента после нажатия "
+"кнопки \"Добавить дополнительные товары\""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:176
+msgid ""
+"If there is No Activity on Quote by Customer, Send Reminder Email in Every"
+msgstr ""
+"Если по Предложению Клиента нет никаких действий, Отправляйте электронное "
+"письмо с напоминанием в каждом"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:184
+msgid ""
+"Set the number of days for sending a reminder email to the customer. Leave "
+"blank to skip automatic reminders."
+msgstr ""
+"Установите количество дней для отправки напоминания по электронной почте "
+"клиенту. Оставьте поле пустым, чтобы пропустить автоматические напоминания."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:211
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:53
+msgid "Days"
+msgstr "Дней"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:219
+msgid "Trials"
+msgstr "Судебные процессы"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:229
+msgid "Allow Customer to Send Counter Proposal"
+msgstr "Разрешить Клиенту отправить встречное предложение"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:237
+msgid "Turn on if you want to allow customer to send Counter Proposal."
+msgstr ""
+"Включите, если вы хотите разрешить клиенту отправлять встречное предложение."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:265
+msgid "Allow Customer to Download PDF"
+msgstr "Разрешить клиенту загрузить PDF-файл"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:274
+msgid "Turn on if you want to allow customer to download PDF."
+msgstr "Включите, если вы хотите разрешить клиенту загружать PDF-файлы."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/form_settings.php:15
+msgid "Updated Successfully."
+msgstr "Успешно обновлено."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/form_settings.php:38
+msgid "Deleted Successfully."
+msgstr "Успешно удален."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/form_settings.php:59
+msgid "Saved Successfully"
+msgstr "Успешно Сохранено"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/form_settings.php:80
+msgid "Field with same name Already Exist"
+msgstr "Поле с таким же именем уже существует"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/form_settings.php:100
+msgid "Enter 2 or more values for the selected input type."
+msgstr "Введите 2 или более значений для выбранного типа ввода."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/general.php:16
+msgid "Notifications Email Address"
+msgstr "Адрес электронной почты для уведомлений"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/general.php:19
+msgid ""
+"Enter the email addresses to receive a notification when the customer places "
+"a quote request. By default, the administrator email id is taken to get a "
+"notification. Multiple email ids should be separated by commas."
+msgstr ""
+"Введите адреса электронной почты, чтобы получать уведомления, когда клиент "
+"размещает запрос предложения. По умолчанию для получения уведомления "
+"используется идентификатор электронной почты администратора. Несколько "
+"идентификаторов электронной почты следует разделять запятыми."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/general.php:44
+msgid "Select Order Statuses To Notify Customers"
+msgstr "Выберите Статусы заказов, чтобы Уведомлять клиентов"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/general.php:46
+msgid ""
+"Select the order statuses for which customers should receive an email "
+"notification."
+msgstr ""
+"Выберите статусы заказов, для которых клиенты должны получать уведомления по "
+"электронной почте."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/general.php:69
+msgid ""
+"Quote Requested\n"
+"                                        "
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/general.php:79
+msgid ""
+"Quote Approved\n"
+"                                        "
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/general.php:95
+msgid "Debug Log"
+msgstr "Журнал отладки"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/general.php:97
+msgid ""
+"Find email, sms and google chat logs here (wp-content\\uploads\\wc-logs)."
+msgstr ""
+"Найдите журналы электронной почты, sms и Google chat здесь (wp-content \\ "
+"uploads \\ wc-logs)."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/google_chat.php:14
+msgid "Google Chat Notification"
+msgstr "Уведомление в Google Чате"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/google_chat.php:17
+msgid ""
+"Enable to receive Google Chat notification when the customer makes a quote "
+"request."
+msgstr ""
+"Включите получение уведомлений в Google Chat, когда клиент делает запрос "
+"предложения."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/google_chat.php:51
+msgid "Webhook URL"
+msgstr "URL-адрес веб-крючка"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/google_chat.php:53
+msgid ""
+"Enter the Google Chat Webhook URL. You can find this URL on your google chat "
+"window."
+msgstr ""
+"Введите URL веб-сайта Google Chat Webhook. Вы можете найти этот URL-адрес в "
+"окне вашего Google чата."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/sms.php:13
+msgid "SMS Notification"
+msgstr "SMS-уведомление"
+
+#. %s: URL to create Twilio account.
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/sms.php:32
+#, php-format
+msgid ""
+"Enable to receive SMS notification when the customer makes a quote request. "
+"Sign up for a new Twilio account %1$s."
+msgstr ""
+"Включите возможность получать SMS-уведомления, когда клиент делает запрос "
+"предложения. Подпишитесь на новую учетную запись Twilio за 1 доллар США."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/sms.php:45
+msgid "Twilio SID"
+msgstr "Twilio СИД"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/sms.php:47
+msgid "Enter Your Twilio SID"
+msgstr "Введите Свой SID Twilio"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/sms.php:77
+msgid "Twilio Token"
+msgstr "Токен Twilio"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/sms.php:79
+msgid "Enter Your Twilio Token"
+msgstr "Введите Свой Токен Twilio"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/sms.php:111
+msgid "Twilio Mobile Number"
+msgstr "Номер Мобильного телефона Twilio"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/sms.php:113
+msgid ""
+"Enter the mobile number where you want to get a notification when the "
+"customer places a quote request"
+msgstr ""
+"Введите номер мобильного телефона, по которому вы хотите получать "
+"уведомления, когда клиент размещает запрос предложения"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/sms.php:145
+msgid "Notification Mobile Number"
+msgstr "Номер мобильного телефона Для Уведомления"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/sms.php:147
+msgid "Enter Your Twilio mobile Number"
+msgstr "Введите Свой номер мобильного телефона Twilio"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:19
+msgid "Hide Price"
+msgstr "Скрыть Цену"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:21
+msgid ""
+"Enabling the Hide Price will automatically enable the Hide Add to Cart "
+"button on the Shop page and the Product Page."
+msgstr ""
+"Включение функции \"Скрыть цену\" автоматически активирует кнопку \"Скрыть "
+"добавление в корзину\" на странице магазина и странице товара."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:46
+msgid ""
+"Turn on to hide price in the Product page, Shop Page and Quote List Page."
+msgstr ""
+"Включите, чтобы скрыть цену на странице товара, на странице магазина и на "
+"странице Списка предложений."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:61
+msgid "Hide Add to Cart Button on Shop Page"
+msgstr "Скрыть кнопку \"Добавить в корзину\" на странице магазина"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:74
+msgid "Turn on to hide the add to cart button on the shop page."
+msgstr ""
+"Включите, чтобы скрыть кнопку \"Добавить в корзину\" на странице магазина."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:89
+msgid "Hide Add to Cart Button on Product Page"
+msgstr "Скрыть кнопку \"Добавить в корзину\" на странице товара"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:99
+msgid "Turn on to hide the add to cart button on the product page."
+msgstr ""
+"Включите, чтобы скрыть кнопку \"Добавить в корзину\" на странице товара."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:117
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:495
+msgid "Include Products"
+msgstr "Включать продукты"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:133
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:170
+msgid ""
+"Turn on & Select the Products for which the above settings should not be "
+"applied"
+msgstr ""
+"Включите и выберите продукты, к которым не следует применять вышеуказанные "
+"настройки"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:154
+msgid "Exclude Products"
+msgstr "Исключить Продукты"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:182
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:748
+msgid "Exclude Products By Category"
+msgstr "Исключать Продукты По категориям"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:184
+msgid ""
+"Select the product categories that you want to exclude from the above "
+"applied settings"
+msgstr ""
+"Выберите категории товаров, которые вы хотите исключить из приведенных выше "
+"применяемых настроек"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:228
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:792
+msgid "Exclude Products By Name"
+msgstr "Исключать Продукты По названию"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:230
+msgid ""
+"Select the product names that you want to exclude from the above applied "
+"settings"
+msgstr ""
+"Выберите названия продуктов, которые вы хотите исключить из приведенных выше "
+"применяемых настроек"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:275
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:834
+msgid "Exclude Products By Tags"
+msgstr "Исключать Товары По тегам"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:277
+msgid ""
+"Select the product tags that you want to exclude from the above applied "
+"settings"
+msgstr ""
+"Выберите теги товаров, которые вы хотите исключить из приведенных выше "
+"применяемых настроек"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:328
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:885
+msgid "Role Based Filter"
+msgstr "Фильтр на основе ролей"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:347
+msgid ""
+"Select the roles for which the above settings should be\n"
+"                                        applied/not."
+msgstr ""
+"Выберите роли, к которым следует применять / не применять вышеуказанные "
+"настройки."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:16
+msgid "Quote Expires in"
+msgstr "Срок действия котировки истекает в"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:25
+msgid ""
+"Set the number of days after the quote request date for the quote to expire. "
+"Leave blank if the quote should not expire."
+msgstr ""
+"Укажите количество дней после даты запроса предложения, через которое "
+"истекает срок действия предложения. Оставьте поле пустым, если срок действия "
+"предложения не должен истекать."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:65
+msgid "Accepted Payment Gateways"
+msgstr "Принятые Платежные Шлюзы"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:73
+msgid ""
+"Select the store payment methods to display during checkout. Leave blank to "
+"show all payment methods."
+msgstr ""
+"Выберите способы оплаты в магазине, которые будут отображаться при "
+"оформлении заказа. Оставьте поле пустым, чтобы отобразить все способы оплаты."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:117
+msgid "Quote Button on Shop Page"
+msgstr "Кнопка с Предложением на Странице Магазина"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:119
+msgid "Toggle On or Off to display the Add to Quote button on the shop page"
+msgstr ""
+"Включите или выключите, чтобы отобразить кнопку \"Добавить предложение\" на "
+"странице магазина"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:150
+msgid "Quote Button on Product Page"
+msgstr "Кнопка Предложения на Странице продукта"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:153
+msgid ""
+"Toggle On or Off the display of the Add to Quote button on the product page"
+msgstr ""
+"Включите или выключите отображение кнопки \"Добавить предложение\" на "
+"странице продукта"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:183
+msgid "Add to Quote Button Position on Product Page"
+msgstr "Положение кнопки \"Добавить в предложение\" на странице товара"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:190
+msgid "Button position may vary depending on the theme."
+msgstr "Положение кнопки может варьироваться в зависимости от темы."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:213
+msgid "Inline with Add to Cart"
+msgstr "Встроенный в команду \"Добавить в корзину\""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:220
+msgid "Below Add to Cart"
+msgstr "Ниже Добавить в корзину"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:230
+msgid "Quote Button on Cart Page"
+msgstr "Кнопка с Предложением на Странице Корзины"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:238
+msgid ""
+"Enable or disable the \"Add to Quote\" button on the Cart page. When enabled,"
+" this button will appear on the Cart page. Customers can click the \"Add to "
+"Quote\" button to automatically add the products in their cart to a quote "
+"list page."
+msgstr ""
+"Включите или отключите кнопку \"Добавить в предложение\" на странице корзины."
+" При включении эта кнопка появится на странице корзины. Клиенты могут нажать "
+"кнопку \"Добавить в предложение\", чтобы автоматически добавить товары из "
+"своей корзины на страницу списка предложений."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:266
+msgid "Quote Button Configurations"
+msgstr "Конфигурации кнопок Цитирования"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:272
+msgid "Open Quote Form"
+msgstr "Открыть Форму предложения"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:275
+msgid "Select how you want to show the quote list to your user."
+msgstr ""
+"Выберите способ, которым вы хотите показать список предложений вашему "
+"пользователю."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:298
+msgid "In a New Page"
+msgstr "На новой странице"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:301
+msgid "In a Light Box"
+msgstr "В световом ящике"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:313
+msgid "Add to Quote Success Alert Message"
+msgstr "Добавить в Цитату Сообщение с предупреждением об успешном завершении"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:317
+msgid ""
+"Enter the alert message to display on successful addition of the product to "
+"the quote list."
+msgstr ""
+"Введите предупреждающее сообщение, которое будет отображаться при успешном "
+"добавлении продукта в список предложений."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:340
+#: ../../../../../../../projects/elex-request-a-quote/src/Settings/SettingsController.php:397
+#: ../../../../../../../projects/elex-request-a-quote/src/Settings/Models/GeneralSettings.php:92
+msgid "Product successfully added to the Quote List"
+msgstr "Товар успешно добавлен в список предложений"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:352
+msgid "Add to Quote Button Behaviour"
+msgstr "Поведение кнопки \"Добавить в цитату\""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:361
+msgid ""
+"Select \"Redirect to the Quote List Page\" to enable automatic redirection "
+"to the Quote List Page upon clicking the \"Add to Quote\" button."
+msgstr ""
+"Выберите \"Перенаправить на страницу списка предложений\", чтобы включить "
+"автоматическое перенаправление на страницу списка предложений при нажатии "
+"кнопки \"Добавить в предложение\"."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:384
+msgid "Redirect to the Quote List Page"
+msgstr "Перенаправление на страницу Списка предложений"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:387
+msgid "Stay on the Shop/Product page"
+msgstr "Оставайтесь на странице магазина / Товара"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:396
+msgid "Quote Button Customization"
+msgstr "Настройка кнопки Цитирования"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:400
+msgid "Quote Button Label"
+msgstr "Метка кнопки Цитирования"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:402
+msgid "Enter a custom label text for the request a quote button"
+msgstr ""
+"Введите пользовательский текст метки для кнопки запросить коммерческое "
+"предложение"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:432
+msgid "Default Button Color"
+msgstr "Цвет кнопки по умолчанию"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:434
+msgid "Choose the default color for the buttons."
+msgstr "Выберите цвет кнопок по умолчанию."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:471
+msgid "Filter Products"
+msgstr "Фильтрующие Продукты"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:477
+msgid ""
+"The quote button will be added to all the products by\n"
+"                default. If you want to include\n"
+"                or exclude certain products, use the filter options given "
+"below."
+msgstr ""
+"Кнопка предложения будет добавлена ко всем продуктам по умолчанию. Если вы "
+"хотите включить или исключить определенные продукты, используйте параметры "
+"фильтра, приведенные ниже."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:513
+msgid ""
+"Select the products for which request a quote settings should\n"
+"                                        be applied. Rest of the products "
+"will be excluded\n"
+"                                        automatically."
+msgstr ""
+"Выберите продукты, для которых должны быть применены настройки запроса "
+"ценового предложения. Остальные продукты будут исключены автоматически."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:535
+msgid "Include Products By Category"
+msgstr "Включить товары по категориям"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:537
+msgid ""
+"Select the products categories for which you want to display the request a "
+"quote button"
+msgstr ""
+"Выберите категории товаров, для которых вы хотите отобразить кнопку "
+"запросить ценовое предложение"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:591
+msgid "Include Products By Name"
+msgstr "Включать продукты По названию"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:594
+msgid ""
+"Select the products names for which you want to display the request a quote "
+"button"
+msgstr ""
+"Выберите названия продуктов, для которых вы хотите отобразить кнопку "
+"\"Запросить ценовое предложение\""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:646
+msgid "Include Products By Tags"
+msgstr "Включать товары По тегам"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:649
+msgid ""
+"Select the products tags for which you want to display the request a quote "
+"button"
+msgstr ""
+"Выберите теги товаров, для которых вы хотите отобразить кнопку \"Запросить "
+"предложение\""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:705
+msgid "Exclude Product"
+msgstr "Исключить Продукт"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:727
+msgid ""
+"Select the products for which request a quote settings should\n"
+"                                        not be applied."
+msgstr ""
+"Выберите продукты, для которых настройки запроса ценового предложения "
+"применяться не должны."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:750
+msgid ""
+"Select the products categories for which you don't want to display the "
+"request a quote button"
+msgstr ""
+"Выберите категории товаров, для которых вы не хотите отображать кнопку "
+"запросить ценовое предложение"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:795
+msgid ""
+"Select the individual product names for which you don't want to display the "
+"request a quote button"
+msgstr ""
+"Выберите отдельные названия продуктов, для которых вы не хотите отображать "
+"кнопку запросить коммерческое предложение"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:837
+msgid ""
+"Select the products tags for which you don't want to display the request a "
+"quote button"
+msgstr ""
+"Выберите теги товаров, для которых вы не хотите отображать кнопку запросить "
+"предложение"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:907
+msgid ""
+"Select the roles for which request a quote settings should be\n"
+"                                        applied/not."
+msgstr ""
+"Выберите роли, для которых следует применять / не применять настройки "
+"запроса предложения."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:928
+msgid "Include Roles"
+msgstr "Включать Роли"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:930
+msgid ""
+"Select the user roles for which you want to display the request a quote "
+"button"
+msgstr ""
+"Выберите роли пользователей, для которых вы хотите отобразить кнопку "
+"запросить предложение"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:973
+msgid "Exclude Roles"
+msgstr "Исключить Роли"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:975
+msgid ""
+"Select the user roles for which you don't want to display the request a "
+"quote button"
+msgstr ""
+"Выберите роли пользователей, для которых вы не хотите отображать кнопку "
+"запросить предложение"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:1023
+msgid "Disable Quote Request for Unregistered Users"
+msgstr "Отключить запрос котировок для незарегистрированных пользователей"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:1042
+msgid ""
+"By enabling this option guest users can be redirected to the\n"
+"                                        My Account page for registration."
+msgstr ""
+"Включив эту опцию, гостевые пользователи могут быть перенаправлены на "
+"страницу \"Моя учетная запись\" для регистрации."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:1064
+msgid "Include/Exclude products based on stock"
+msgstr "Включать/ Исключать продукты в зависимости от наличия на складе"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:1072
+msgid ""
+"Select an option to determine how you want to display the add to quote "
+"button based on the product availablity"
+msgstr ""
+"Выберите опцию, чтобы определить, как вы хотите отображать кнопку \"Добавить "
+"предложение\" в зависимости от доступности продукта"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:1097
+msgid "Show Add to Quote Button for all the products"
+msgstr "Показать кнопку \"Добавить в предложение\" для всех продуктов"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:1102
+msgid "Hide Add to Quote button for Out of Stock products"
+msgstr ""
+"Скрыть кнопку \"Добавить в предложение\" для товаров, которых нет в наличии"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:1108
+msgid ""
+"Show Add to Quote button only for Out of Stock\n"
+"                                        products"
+msgstr ""
+"Показывать кнопку \"Добавить в предложение\" только для товаров, которых нет "
+"в наличии"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:1126
+msgid "Third Party API key"
+msgstr "Ключ API третьей стороны"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:1133
+msgid ""
+"In case you want to get quote requests/orders via third party plugins, Turn "
+"On the below\n"
+"\t\t\t\t\tfunctionality & get the API Key."
+msgstr ""
+"Если вы хотите получать запросы предложений / заказы с помощью сторонних "
+"плагинов, включите нижеприведенную функциональность и получите ключ API."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:1150
+msgid "Third Party Usage"
+msgstr "Использование третьими лицами"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:1163
+msgid "Turn this ON, to get the API Key."
+msgstr "Включите это, чтобы получить ключ API."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:1170
+msgid "Rest API Key"
+msgstr "Ключ Rest API"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:1179
+msgid "Copy API Key"
+msgstr "Скопировать ключ API"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:1222
+msgid "Copied Successfully!"
+msgstr "Успешно скопировано!"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:1239
+msgid "Error copying text"
+msgstr "Ошибка при копировании текста"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/widget.php:11
+msgid "Show Quote List Icon"
+msgstr "Показать Значок Списка Предложений"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/widget.php:31
+msgid "Quote List Color On Hover"
+msgstr "Цвет списка предложений При наведении курсора мыши"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/widget.php:33
+msgid "Select the color of the widget when a customer hovers over it."
+msgstr "Выберите цвет виджета, когда клиент наведет на него курсор мыши."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/widget.php:61
+msgid "Quote List Icon Type"
+msgstr "Тип Значка Списка предложений"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/widget.php:63
+msgid ""
+"You may face compatibility issues with specific themes when Fixed icon type "
+"is chosen."
+msgstr ""
+"При выборе фиксированного типа значка вы можете столкнуться с проблемами "
+"совместимости с определенными темами."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/widget.php:81
+msgid "Float"
+msgstr "Плавать"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/widget.php:82
+msgid "Fixed"
+msgstr "Исправлено"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/widget.php:93
+msgid "Show Button Label Next to Icon"
+msgstr "Показать метку кнопки Рядом со значком"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/widget.php:128
+msgid "Please enter the text that you would like to display as a button label."
+msgstr ""
+"Пожалуйста, введите текст, который вы хотели бы отобразить в качестве метки "
+"кнопки."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/widget.php:163
+msgid "Show List Pop Up on Hover"
+msgstr "Показывать всплывающий список при наведении курсора мыши"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/widget.php:165
+msgid ""
+"Turn it on or off if you want to display or hide the list of products in the "
+"quote list by hovering over the quote list widget."
+msgstr ""
+"Включите или выключите его, если вы хотите отобразить или скрыть список "
+"товаров в списке предложений, наведя указатель мыши на виджет списка "
+"предложений."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:9
+msgid ""
+"You can configure your email and sms/chat template here,\n"
+"                Make use of placeholders to\n"
+"                fill the fields dynamically."
+msgstr ""
+"Вы можете настроить свой шаблон электронной почты и sms / чата здесь, "
+"используя заполнители для динамического заполнения полей."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:18
+msgid ""
+"Please note that placeholders can be applied only to\n"
+"                the\n"
+"                email and chat/sms body."
+msgstr ""
+"Пожалуйста, обратите внимание, что заполнители могут быть применены только к "
+"электронной почте и тексту чата / sms."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:27
+msgid ""
+"Also note, the @payment_link placeholder can only be\n"
+"                applied to\n"
+"                the email body sent after the quote is approved. You can "
+"also include HTML tags and\n"
+"                inline styles in the email body but the same wont be "
+"applicable to the chat/sms\n"
+"                body."
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:48
+msgid "Use Predefined Email Templates"
+msgstr "Используйте Предопределенные шаблоны электронной почты"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:56
+msgid ""
+"Enable this option to use predefined email templates within the plugin. You "
+"can configure the email content below."
+msgstr ""
+"Включите эту опцию, чтобы использовать предопределенные шаблоны электронной "
+"почты в плагине. Вы можете настроить содержимое электронной почты ниже."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:90
+msgid "Email Template"
+msgstr "Шаблон электронной почты"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:107
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:134
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:154
+msgid "Preview Template"
+msgstr "Шаблон предварительного просмотра"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:124
+msgid ""
+"Rectangle Logo\n"
+"\t\t\t\t\t\t\t\t\t\t\tTemplate"
+msgstr "Прямоугольный Шаблон Логотипа"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:150
+msgid "Non Logo Template"
+msgstr "Шаблон Без Логотипа"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:166
+msgid "Company Logo"
+msgstr "Логотип компании"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:179
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form/fields/form.js:135
+msgid "Upload Image"
+msgstr "Загрузить изображение"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:198
+msgid "upload png or jpeg file"
+msgstr "загрузить файл в формате png или jpeg"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:208
+msgid "Terms and Condition"
+msgstr "Правила и условности"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:210
+msgid ""
+"Enable this option if you wish to include the terms and conditions in the "
+"email template."
+msgstr ""
+"Включите эту опцию, если вы хотите включить условия в шаблон электронного "
+"письма."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:242
+msgid "Terms and Condition Content"
+msgstr "Содержание Правил и условий"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:257
+msgid "Quote Request Email Template: Sent to the Site Administrator"
+msgstr ""
+"Шаблон электронного письма с запросом предложения: Отправлено администратору "
+"сайта"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:264
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:382
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:494
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:607
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:726
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:840
+msgid "Email Subject"
+msgstr "Тема электронного письма"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:266
+msgid ""
+"Enter the subject for the email sent to the administrator when a quote is "
+"received."
+msgstr ""
+"Введите тему электронного письма, отправленного администратору при получении "
+"предложения."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:300
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:417
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:529
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:642
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:760
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:874
+msgid "Email Heading"
+msgstr "Заголовок электронного письма"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:302
+msgid ""
+"Enter the heading for the email sent to the administrator when a quote is "
+"received."
+msgstr ""
+"Введите заголовок электронного письма, отправляемого администратору при "
+"получении ценового предложения."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:336
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:453
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:565
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:678
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:794
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:908
+msgid "Email Body"
+msgstr "Текст электронного письма"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:338
+msgid ""
+"Enter the body for the email sent to the administrator when a quote is "
+"received."
+msgstr ""
+"Введите текст электронного письма, отправленного администратору при "
+"получении предложения."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:375
+msgid "Quote Requested Email Template: Sent to the Customer"
+msgstr ""
+"Шаблон электронного письма с запросом предложения: Отправлено Заказчику"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:384
+msgid ""
+"Enter the subject for the email sent to the customer when a quote is "
+"requested."
+msgstr ""
+"Введите тему электронного письма, отправляемого клиенту при запросе ценового "
+"предложения."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:419
+msgid ""
+"Enter the heading for the email sent to the customer when a quote is "
+"requested."
+msgstr ""
+"Введите заголовок электронного письма, отправляемого клиенту при запросе "
+"ценового предложения."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:455
+msgid ""
+"Enter the body for the email sent to the customer when a quote is requested."
+msgstr ""
+"Введите текст электронного письма, отправляемого клиенту при запросе "
+"ценового предложения."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:487
+msgid "Quote Approved Email Template: Sent to the Customer"
+msgstr ""
+"Шаблон электронного письма с Утвержденным предложением: Отправлено Заказчику"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:496
+msgid ""
+"Enter the subject for the email sent to the customer when a quote is "
+"accepted by the administrator."
+msgstr ""
+"Введите тему электронного письма, отправленного клиенту, когда предложение "
+"будет принято администратором."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:531
+msgid ""
+"Enter the heading for the email sent to the customer after the quote request "
+"is accepted by the administrator."
+msgstr ""
+"Введите заголовок электронного письма, отправленного клиенту после того, как "
+"запрос предложения будет принят администратором."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:567
+msgid ""
+"Enter the body for the email sent to the customer after the quote request is "
+"accepted by the administrator."
+msgstr ""
+"Введите текст электронного письма, отправленного клиенту после того, как "
+"запрос предложения будет принят администратором."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:600
+msgid "Quote Rejected Email Template: Sent to the Customer"
+msgstr ""
+"Шаблон электронного письма с отклоненным предложением: Отправлено Заказчику"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:609
+msgid ""
+"Enter the subject for the email sent to the customer when a quote is "
+"rejected by the administrator."
+msgstr ""
+"Введите тему электронного письма, отправляемого клиенту в случае отклонения "
+"предложения администратором."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:644
+msgid ""
+"Enter the heading for the email sent to the customer after the quote request "
+"is rejected by the administrator."
+msgstr ""
+"Введите заголовок электронного письма, отправленного клиенту после того, как "
+"администратор отклонит запрос предложения."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:680
+msgid ""
+"Enter the body for the email sent to the customer after the quote request is "
+"rejected by the administrator."
+msgstr ""
+"Введите текст электронного письма, отправленного клиенту после того, как "
+"администратор отклонит запрос предложения."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:714
+msgid "Reminder Email Template: Sent to the Customer"
+msgstr "Шаблон электронного письма с напоминанием: Отправлено Клиенту"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:728
+msgid ""
+"Enter the subject for the email sent to the customer when there is no action "
+"from the customer."
+msgstr ""
+"Введите тему электронного письма, отправленного клиенту, когда от клиента не "
+"будет никаких действий."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:762
+msgid "Enter the heading for the reminder email sent to the customer."
+msgstr ""
+"Введите заголовок электронного письма с напоминанием, отправленного клиенту."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:796
+msgid "Enter the email body for the reminder email sent to the customer."
+msgstr ""
+"Введите текст электронного письма с напоминанием, отправленного клиенту."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:828
+msgid "Negotiation Email Template: Sent to the Customer"
+msgstr "Шаблон электронного письма для переговоров: Отправлено Клиенту"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:842
+msgid "Enter the subject for the negotiation email sent to the customer."
+msgstr ""
+"Введите тему электронного письма для переговоров, отправленного клиенту."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:876
+msgid "Enter the heading for the negotiation email sent to the customer."
+msgstr ""
+"Введите заголовок электронного письма с результатами переговоров, "
+"отправленного клиенту."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:910
+msgid "Enter the email body for the negotiation email sent to the customer."
+msgstr ""
+"Введите текст электронного письма для согласования, отправленного клиенту."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:942
+msgid ""
+"Quote Requested SMS / Google Chat Template: Sent to the Site Administrator"
+msgstr ""
+"Запрошенное предложение по шаблону SMS / Google Чата: Отправлено "
+"администратору сайта"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:949
+msgid "SMS And Google Chat Body"
+msgstr "Текст SMS-сообщения и Google-Чата"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:952
+msgid ""
+"Enter the content for the SMS/google chat notification sent to the "
+"administrator on receiving a quote request. you can enter text or fill the "
+"fields dynamically using placeholders from the above table. HTML tags are "
+"not accepted in this field."
+msgstr ""
+"Введите содержимое уведомления SMS / Google chat, отправляемого "
+"администратору при получении запроса предложения. вы можете ввести текст или "
+"заполнить поля динамически, используя заполнители из приведенной выше "
+"таблицы. HTML-теги в этом поле не принимаются."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:992
+msgid "Title"
+msgstr "Название"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:993
+msgid "Placeholder"
+msgstr "Плейсхолдер"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:998
+msgid "Core Fields"
+msgstr "Основные поля"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1003
+msgid "Billing First Name"
+msgstr "Имя для выставления счета"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1004
+msgid "@billing_first_name"
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1008
+msgid "Billing Last Name"
+msgstr "Фамилия для выставления счета"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1009
+msgid "@billing_last_name"
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1013
+msgid "Billing Company"
+msgstr "Платежная Компания"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1014
+msgid "@billing_company"
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1018
+msgid "Billing Country"
+msgstr "Страна Выставления счетов"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1019
+msgid "@billing_country"
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1022
+msgid "Billing Address 1"
+msgstr "Платежный адрес 1"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1023
+msgid "@billing_address_1"
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1027
+msgid "Billing Address 2"
+msgstr "Платежный адрес 2"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1028
+msgid "@billing_address_2"
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1031
+msgid "Billing City"
+msgstr "Город Выставления счетов"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1032
+msgid "@billing_city"
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1035
+msgid "Billing State"
+msgstr "Состояние выставления счетов"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1036
+msgid "@billing_state"
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1039
+msgid "Billing Postcode"
+msgstr "Почтовый индекс для выставления счетов"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1040
+msgid "@billing_postcode"
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1043
+msgid "Billing Phone"
+msgstr "Телефон для выставления счетов"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1044
+msgid "@billing_phone"
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1047
+msgid "Billing Email"
+msgstr "Электронная почта для выставления счетов"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1048
+msgid "@billing_email"
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1051
+msgid "Order Items"
+msgstr "Заказ Товаров"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1052
+msgid "@order_items"
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1055
+msgid "Payment Link"
+msgstr "Платежная Ссылка"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1056
+msgid "@payment_link"
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1059
+msgid "Customer Note"
+msgstr "Примечание для клиента"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1060
+msgid "@customer_note"
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1063
+msgid "Order ID"
+msgstr "Идентификатор заказа"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1064
+msgid "@order_id"
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1067
+msgid "Custom Fields"
+msgstr "Пользовательские Поля"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:89
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:120
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:355
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:452
+msgid "Name and type Can not be empty"
+msgstr "Имя и тип не могут быть пустыми"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:104
+msgid "Field has been rearranged successfully"
+msgstr "Поле было успешно перестроено"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:144
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:340
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:474
+msgid "Enter options for the selcted types"
+msgstr "Введите параметры для выбранных типов"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:158
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:387
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:420
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:491
+msgid "Atleast one option is required"
+msgstr "Требуется по крайней мере один вариант"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:171
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:400
+msgid "Already exist"
+msgstr "Уже существуют"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:184
+msgid "Field has been added successfully"
+msgstr "Поле было успешно добавлено"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:272
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:637
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/Models/FormSettings.php:40
+msgid "Quote Request Form"
+msgstr "Форма Запроса ценового предложения"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:275
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:640
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/Models/FormSettings.php:42
+msgid "Your request has been submitted."
+msgstr "Ваш запрос был отправлен."
+
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:303
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/quote_list/success_alert_toast.js:14
+msgid "Saved Successfully."
+msgstr "Успешно сохранен."
+
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:433
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:504
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:543
+msgid "No Field Exist"
+msgstr "Никакого поля Не Существует"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:515
+msgid "Field has been edited successfully"
+msgstr "Поле было успешно отредактировано"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/ListPageController.php:125
+msgid "Quote List Page"
+msgstr "Страница Списка предложений"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/ListPageController.php:130
+msgid "Additional Options"
+msgstr "Дополнительные опции"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/ListPageController.php:135
+msgid "Quote Form"
+msgstr "Форма предложения"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/ListPageController.php:167
+#: ../../../../../../../projects/elex-request-a-quote/src/Widget/WidgetController.php:37
+#: ../../../../../../../projects/elex-request-a-quote/src/Widget/WidgetController.php:62
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/ListPageSettings.php:28
+#: ../../../../../../../projects/elex-request-a-quote/src/Widget/Models/WidgetModel.php:29
+msgid "Quote List"
+msgstr "Список Предложений"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/ListPageController.php:172
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/ListPageSettings.php:37
+msgid "Your Quote List is Empty"
+msgstr "Ваш список предложений пуст"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/ListPageController.php:208
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/ListPageSettings.php:57
+msgid "Add More Items"
+msgstr "Добавьте Больше Элементов"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/QuoteListController.php:176
+msgid "Your request has been sent successfully"
+msgstr "Ваш запрос был успешно отправлен"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Templates/order_items.php:9
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:61
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:69
+msgid "Products"
+msgstr "Продукты"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Templates/order_items.php:13
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:62
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:70
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/quote_list/quote_list_content.js:52
+msgid "Price"
+msgstr "Цена"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Templates/order_items.php:18
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:63
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:71
+msgid "Qty."
+msgstr "Кол-во."
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Templates/order_items.php:23
+#: ../../../../../../../projects/elex-request-a-quote/src/Templates/order_items.php:125
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:64
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:117
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:72
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:125
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/squared_logo_template.php:122
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/quote_list/quote_list_content.js:78
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/quote_list/quote_list_content.js:110
+msgid "Subtotal"
+msgstr "Промежуточный итог"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Templates/order_items.php:133
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:121
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:129
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/squared_logo_template.php:126
+msgid "Fees"
+msgstr "Сборы"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Templates/order_items.php:142
+msgid "Discount"
+msgstr "Скидка"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Templates/order_items.php:151
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/quote_list/quote_list_content.js:90
+msgid "Tax"
+msgstr "Налог"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Templates/order_items.php:160
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:125
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:133
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/squared_logo_template.php:130
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/quote_list/quote_list_content.js:129
+msgid "Total"
+msgstr "Итого"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Templates/order_items.php:175
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:143
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:152
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/squared_logo_template.php:148
+msgid "Terms & Conditions"
+msgstr "Условия использования"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/HelpAndSupport/HelpAndSupportController.php:44
+msgid "FAQs"
+msgstr "Вопросы и ответы"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/HelpAndSupport/HelpAndSupportController.php:49
+msgid "Raise a Ticket"
+msgstr "Поднимите билет"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/ElementorWidget/Eraq_add_to_quote_widget.php:11
+#: ../../../../../../../projects/elex-request-a-quote/src/Settings/SettingsController.php:398
+#: ../../../../../../../projects/elex-request-a-quote/src/Settings/Models/GeneralSettings.php:93
+msgid "Add to Quote"
+msgstr "Добавить в цитату"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Settings/SettingsController.php:415
+msgid "show_for_all_products"
+msgstr "show_for_all_products показать все_продукты"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Settings/SettingsController.php:535
+msgid "General Settings"
+msgstr "Общие настройки"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Settings/SettingsController.php:540
+msgid "Hide Add to Cart & Price"
+msgstr "Скрыть Добавить в корзину и цену"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Settings/SettingsController.php:545
+msgid "Notification Settings"
+msgstr "Настройки уведомлений"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Settings/SettingsController.php:549
+msgid "Template Settings"
+msgstr "Настройки шаблона"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Settings/SettingsController.php:554
+msgid "Quote List Menu"
+msgstr "Меню Списка предложений"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Settings/SettingsController.php:558
+msgid "Button Customization"
+msgstr "Настройка кнопок"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Settings/SettingsController.php:562
+msgid "Go Premium!"
+msgstr "Переходите на Премиум-уровень!"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/Models/FormSettings.php:46
+msgid "First Name"
+msgstr "Имя"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/Models/FormSettings.php:49
+msgid "Add your first name."
+msgstr "Добавьте свое имя."
+
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/Models/FormSettings.php:61
+msgid "Last Name"
+msgstr "Фамилия"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/Models/FormSettings.php:64
+msgid "Add your last name."
+msgstr "Добавьте свою фамилию."
+
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/Models/FormSettings.php:76
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:273
+msgid "Email"
+msgstr "Электронная почта"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/Models/FormSettings.php:79
+msgid "Add your email."
+msgstr "Добавьте свой адрес электронной почты."
+
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/Models/FormSettings.php:92
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1063
+msgid "Phone"
+msgstr "Телефон"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/Models/FormSettings.php:95
+msgid "Enter your Phone number"
+msgstr "Введите свой номер телефона"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1020
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1069
+msgid "First name"
+msgstr "Имя"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1024
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1073
+msgid "Last name"
+msgstr "Фамилия"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1028
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1077
+msgid "Company"
+msgstr "Компания"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1032
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1081
+msgid "Address line 1"
+msgstr "Адресная строка 1"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1036
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1085
+msgid "Address line 2"
+msgstr "Адресная строка 2"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1040
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1089
+msgid "City"
+msgstr "Город"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1044
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1093
+msgid "Postcode / ZIP"
+msgstr "Почтовый индекс / ZIP"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1048
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1097
+msgid "Country / Region"
+msgstr "Страна / Регион"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1052
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1101
+msgid "Select a country / region&hellip;"
+msgstr "Выберите страну / регион…"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1055
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1104
+msgid "State / County"
+msgstr "Штат / Округ"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1060
+msgid "Email address"
+msgstr "Эл. адрес"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1119
+msgid "Billing"
+msgstr "Выставление счетов"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1164
+msgid "Shipping"
+msgstr "Доставка"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1208
+msgid "General"
+msgstr "Общая информация"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1364
+msgid "First name should be a string."
+msgstr "Первое имя должно быть строкой."
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1370
+msgid "Last name should be a string."
+msgstr "Фамилия должна быть строкой."
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1375
+msgid "Company name should be a string."
+msgstr "Название компании должно быть строкой."
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1380
+msgid "Email should be in valid format."
+msgstr "Электронное письмо должно быть в допустимом формате."
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1385
+msgid "Email should be a int of length 10."
+msgstr "Электронное письмо должно быть размером int длиной 10."
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1390
+msgid "Address 1  should be a string."
+msgstr "Адрес 1 должен быть строкой."
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1395
+msgid "Address 2  should be a string."
+msgstr "Адрес 2 должен быть строкой."
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1400
+msgid "City name  should be a string."
+msgstr "Название города должно быть строкой."
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1405
+msgid "state name  should be a string."
+msgstr "имя состояния должно быть строкой."
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1410
+msgid "Postcode  should be a string."
+msgstr "Почтовый индекс должен быть строкой."
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1416
+msgid "Country name should be a string."
+msgstr "Название страны должно быть строкой."
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1421
+msgid "Address array is empty"
+msgstr "Адресный массив пуст"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1429
+msgid "Custom Fields array is empty"
+msgstr "Массив пользовательских полей пуст"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1443
+msgid "User not found"
+msgstr "Пользователь не найден"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1458
+msgid "Unauthorize Access"
+msgstr "Несанкционированный доступ"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/Models/TemplateModel.php:263
+msgid "Product Name: Price * Quantity = Subtotal"
+msgstr "Название продукта: Цена * Количество = Промежуточный итог"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/Models/TemplateModel.php:273
+msgid "Total :"
+msgstr "Итого :"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/Models/TemplateModel.php:353
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:137
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:145
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/squared_logo_template.php:142
+msgid "Accept & Pay"
+msgstr "Принять и оплатить"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:7
+msgid "Received a Quote!"
+msgstr "Получено ценовое предложение!"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:21
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:26
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/squared_logo_template.php:23
+msgid "Quote #213"
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:26
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:30
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/squared_logo_template.php:32
+msgid "Issued By: Max Smith"
+msgstr "Выпущено: Макс Смит"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:29
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:33
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/squared_logo_template.php:35
+msgid "Issued Date: 02-March-2022"
+msgstr "Дата выпуска: 02-Март-2022"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:32
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:36
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/squared_logo_template.php:38
+msgid "Expiry Date: 04-March-2022"
+msgstr "Срок годности: 04 марта-2022"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:41
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:49
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/squared_logo_template.php:46
+msgid "Will Miller"
+msgstr "Уилл Миллер"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:44
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:52
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/squared_logo_template.php:49
+msgid "Kelly.elliot@gmail.com"
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:47
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:55
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/squared_logo_template.php:52
+msgid "(190)081-0336"
+msgstr "(190)081-0336"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:77
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:97
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:85
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:105
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/squared_logo_template.php:82
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/squared_logo_template.php:102
+msgid "Product Name"
+msgstr "Название продукта"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:78
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:98
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:86
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:106
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/squared_logo_template.php:83
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/squared_logo_template.php:103
+msgid "SKU:s123432"
+msgstr "АРТИКУЛ: s123432"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:146
+msgid ""
+"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy "
+"eirmod tempor invidunt\n"
+"                        ut labore et dolore magna aliquyam erat, sed diam "
+"voluptua. At vero eos."
+msgstr ""
+"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy "
+"eirmod tempor invidunt  ut labore et dolore magna aliquyam erat, sed diam "
+"voluptua. В веро эос."
+
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:155
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:165
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/squared_logo_template.php:160
+msgid "Powered by ELEX Request a Quote"
+msgstr "Работает на ELEX Запросить ценовое предложение"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:45
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/squared_logo_template.php:42
+msgid "Customer Details"
+msgstr "Сведения о клиенте"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:156
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/squared_logo_template.php:151
+msgid ""
+"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy "
+"eirmod tempor invidunt\n"
+"\t\t\t\t\t\tut labore et dolore magna aliquyam erat, sed diam voluptua. At "
+"vero eos."
+msgstr ""
+"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy "
+"eirmod tempor invidunt  ut labore et dolore magna aliquyam erat, sed diam "
+"voluptua. В веро эос."
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:258
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_setting_header.js:14
+msgid "Form Settings"
+msgstr "Настройки формы"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:269
+msgid "Show Request a Quote Form"
+msgstr "Показать форму запроса ценового предложения"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:284
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:338
+msgid ""
+"Enable this option to create a WordPress user for guest users after they "
+"submit the form."
+msgstr ""
+"Включите эту опцию, чтобы создать пользователя WordPress для приглашенных "
+"пользователей после отправки формы."
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:296
+msgid "Auto Complete Form"
+msgstr "Автоматически Заполняемая Форма"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:309
+msgid ""
+"Turn this On to autocomplete request quote form with user account details."
+msgstr ""
+"Включите эту функцию для автозаполнения формы запроса предложения с "
+"указанием данных учетной записи пользователя."
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:321
+msgid "Create WordPress User"
+msgstr "Создать пользователя WordPress"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:350
+msgid "Enable reCAPTCHA"
+msgstr "Включить reCAPTCHA"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:367
+msgid ""
+"Enable to activate reCAPTCHA v3 verification for submissions on the 'Request "
+"a Quote' form. "
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:375
+msgid "To use reCAPTCHA, sign up for an "
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:380
+msgid "API Key Pair "
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:382
+msgid "for your site."
+msgstr "для вашего сайта."
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:395
+msgid "Site Key"
+msgstr "Ключ сайта"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:397
+msgid "Enter a Valid Site Key"
+msgstr "Введите Действительный ключ Сайта"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:408
+msgid "Enter your Site Key"
+msgstr "Введите Ключ вашего сайта"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:417
+msgid "Secret Key"
+msgstr "Секретный Ключ"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:419
+msgid ""
+"Enter a valid secret key. Quotes will not be accepted if entered incorrectly."
+msgstr ""
+"Введите действительный секретный ключ. Предложения, введенные неправильно, "
+"приниматься не будут."
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:429
+msgid "Enter your Secret key"
+msgstr "Введите свой Секретный ключ"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:441
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_setting_header.js:44
+msgid "Form Header Title"
+msgstr "Заголовок формы Title"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:448
+msgid ""
+"Enter the text you want to display as the header/title of the quote form."
+msgstr ""
+"Введите текст, который вы хотите отобразить в качестве заголовка формы "
+"предложения."
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:495
+msgid "Fill Your Details"
+msgstr "Заполните Свои Данные"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:507
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_setting_header.js:67
+msgid "Form Submit Actions"
+msgstr "Действия по отправке формы"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:517
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_setting_header.js:72
+msgid "\"Send Request\" Button Redirectional URl"
+msgstr "Перенаправляющий URL кнопки \"Отправить запрос\""
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:527
+msgid ""
+"Please provide the page URL that you wish to redirect to, After clicking the "
+"\"Send Request\" button"
+msgstr ""
+"Пожалуйста, укажите URL страницы, на которую вы хотите перенаправить, После "
+"нажатия кнопки \"Отправить запрос\"."
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:583
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_setting_header.js:98
+msgid "\"Send Request\" Success Message"
+msgstr "Сообщение об успешном выполнении \"Отправить запрос\""
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:593
+msgid ""
+"Enter the text that you want to display as a message after the successful "
+"submission of the quote request."
+msgstr ""
+"Введите текст, который вы хотите отобразить в виде сообщения после успешной "
+"отправки запроса предложения."
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:640
+msgid "Your request has been sent successfully."
+msgstr "Ваш запрос был успешно отправлен."
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:650
+msgid "Form Field Settings"
+msgstr "Настройки поля формы"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:656
+msgid ""
+"When you create custom fields, the placeholder for the email template will "
+"be created based on the label text (For eg: Upload Image will be "
+"@Upload_Image). If you make changes to the label text in the future, please "
+"make sure to use the updated placeholder in the email body. Also, the label "
+"text cannot be modified for orders placed before the change."
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:664
+msgid "Label Name"
+msgstr "Название этикетки"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:665
+msgid "Field Type "
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:666
+msgid "Placeholder "
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:667
+msgid "Connected To "
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:668
+msgid "Required "
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:669
+msgid "Actions "
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:694
+msgid "Add New Field "
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/toast_message/update_message.js:17
+msgid "Updated Successfully"
+msgstr "Успешно Обновлено"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/quote_list/quote_list_content.js:239
+msgid "Update List"
+msgstr "Список Обновлений"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/quote_list/quote_list_content.js:443
+msgid "Product Detail"
+msgstr "Подробная информация о продукте"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/quote_list/quote_list_empty.js:29
+msgid "Go to Shop Page"
+msgstr "Перейти на Страницу Магазина"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/quote_list/show_clear_list.js:14
+msgid "Clear List"
+msgstr "Очистить список"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/mini_quote_list/render_mini_quote_list.js:31
+msgid "items in Quote List"
+msgstr "товары в списке предложений"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_setting_header.js:23
+msgid "Show Request a Quote"
+msgstr "Показать Запрос ценового предложения"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_setting_header.js:35
+msgid ""
+"Turn this Off, if you want to use any third party form to get the quote "
+"requests."
+msgstr ""
+"Отключите эту функцию, если вы хотите использовать какую-либо стороннюю "
+"форму для получения запросов на котировки."
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:273
+msgid "Select a type"
+msgstr "Выберите тип"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:273
+msgid "Textarea"
+msgstr "Текстовое Поле"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:273
+msgid "Url"
+msgstr "URL -адрес"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:273
+msgid "Image"
+msgstr "Изображение"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:273
+msgid "Checkbox"
+msgstr "Флажок"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:273
+msgid "Date"
+msgstr "Дата"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:273
+msgid "Number"
+msgstr "Число"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:273
+msgid "Radio"
+msgstr "Радио"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:273
+msgid "Tel"
+msgstr "Тел"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:304
+msgid "Select Connected To"
+msgstr "Выберите Подключенный к"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:304
+msgid "billing_first_name"
+msgstr "имя_фирмы для выставления счета"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:304
+msgid "billing_last_name"
+msgstr "имя_постоянства выставления счета"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:304
+msgid "billing_email"
+msgstr "выставление счета_ по электронной почте"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:304
+msgid "billing_company"
+msgstr "выставляющая счет_компания"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:304
+msgid "billing_country"
+msgstr "выставляющая счет_кантри"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:304
+msgid "billing_address_1"
+msgstr "платежный_адрес_1"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:304
+msgid "billing_address_2"
+msgstr "платежный_адрес_2"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:304
+msgid "billing_city"
+msgstr "выставляющий счет_сити"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:304
+msgid "billing_state"
+msgstr "выставляющий счет_state"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:304
+msgid "billing_postcode"
+msgstr "почтовый код для выставления счета"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:304
+msgid "billing_phone"
+msgstr "выставляющий счет_фон"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:304
+msgid "order_comments"
+msgstr "order_comments ( заказ_комментариев )"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:304
+msgid "Custom Field"
+msgstr "Пользовательское поле"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:395
+msgid "Enter values and click enter to add more"
+msgstr "Введите значения и нажмите Enter, чтобы добавить дополнительные"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:396
+msgid "Click Enter to add more"
+msgstr "Нажмите Enter, чтобы добавить дополнительные сведения"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form/fields/form.js:407
+msgid "Send Request"
+msgstr "Отправить запрос"
+
+#. Name of the plugin
+msgid "ELEX WooCommerce Request a Quote - Basic"
+msgstr "ELEX WooCommerce Запросить ценовое предложение - Basic"
+
+#. Description of the plugin
+msgid ""
+"Create Request a Quote option for your WooCommerce products. You can also "
+"create and customize request a quote forms to be displayed on the frontend. "
+"The plugin will also send automated email notifications for quote "
+"submissions, approvals, and rejections."
+msgstr ""
+"Создайте опцию запроса предложения для ваших продуктов WooCommerce. Вы также "
+"можете создавать и настраивать формы запроса предложения для отображения во "
+"внешнем интерфейсе. Плагин также будет отправлять автоматические уведомления "
+"по электронной почте о подаче предложений, одобрениях и отклонениях."
+
+#. URI of the plugin
+msgid "https://elextensions.com/plugin/"
+msgstr ""
+
+#. Author of the plugin
+msgid "ELEXtensions"
+msgstr "Напряжения"
+
+#. Author URI of the plugin
+msgid "https://elextensions.com/"
+msgstr ""

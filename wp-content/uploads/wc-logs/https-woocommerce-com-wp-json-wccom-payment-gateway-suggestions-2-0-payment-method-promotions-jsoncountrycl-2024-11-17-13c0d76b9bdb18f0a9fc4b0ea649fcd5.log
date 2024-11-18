@@ -1,0 +1,23 @@
+2024-11-17T16:22:14+00:00 ERROR Error getting data feed
+2024-11-17T16:22:15+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 77: error setting certificate verify locations:
+  CAfile: /home4/cni64049/public_html/wp-includes/certificates/ca-bundle.crt
+  CApath: none
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)

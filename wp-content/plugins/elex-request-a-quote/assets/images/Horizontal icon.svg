@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="50" viewBox="0 0 54 50">
+  <g id="Horizontal_icon" data-name="Horizontal icon" transform="translate(595 -430) rotate(90)">
+    <g id="Rectangle_1021" data-name="Rectangle 1021" transform="translate(430 541)" fill="#fff" stroke="#bdbdbd" stroke-width="1">
+      <path d="M8,0H18a5,5,0,0,1,5,5V49a5,5,0,0,1-5,5H8a8,8,0,0,1-8-8V8A8,8,0,0,1,8,0Z" stroke="none"/>
+      <path d="M8,.5H18A4.5,4.5,0,0,1,22.5,5V49A4.5,4.5,0,0,1,18,53.5H8A7.5,7.5,0,0,1,.5,46V8A7.5,7.5,0,0,1,8,.5Z" fill="none"/>
+    </g>
+    <g id="Rectangle_1022" data-name="Rectangle 1022" transform="translate(457 541)" fill="#fff" stroke="#bdbdbd" stroke-width="1">
+      <path d="M5,0H15a8,8,0,0,1,8,8V46a8,8,0,0,1-8,8H5a5,5,0,0,1-5-5V5A5,5,0,0,1,5,0Z" stroke="none"/>
+      <path d="M5,.5H15A7.5,7.5,0,0,1,22.5,8V46A7.5,7.5,0,0,1,15,53.5H5A4.5,4.5,0,0,1,.5,49V5A4.5,4.5,0,0,1,5,.5Z" fill="none"/>
+    </g>
+  </g>
+</svg>

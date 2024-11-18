@@ -1,0 +1,9 @@
+{
+    "/assets/js/components/form_settings.min.js": "/assets/js/components/form_settings.min.js",
+    "/assets/js/components/quote_list/quote_list.min.js": "/assets/js/components/quote_list/quote_list.min.js",
+    "/assets/js/components/mini_quote_list/render_mini_quote_list.min.js": "/assets/js/components/mini_quote_list/render_mini_quote_list.min.js",
+    "/assets/js/front_script.min.js": "/assets/js/front_script.min.js",
+    "/assets/js/components/quote_list/add_to_quote.min.js": "/assets/js/components/quote_list/add_to_quote.min.js",
+    "/assets/js/components/quote_list/quote_items.min.js": "/assets/js/components/quote_list/quote_items.min.js",
+    "/assets/css/app.css": "/assets/css/app.css"
+}

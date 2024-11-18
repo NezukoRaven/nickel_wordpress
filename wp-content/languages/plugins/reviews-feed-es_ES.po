@@ -1,0 +1,1693 @@
+# Translation of Plugins - Reviews Feed – Add Testimonials and Customer Reviews From Google Reviews, Yelp, TripAdvisor, and More - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Reviews Feed – Add Testimonials and Customer Reviews From Google Reviews, Yelp, TripAdvisor, and More - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-06-26 14:36:44+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Reviews Feed – Add Testimonials and Customer Reviews From Google Reviews, Yelp, TripAdvisor, and More - Stable (latest release)\n"
+
+#: templates/email.php:93
+msgid "%sLog in and disable these emails%s"
+msgstr "%sAcceder y desactivar estos correos electrónicos%s"
+
+#: templates/email.php:89
+msgid "Sent from %s"
+msgstr "Enviado desde %s"
+
+#. translators: %s - link to a site.
+#: templates/email.php:82
+msgid "This is a courtesy email sent from the Smash Balloon Custom Facebook Feed plugin on your website to alert you when there is an issue with one of your Facebook feeds."
+msgstr "Este es un correo electrónico de cortesía enviado desde el plugin Smash Balloon Custom Facebook Feed de tu web para alertarle cuando hay un problema con uno de tus feeds de Facebook."
+
+#: class/Common/Settings/Tabs/SBR_Translation_Tab.php:153
+msgid "Used for header Reviews number “Over XXX Reviews”, make sure to add %s to be replaced with reviews number."
+msgstr "Se utiliza para el encabezado de número de reseñas «Más de XXX reseñas», asegúrate de añadir %s para que se sustituya por el número de reseñas."
+
+#: class/Common/SBR_Education.php:94
+msgid "You can use hashtags on Instagram for so many things; but one of the most effective is for targeted promotions or competitions which engage with your audience and boost your exposure. Our Instagram Feed Pro plugin allows you to bring your hashtagged content into your website and display it in one centralized location."
+msgstr "Puedes usar hashtags en Instagram para muchas cosas, pero uno de las más efectivos es para promociones o concursos dirigidos que atraen a tu audiencia y aumentan tu exposición. Nuestro plugin «Instagram Feed Pro» te permite llevar tu contenido etiquetado en tu web y mostrarlo en una ubicación centralizada."
+
+#: class/Common/SBR_Education.php:93
+msgid "Run Promotions with Instagram Hashtags"
+msgstr "Ejecuta promociones con hashtags de Instagram"
+
+#: class/Common/SBR_Education.php:88
+msgid "Twitter testimonials are one of the best ways to add verifiable social proof to your website. They add credibility to your brand, product, or service by displaying reviews from real people to your site, helping to convert more visitors into customers. Our free Custom Twitter Feeds plugin makes displaying Tweets on your website a breeze."
+msgstr "Las recomendaciones de Twitter son una de las mejores formas para añadir pruebas sociales verificables a tu web. Añaden credibilidad a tu marca, producto o servicio al mostrar reseñas de personas reales en tu sitio, lo que ayuda a convertir más visitantes en clientes. Nuestro plugin gratuito «Custom Twitter Feeds» facilita la visualización de tuits en tu web."
+
+#: class/Common/SBR_Education.php:87
+msgid "Adding Social Proof with Twitter Feeds"
+msgstr "Añadiendo pruebas sociales con feeds de Twitter"
+
+#: class/Common/SBR_Education.php:76
+msgid "You can automatically feed live YouTube videos to your website using our Feeds For YouTube Pro plugin. It takes all the hassle out of publishing live videos to your site by automating the process."
+msgstr "Puedes tener un feed automático de vídeos de YouTube en vivo en tu web usando nuestro plugin Feeds For YouTube Pro. Al automatizar el proceso, elimina todas las molestias de la publicación de vídeos en directo en tu sitio ."
+
+#: class/Common/SBR_Education.php:75
+msgid "Automated YouTube Live Streaming"
+msgstr "Transmisión automática en vivo de YouTube"
+
+#: class/Common/SBR_Education.php:67
+msgid "Save yourself the time and effort of posting events both to Facebook and your website by using the Custom Facebook Feed Pro plugin to automatically feeds events right to your site."
+msgstr "Ahórrate el tiempo y el esfuerzo de publicar eventos tanto en Facebook como en tu web utilizando el plugin «Custom Facebook Feed Pro» para enviar automáticamente los eventos directamente a tu sitio."
+
+#: class/Common/SBR_Education.php:66
+msgid "Automatically Feed Facebook Events to Your Website"
+msgstr "Envía automáticamente el feed de eventos de Facebook a tu web"
+
+#: class/Common/SBR_Education.php:61
+msgid "Include the Facebook comments with each of your posts to engage your website viewers, keep them on your site for longer, and encourage them to interact with your content."
+msgstr "Incluye los comentarios de Facebook en cada una de tus publicaciones para atraer a los visitantes de tu web, mantenerlos en tu sitio durante más tiempo y alentarlos a interactuar con tu contenido."
+
+#: class/Common/SBR_Education.php:60
+msgid "Bring the Conversation to Your Website"
+msgstr "Trae la conversación a tu web"
+
+#: class/Common/SBR_Education.php:55 class/Common/SBR_Education.php:82
+msgid "Reviews for your product or service are the best way to give users the confidence to take action. With the Reviews extension, easily add 5 star reviews and recommendations from Facebook to your website help increase conversions."
+msgstr "Las reseñas de tu producto o servicio son la mejor manera de darles a los usuarios la confianza para realizar una acción. Con la extensión «Reviews», añade fácilmente reseñas y recomendaciones de 5 estrellas desde Facebook a tu web para ayudar a aumentar las conversiones."
+
+#: class/Common/SBR_Education.php:54 class/Common/SBR_Education.php:81
+msgid "Use Facebook Reviews to Boost Conversions"
+msgstr "Usa las reseñas de Facebook para aumentar las conversiones"
+
+#: class/Common/SBR_Education.php:49
+msgid "You've done the hard work of getting a visitor onto your site, now keep them there by displaying your Facebook photos and videos directly on your site, rather than sending your visitors away to Facebook."
+msgstr "Has hecho el trabajo duro para conseguir un visitante en tu sitio, ahora mantenlo allí mostrando tus fotos y vídeos de Facebook directamente en tu sitio, en lugar de enviar a tus visitantes a Facebook."
+
+#: class/Common/SBR_Education.php:48
+msgid "Bring Your Feeds to Life with Media Content"
+msgstr "Da vida a tus feeds con Media Content"
+
+#: class/Common/FeedDisplay.php:407
+#: class/Common/Settings/Tabs/SBR_Translation_Tab.php:152
+#: class/sbr-functions.php:278
+msgid "Over %s Reviews"
+msgstr "Más de %s reseñas"
+
+#: class/Common/Error_Reporter.php:560
+msgid "More Information"
+msgstr "Más información"
+
+#: class/Common/Error_Reporter.php:559
+msgid "To prevent the automated data deletion for the account, please reconnect your account within 7 days."
+msgstr "Para evitar la eliminación automática de los datos de la cuenta, vuelve a conectarla en un plazo de 7 días."
+
+#: class/Common/Error_Reporter.php:556
+msgid "Facebook Feed related data for the account(s) %s was removed due to permission for the Smash Balloon App on Facebook being revoked."
+msgstr "Los datos relacionados con el feed de Facebook de la(s) cuenta(s) %s se han quitado debido a que se ha revocado el permiso de la aplicación Smash Balloon en Facebook."
+
+#: class/Common/Error_Reporter.php:554
+msgid "An account admin has deauthorized the Smash Balloon app used to power the Facebook Feed plugin."
+msgstr "Un usuario con cuenta de administrador ha retirado la autorización de la aplicación Smash Balloon utilizada para el plugin de Facebook Feed."
+
+#: class/Common/Error_Reporter.php:552
+msgid "Action Required Within 7 Days"
+msgstr "Acción requerida en 7 días"
+
+#: class/Common/Error_Reporter.php:446 class/Common/Error_Reporter.php:447
+#: class/Common/Error_Reporter.php:450 class/Common/Error_Reporter.php:451
+msgid "Directions on How to Resolve This Issue"
+msgstr "Instrucciones sobre cómo resolver este problema"
+
+#: class/Common/Admin/SBR_Admin_Notice.php:47
+msgid "You have reached the review source limit for (%s). In order to add additional sources you'll need to create and enter an API key. Please add API key %shere%s."
+msgstr "Has alcanzado el límite de fuentes de reseñas para (%s). Para añadir fuentes adicionales tendrás que crear e introducir una clave de API. Por favor, añade la clave de API %saquí%s."
+
+#: class/Common/Admin/SBR_Collections_Builder.php:31
+msgid "Collections"
+msgstr "Colecciones"
+
+#: class/Common/Admin/SBR_Support_Tool.php:432
+#: class/Common/Admin/SBR_Support_Tool.php:433
+msgid "Support API tool"
+msgstr "Herramienta de API de soporte"
+
+#: class/Common/Admin/SBR_Support_Tool.php:500
+msgid "Cannot get info"
+msgstr "No se ha podido obtener información"
+
+#: class/Common/Builder/SBR_Feed_Saver_Manager.php:1213
+#: class/Common/Builder/SBR_Feed_Saver_Manager.php:1319
+msgid "Please make sure the collection exists"
+msgstr "Asegúrate de que la colección existe"
+
+#: class/Common/Builder/SBR_Feed_Saver_Manager.php:1491
+msgid "Cannot duplicate Collection, something went wrong!"
+msgstr "No se ha podido duplicar la colección, ¡algo ha ido mal!"
+
+#: class/Common/Error_Reporter.php:433
+msgid "Your access token could not be decrypted on this website. Reconnect this account or go to our website to learn how to prevent this."
+msgstr "Tu token de acceso no ha podido ser descifrado en esta web. Vuelve a conectar esta cuenta o ve a nuestra web para saber cómo evitarlo."
+
+#: class/Common/Error_Reporter.php:437
+msgid "API Error %s:"
+msgstr "Error de la API %s:"
+
+#: class/Common/Error_Reporter.php:438
+msgid "Error connecting to the Facebook API."
+msgstr "Error al conectar con la API de Facebook."
+
+#: class/Common/Error_Reporter.php:455
+msgid "An unknown error has occurred."
+msgstr "Ha ocurrido un error desconocido."
+
+#: class/Common/Error_Reporter.php:495
+msgid "There's an Issue with a Reviews Feed on Your Website"
+msgstr "Hay un problema con un feed de reseñas en tu sitio web"
+
+#: class/Common/Error_Reporter.php:496
+msgid "A Custom Reviews Feed on your website is currently unable to connect to Facebook to retrieve new posts. Don't worry, your feed is still being displayed using a cached version, but is no longer able to display new posts."
+msgstr "El feed de reseñas personalizado de tu sitio web no se ha podido conectar a Facebook para recuperar entradas nuevas. No te preocupes, tu feed se sigue mostrando utilizando una versión en caché, pero ya no puede mostrar entradas nuevas."
+
+#: class/Common/Error_Reporter.php:497
+msgid "This is caused by an issue with your Facebook account connecting to the Facebook API. For information on the exact issue and directions on how to resolve it, please visit the %sCustom Facebook Feed settings page%s on your website."
+msgstr "Esto está causado por un problema con tu cuenta de Facebook al conectar con la API de Facebook. Para más información sobre el problema exacto e indicaciones sobre cómo resolverlo, por favor, visita en tu web la página de %sajustes de Custom Facebook Feed%s."
+
+#: class/Common/Error_Reporter.php:526
+msgid "All Facebook Data has Been Remove."
+msgstr "Se han quitado todos los datos de Facebook."
+
+#: class/Common/Error_Reporter.php:534
+msgid "Action Required Within 7 Days:"
+msgstr "Acción requerida en 7 días:"
+
+#: class/Common/Error_Reporter.php:535
+msgid "Your Facebook Reviews feed has been not viewed in the last 14 days. Due to Facebook data privacy rules, all data for this feed will be deleted in 7 days time. To avoid automated data deletion, simply view the Facebook feed on your website within the next 7 days."
+msgstr "Tu feed de reseñas de Facebook no se ha visto en los últimos 14 días. Debido a las normas de privacidad de datos de Facebook, todos los datos de este feed se borrarán en un plazo de 7 días. Para evitar el borrado automático de datos, sólo tienes que ver el feed de Facebook en tu sitio web en los siguientes 7 días."
+
+#: class/Common/Error_Reporter.php:527
+msgid "An account admin has deauthorized the Smash Balloon app used to power the Facebook Feed plugin. The page was not reconnected within the 7 day limit and all Facebook data was automatically deleted on your website due to Facebook data privacy rules.<br/><br/>Due to API limitations your feeds will not show new reviews until you enter an API key on the settings page."
+msgstr "Un administrador de cuenta ha desautorizado la aplicación Smash Balloon utilizada para alimentar el plugin Facebook Feed. La página no se ha vuelto a conectar en el plazo de 7 días y todos los datos de Facebook se han borrado automáticamente en tu sitio web debido a las normas de privacidad de datos de Facebook.<br/><br/>Debido a las limitaciones de la API, tus feeds no mostrarán nuevas reseñas hasta que introduzcas una clave de API en la página de ajustes."
+
+#: class/Common/Admin/SBR_Support_Tool.php:277
+msgid "User Deleted"
+msgstr "Usuario borrado"
+
+#: class/Common/Admin/SBR_Support_Tool.php:271
+msgid "Cannot delete this user"
+msgstr "No se puede borrar este usuario"
+
+#: class/Common/Admin/SBR_Support_Tool.php:265
+msgid "You don't have enough permission to delete users"
+msgstr "No tienes permisos suficientes para borrar usuarios"
+
+#: class/Common/Admin/SBR_Support_Tool.php:242
+msgid "Temporary user created successfully"
+msgstr "Usuario temporal creado correctamente"
+
+#: class/Common/Admin/SBR_Support_Tool.php:228
+msgid "Cannot create user"
+msgstr "No se puede crear el usuario"
+
+#: class/Common/Admin/SBR_Support_Tool.php:205
+msgid "You don't have enough permission to create users"
+msgstr "No tienes permisos suficientes para crear usuarios"
+
+#: class/Common/Admin/SBR_Support_Tool.php:169
+msgid "You Cannot connect user"
+msgstr "No se puede conectar el usuario"
+
+#: assets/admin/views/support/support-tools.php:42
+msgid "Endpoint"
+msgstr "Variable"
+
+#: assets/admin/views/support/support-tools.php:29
+msgid "Connected Sources"
+msgstr "Fuentes conectadas"
+
+#: class/Common/Error_Reporter.php:491
+msgid "Reviews Feed Report for "
+msgstr "Informe del feed de reseñas para "
+
+#: class/Common/Admin/SBR_Support_Builder.php:95
+msgid "Why do I only see a few reviews?"
+msgstr "¿Por qué sólo veo unas pocas reseñas?"
+
+#: class/Common/Customizer/Tabs/SBR_Settings_Tab.php:327
+msgid "By Character Count"
+msgstr "Por número de caracteres"
+
+#: class/Common/Customizer/Tabs/SBR_Settings_Tab.php:337
+msgid "Minimum"
+msgstr "Mínimo"
+
+#: class/Common/Customizer/Tabs/SBR_Settings_Tab.php:348
+msgid "Maxiumum"
+msgstr "Máximo"
+
+#: class/Common/Customizer/Tabs/SBR_Settings_Tab.php:350
+msgid "Unset"
+msgstr "Desmarcar"
+
+#: class/Common/FeedDisplay.php:117
+#: class/Common/Settings/Tabs/SBR_Translation_Tab.php:72
+#: class/sbr-functions.php:277
+msgid "Write a Review"
+msgstr "Escribe una reseña"
+
+#: class/Common/Services/SBR_Upgrader.php:109
+msgid "You are not allowed to install plugins."
+msgstr "No tienes permisos para instalar plugins."
+
+#: class/Common/Services/SBR_Upgrader.php:121
+#: class/Common/Services/SBR_Upgrader.php:287
+#: class/Common/Services/SBR_Upgrader.php:312
+msgid "You are not licensed."
+msgstr "No tienes licencia."
+
+#: class/Common/Services/SBR_Upgrader.php:227
+msgid "Could not connect."
+msgstr "No se ha podido conectar."
+
+#: class/Common/Services/SBR_Upgrader.php:236
+msgid "Could not install upgrade. Please download from smashballoon.com and install manually."
+msgstr "No se ha podido instalar la actualización. Por favor, descárgala de smashballoon.com e instálala manualmente."
+
+#: class/Common/Services/SBR_Upgrader.php:272
+#: class/Common/Services/SBR_Upgrader.php:331
+msgid "Plugin installed & activated."
+msgstr "Plugin instalado y activado."
+
+#: class/Common/Services/SBR_Upgrader.php:335
+msgid "Pro version installed but needs to be activated from the Plugins page inside your WordPress admin."
+msgstr "La versión Pro está instalada, pero hay que activarla desde la página de plugins en tu escritorio de WordPress."
+
+#: class/Common/Services/SBR_Upgrader.php:408
+msgid "This license is expired."
+msgstr "Esta licencia ha caducado."
+
+#: class/Common/Services/SBR_Upgrader.php:411
+msgid "We encountered a problem unlocking the PRO features. Please install the PRO version manually."
+msgstr "Hemos encontrado un problema al desbloquear las características PRO. Por favor, instala manualmente la versión PRO."
+
+#: class/Common/Settings/Tabs/SBR_Translation_Tab.php:73
+msgid "Used for header “Write a Review” button"
+msgstr "Se utiliza para el botón «Escribe una reseña» del encabezado"
+
+#: class/Common/Util.php:992
+msgid "Show only the most positive reviews and build brand trust with review filtering."
+msgstr "Muestra sólo las opiniones más positivas y genera confianza en la marca con el filtrado de reseñas."
+
+#: class/Common/Util.php:922
+msgid "Upgrade to our \"Elite\" tier to display reviews for plugins and themes."
+msgstr "Actualiza a nuestro nivel «Elite» para mostrar reseñas de plugins y temas."
+
+#: class/Common/Util.php:971
+msgid "Upgrade to Pro to add images"
+msgstr "Actualiza a Pro para añadir imágenes"
+
+#: class/Common/Util.php:972
+msgid "Display images from Yelp and Tripadvisor reviews."
+msgstr "Muestra imágenes de reseñas de Yelp y Tripadvisor."
+
+#: class/Common/Admin/SBR_New_User.php:302
+#: class/Common/Admin/SBR_Notifications.php:648
+msgid "Are you enjoying the Reviews Feed Plugin?"
+msgstr "¿Te está gustando el plugin Reviews Feed?"
+
+#: class/Common/Admin/SBR_New_User.php:415
+#: class/Common/Admin/SBR_Notifications.php:669
+msgid "Glad to hear you are enjoying it. Would you consider leaving a positive review?"
+msgstr "Me alegra saber que lo estás disfrutando. ¿Podrías dejar una reseña positiva?"
+
+#: class/Common/Admin/SBR_New_User.php:417
+msgid "Exclusive Offer! 60% OFF"
+msgstr "¡Oferta Exclusiva! 60% de descuento"
+
+#: class/Common/Admin/SBR_New_User.php:441
+#: class/Common/Admin/SBR_Notifications.php:670
+msgid "It really helps to support the plugin and help others to discover it too!"
+msgstr "Realmente ayuda a mantener el plugin y a que otros también lo descubran."
+
+#: class/Common/Admin/SBR_New_User.php:443
+msgid "We don’t run promotions very often, but for a limited time we’re offering 60% Off our Pro version to all users of our free Reviews Feed."
+msgstr "No realizamos promociones muy a menudo, pero durante un tiempo limitado ofrecemos un 60% de descuento en nuestra versión Pro a todos los usuarios de la versión gratuita de Reviews Feed."
+
+#: class/Common/Admin/SBR_Notifications.php:708
+msgid "Dismiss this message"
+msgstr "Descartar este mensaje"
+
+#: class/Common/Admin/SBR_Notifications.php:714
+msgid "Previous message"
+msgstr "Mensaje anterior"
+
+#: class/Common/Admin/SBR_Notifications.php:715
+msgid "Next message"
+msgstr "Mensaje siguiente"
+
+#: class/Common/Util.php:53
+msgid "https://trustpilot.com/review/..."
+msgstr "https://trustpilot.com/review/..."
+
+#: class/Common/Util.php:60
+msgid "https://wordpress.org/..."
+msgstr "https://wordpress.org/..."
+
+#: class/Common/Util.php:206
+msgid "You have reached the number of allowed sources."
+msgstr "Has alcanzado el número de fuentes permitidas."
+
+#: class/Common/Util.php:207
+msgid "Due to API limitations your feeds will not show new reviews because you have reached the number of allowed sources."
+msgstr "Debido a las limitaciones de la API, tus feeds no mostrarán nuevas reseñas porque has alcanzado el número de fuentes permitidas."
+
+#: class/Common/Util.php:901
+msgid "Upgrade to Pro to display TrustPilot reviews"
+msgstr "Actualiza a Pro para mostrar las reseñas de TrustPilot"
+
+#: class/Common/Util.php:902
+msgid "Upgrade to our \"Plus\" tier to display reviews from the well known business review site."
+msgstr "Actualiza a nuestro nivel «Plus» para mostrar las reseñas del conocido sitio de reseñas empresariales."
+
+#: class/Common/Util.php:921
+msgid "Upgrade to Pro to display WordPress.org reviews"
+msgstr "Actualiza a Pro para mostrar las reseñas de WordPress.org"
+
+#: class/Common/Tooltip_Wizard.php:122
+msgid "Add a Block"
+msgstr "Añadir un bloque"
+
+#: class/Common/Tooltip_Wizard.php:125
+msgid "Click the plus button, search for Reviews Feed"
+msgstr "Haz clic en el botón más y busca Reviews Feed"
+
+#: class/Common/Tooltip_Wizard.php:127
+msgid "and click the block to embed it."
+msgstr "y haz clic en el bloque para incrustarlo."
+
+#: class/Common/Tooltip_Wizard.php:130 templates/email.php:63
+msgid "Learn More"
+msgstr "Aprender más"
+
+#: class/Common/Tooltip_Wizard.php:135
+msgid "Done"
+msgstr "Hecho"
+
+#: class/Common/Util.php:1047
+msgid "Display images"
+msgstr "Muestra imágenes"
+
+#: class/Common/Util.php:1048
+msgid "With the Pro version enable images like avatars and review  photos"
+msgstr "Con la versión Pro activa imágenes como avatares y fotos de reseñas"
+
+#: class/Common/Util.php:1053
+msgid "Get carousel layout"
+msgstr "Obtén el diseño de carrusel"
+
+#: class/Common/Util.php:1054
+msgid "Show your reviews in a neat carousel with Review Feed Pro"
+msgstr "Muestra tus opiniones en un bonito carrusel con Review Feed Pro"
+
+#: class/Common/Util.php:1059
+msgid "Change your feed style with one-click templates!"
+msgstr "¡Cambia el estilo de tu feed con plantillas de un clic!"
+
+#: class/Common/Util.php:1060
+msgid "Over 12 templates to choose from"
+msgstr "Más de 12 plantillas para elegir"
+
+#: class/Common/Util.php:1065
+msgid "Only show selected reviews with Moderation mode"
+msgstr "Muestra sólo las reseñas seleccionadas con el modo moderación"
+
+#: class/Common/Util.php:1066
+msgid "Hide or show only certain reviews"
+msgstr "Oculta o muestra sólo determinadas reseñas"
+
+#. Description of the plugin
+#: sb-reviews.php
+msgid "Reviews Feeds allows you to display completely customizable Reviews feeds from many different providers."
+msgstr "Reviews feed te permite mostrar feeds de reseñas completamente personalizables de muchos proveedores diferentes."
+
+#. Author of the plugin
+#: sb-reviews.php
+msgid "Smash Balloon"
+msgstr "Smash Balloon"
+
+#: class/Common/Admin/MenuService.php:35
+msgid "All Feeds"
+msgstr "Todos los feeds"
+
+#: class/Common/Admin/MenuService.php:35
+msgid "Set up Plugin"
+msgstr "Configurar el plugin"
+
+#: class/Common/Admin/SBR_New_User.php:308
+#: class/Common/Admin/SBR_Notifications.php:636
+#: class/Common/Settings/Tabs/SBR_Feeds_Tab.php:58
+msgid "Yes"
+msgstr "Sí"
+
+#: class/Common/Admin/SBR_New_User.php:314
+#: class/Common/Admin/SBR_Notifications.php:641
+#: class/Common/Settings/Tabs/SBR_Feeds_Tab.php:59
+msgid "No"
+msgstr "No"
+
+#: class/Common/Admin/SBR_Plugin_Insltaller.php:43
+msgid "Could not install addon. Please download from smashballoon.com and install manually."
+msgstr "No se ha podido instalar la extensión. Por favor, descárgala desde smashballoon.com e instálala manualmente."
+
+#: class/Common/Admin/SBR_Plugin_Insltaller.php:103
+msgid "Plugin Installed & Activated."
+msgstr "Plugin instalado y activado."
+
+#: class/Common/Admin/SBR_Plugin_Insltaller.php:103
+msgid "Plugin Installed."
+msgstr "Plugin instalado."
+
+#: class/Common/Admin/SBR_Plugin_Insltaller.php:134
+msgid "Could not Activate the Plugin. Please Activate from the Plugins page."
+msgstr "No se ha podido activar el plugin. Actívalo desde la página de plugins."
+
+#: class/Common/Admin/SBR_Plugin_Insltaller.php:162
+msgid "Could not deactivate the Plugin. Please deactivate from the Plugins page."
+msgstr "No se ha podido desactivar el plugin. Desactívalo desde la página de plugins."
+
+#: class/Common/Admin/SBR_Support_Builder.php:67
+msgid "Getting Started"
+msgstr "Primeros pasos"
+
+#: class/Common/Admin/SBR_Support_Builder.php:68
+msgid "Some helpful resources to get you started"
+msgstr "Algunos recursos útiles para empezar"
+
+#: class/Common/Admin/SBR_Support_Builder.php:72
+msgid "Getting Started with Reviews Feed"
+msgstr "Primeros pasos con el Reviews Feed"
+
+#: class/Common/Admin/SBR_Support_Builder.php:76
+msgid "How to Create a Yelp API Key"
+msgstr "Cómo crear una clave de API de Yelp"
+
+#: class/Common/Admin/SBR_Support_Builder.php:80
+msgid "How to Create a Google API Key"
+msgstr "Cómo crear una clave de API de Google"
+
+#: class/Common/Admin/SBR_Support_Builder.php:85
+msgid "More help on Getting started"
+msgstr "Más ayuda en cómo empezar"
+
+#: class/Common/Admin/SBR_Support_Builder.php:91
+msgid "Run into an issue? Check out our help docs."
+msgstr "¿Tienes algún problema? Consulta nuestros documentos de ayuda."
+
+#: class/Common/Admin/SBR_Support_Builder.php:99
+msgid "How to Resolve Error Messages"
+msgstr "Cómo resolver los mensajes de error"
+
+#: class/Common/Admin/SBR_Support_Builder.php:103
+msgid "Translating Google Reviews"
+msgstr "Traducir las reseñas de Google"
+
+#: class/Common/Admin/SBR_Support_Builder.php:108
+msgid "View Documentation"
+msgstr "Ver documentación"
+
+#: class/Common/Admin/SBR_Support_Builder.php:113
+msgid "Additional Resources"
+msgstr "Recursos adicionales"
+
+#: class/Common/Admin/SBR_Support_Builder.php:114
+msgid "To help you get the most out of the plugin"
+msgstr "Para ayudarte a sacar el máximo provecho del plugin"
+
+#: class/Common/Admin/SBR_Support_Builder.php:118
+msgid "Can I Display Multiple Reviews on One Page?"
+msgstr "¿Puedo mostrar varias reseñas en una página?"
+
+#: class/Common/Admin/SBR_Support_Builder.php:122
+msgid "License Tiers Explained (additional review providers)"
+msgstr "Explicación de los niveles de licencia (proveedores de reseñas adicionales)"
+
+#: class/Common/Admin/SBR_Support_Builder.php:126
+msgid "How do I Embed My Feed Directly in a Template?"
+msgstr "¿Cómo incrusto mi feed directamente en una plantilla?"
+
+#: class/Common/Admin/SBR_Support_Builder.php:131
+msgid "View Blog"
+msgstr "Ver blog"
+
+#: class/Common/Builder/SBR_Feed_Builder.php:138
+msgid "Default"
+msgstr "Por defecto"
+
+#: class/Common/Builder/SBR_Feed_Builder.php:142
+msgid "Simple Cards"
+msgstr "Tarjetas sencillas"
+
+#: class/Common/Builder/SBR_Feed_Builder.php:147
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:165
+msgid "Masonry"
+msgstr "Muro"
+
+#: class/Common/Builder/SBR_Feed_Builder.php:158
+msgid "Single Review"
+msgstr "Reseña individual"
+
+#: class/Common/Builder/SBR_Feed_Builder.php:163
+msgid "Showcase Carousel"
+msgstr "Carrusel del escaparate"
+
+#: class/Common/Builder/SBR_Feed_Builder.php:168
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:170
+msgid "Carousel"
+msgstr "Carrusel"
+
+#: class/Common/Builder/SBR_Feed_Builder.php:173
+msgid "Grid Carousel"
+msgstr "Carrusel en cuadrícula"
+
+#: class/Common/Builder/SBR_Feed_Saver_Manager.php:506
+msgid "Don't have file, Please try again"
+msgstr "No tengo el archivo. Por favor, inténtalo de nuevo"
+
+#: class/Common/Builder/SBR_Feed_Saver_Manager.php:927
+msgid "No feed source is included. Cannot upload feed."
+msgstr "No se incluye la fuente del feed. No se puede cargar el feed."
+
+#: class/Common/Builder/SBR_Feed_Saver_Manager.php:939
+msgid "Feed settings imported successfully."
+msgstr "Los ajustes de feed se han importado correctamente."
+
+#: class/Common/Builder/SBR_Feed_Saver_Manager.php:944
+msgid "Could not import feed. Please try again"
+msgstr "No se ha podido importar el feed. Por favor, inténtalo de nuevo"
+
+#: class/Common/Customizer/DB.php:451
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:77
+#: class/Common/Feed_Locator.php:368
+msgid "Header"
+msgstr "Cabecera"
+
+#: class/Common/Customizer/DB.php:453 class/Common/Feed_Locator.php:378
+msgid "Footer"
+msgstr "Pie de página"
+
+#: class/Common/Customizer/DB.php:455 class/Common/Feed_Locator.php:373
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: class/Common/Customizer/DB.php:457
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:603
+#: class/Common/Feed_Locator.php:364
+msgid "Content"
+msgstr "Contenido"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:30
+msgid "Customize"
+msgstr "Personalizar"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:44
+msgid "Templates"
+msgstr "Plantillas"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:58
+msgid "Layout"
+msgstr "Diseño"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:83
+#: class/Common/FeedDisplay.php:105 class/Common/FeedDisplay.php:113
+msgid "Reviews"
+msgstr "Reseñas"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:89
+msgid "Load More Button"
+msgstr "Botón cargar más"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:92
+msgid "Upgrade to Pro to Load posts asynchronously with Load more button. %sLearn More%s"
+msgstr "Actualiza a Pro para cargar publicaciones de forma asíncrona con el botón Cargar más. %sMás información%s"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:153
+msgid "List"
+msgstr "Lista"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:178
+msgid "Spacing"
+msgstr "Espaciado"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:183
+msgid "Vertical"
+msgstr "Vertical"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:191
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:208
+msgid "Number of reviews to display"
+msgstr "Número de reseñas que mostrar"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:244
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:284
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:333
+msgid "Columns"
+msgstr "Columnas"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:324
+msgid "Columns and Rows"
+msgstr "Columnas y filas"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:437
+msgid "Pagination"
+msgstr "Paginación"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:450
+msgid "Loop Type"
+msgstr "Tipo bucle"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:452
+msgid "Rewind"
+msgstr "Rebobinar"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:453
+msgid "Infinity"
+msgstr "Infinito"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:462
+msgid "Interval Time"
+msgstr "Tiempo de intervalo"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:468
+msgid "Show Navigation Arrows"
+msgstr "Mostrar flechas de navegación"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:478
+msgid "Show Pagination"
+msgstr "Mostrar paginación"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:488
+msgid "Enable Autoplay"
+msgstr "Activar reproducción automática"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:500
+msgid "Content Length"
+msgstr "Longitud del contenido"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:505
+#: class/Common/Customizer/Tabs/SBR_Settings_Tab.php:338
+#: class/Common/Customizer/Tabs/SBR_Settings_Tab.php:349
+msgid "characters"
+msgstr "caracteres"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:528
+msgid "Inherit from Theme"
+msgstr "Heredado del tema"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:533
+msgid "Light"
+msgstr "Claro"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:538
+msgid "Dark"
+msgstr "Oscuro"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:543
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1580
+msgid "Custom"
+msgstr "Personalizado"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:578
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:949
+#: class/Common/Customizer/Tabs/SBR_Settings_Tab.php:376
+msgid "Enable"
+msgstr "Activar"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:588
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1212
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1324
+msgid "Name"
+msgstr "Nombre"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:595
+msgid "Heading"
+msgstr "Encabezado"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:620
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:717
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:815
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1003
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1230
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1280
+msgid "Color"
+msgstr "Color"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:625
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:705
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:725
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:972
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:984
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1015
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1028
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1287
+msgid "Text"
+msgstr "Texto"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:641
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:761
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:849
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1065
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1185
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1240
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1295
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1347
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1392
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1463
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1512
+msgid "Element Spacing"
+msgstr "Espacio entre elementos"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:649
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:767
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:855
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:888
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1075
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1191
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1246
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1301
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1353
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1469
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1518
+msgid "Padding"
+msgstr "Relleno"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:656
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:774
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:862
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:898
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1086
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1253
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1308
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1360
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1398
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1476
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1525
+msgid "Margin"
+msgstr "Margen"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:662
+msgid "Button"
+msgstr "Botón"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:669
+msgid "Link to"
+msgstr "Enlazar a"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:677
+msgid "Google (Write a Review)"
+msgstr "Google (Escribe una reseña)"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:678
+msgid "External Link"
+msgstr "Enlace externo"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:734
+msgid "Background"
+msgstr "Fondo"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:743
+msgid "Text/ Hover"
+msgstr "Texto/ al pasar"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:752
+msgid "Bg/ Hover"
+msgstr "Fondo/ al pasar"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:783
+msgid "Average Review Rating"
+msgstr "Valoración media de reseñas"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:791
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:832
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1217
+msgid "Rating"
+msgstr "Valoración"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:803
+msgid "Rating Subtext"
+msgstr "Subtexto de valoración"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:823
+msgid "Rating Icon"
+msgstr "Icono de valoración"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:841
+msgid "Subtext"
+msgstr "Subtexto"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:876
+msgid "Element Header Spacing"
+msgstr "Espacio entre elementos de encabezado"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:919
+msgid "Post Style"
+msgstr "Estilo de la entrada"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:927
+msgid "Edit Individual Elements"
+msgstr "Editar elementos individuales"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:928
+msgid "Hide or Show individual elements of a post or edit their options"
+msgstr "Oculta elementos individuales de una publicación o edita sus opciones"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1041
+msgid "Text / Hover"
+msgstr "Texto/ al pasar"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1054
+msgid "Bg / Hover"
+msgstr "Fondo / al pasar"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1114
+msgid "Boxed"
+msgstr "En cajas"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1120
+msgid "Regular"
+msgstr "Normal"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1130
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1489
+msgid "Colors"
+msgstr "Colores"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1135
+msgid "Background Color"
+msgstr "Color de fondo"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1150
+msgid "Properties"
+msgstr "Propiedades"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1158
+msgid "Box Shadow"
+msgstr "Sombra de la caja"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1167
+msgid "Corner Radius"
+msgstr "Radio de esquina"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1173
+msgid "Stroke"
+msgstr "Trazo"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1224
+msgid "Icon Color"
+msgstr "Color de icono"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1261
+msgid "Review Paragraph"
+msgstr "Párrafo de reseña"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1268
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1335
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1413
+msgid "Font"
+msgstr "Fuente"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1316
+msgid "Author and Date"
+msgstr "Autor y fecha"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1328
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1496
+msgid "Author Name"
+msgstr "Nombre del autor"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1368
+msgid "Author Image"
+msgstr "Imagen del autor"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1381
+msgid "Border Radius"
+msgstr "Radio del borde"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1406
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1504
+msgid "Date"
+msgstr "Fecha"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1425
+msgid "Format"
+msgstr "Formato"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1444
+msgid "Add text before date"
+msgstr "Añadir texto antes de la fecha"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1452
+msgid "Add text after date"
+msgstr "Añadir texto después de la fecha"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1533
+msgid "Images or Videos"
+msgstr "Imágenes o vídeos"
+
+#: class/Common/Customizer/Tabs/SBR_Customize_Tab.php:1560
+msgid "2 days ago"
+msgstr "Hace 2 días"
+
+#: class/Common/Customizer/Tabs/SBR_Settings_Tab.php:29
+#: class/sbr-functions.php:452
+msgid "Settings"
+msgstr "Ajustes"
+
+#: class/Common/Customizer/Tabs/SBR_Settings_Tab.php:43
+msgid "Sources"
+msgstr "Orígenes"
+
+#: class/Common/Customizer/Tabs/SBR_Settings_Tab.php:48
+msgid "Sort"
+msgstr "Orden"
+
+#: class/Common/Customizer/Tabs/SBR_Settings_Tab.php:53
+msgid "Filters"
+msgstr "Filtros"
+
+#. translators: %s: Opening and closing anchor HTML tags
+#: class/Common/Customizer/Tabs/SBR_Settings_Tab.php:58
+msgid "Upgrade to Pro to apply filters to your reviews feed. %sLearn More%s"
+msgstr "Actualiza a Pro para aplicar filtros a tus reseñas. %sMás información%s"
+
+#: class/Common/Customizer/Tabs/SBR_Settings_Tab.php:66
+msgid "Moderation"
+msgstr "Moderación"
+
+#: class/Common/Customizer/Tabs/SBR_Settings_Tab.php:73
+msgid "Upgrade to Pro to moderate your feed. %sLearn More%s"
+msgstr "Actualiza a Pro para moderar tu feed. %sMás información%s"
+
+#: class/Common/Customizer/Tabs/SBR_Settings_Tab.php:88
+#: class/Common/Settings/Tabs/SBR_Translation_Tab.php:47
+msgid "Language"
+msgstr "Idioma"
+
+#: class/Common/Customizer/Tabs/SBR_Settings_Tab.php:89
+msgid "Change language of what posts are displayed in"
+msgstr "Cambiar el idioma en el que se muestran las publicaciones"
+
+#: class/Common/Customizer/Tabs/SBR_Settings_Tab.php:136
+msgid "By Date"
+msgstr "Por fecha"
+
+#: class/Common/Customizer/Tabs/SBR_Settings_Tab.php:154
+msgid "Latest Reviews First"
+msgstr "Reseñas más recientes primero"
+
+#: class/Common/Customizer/Tabs/SBR_Settings_Tab.php:155
+msgid "Oldest Reviews First"
+msgstr "Reseñas más antiguas primero"
+
+#: class/Common/Customizer/Tabs/SBR_Settings_Tab.php:175
+msgid "By Rating"
+msgstr "Por valoración"
+
+#: class/Common/Customizer/Tabs/SBR_Settings_Tab.php:193
+msgid "Highest Rated First"
+msgstr "Mejor valorados primero"
+
+#: class/Common/Customizer/Tabs/SBR_Settings_Tab.php:194
+msgid "Lowest Rated First"
+msgstr "Peor valorados primero"
+
+#: class/Common/Customizer/Tabs/SBR_Settings_Tab.php:212
+msgid "Randomize"
+msgstr "Aleatorio"
+
+#: class/Common/Customizer/Tabs/SBR_Settings_Tab.php:213
+msgid "This will disable “By date” and “By rating” and randomly choose among the filtered reviews"
+msgstr "Esto desactivará «Por fecha« y «Por valoración» y elegirá aleatoriamente entre las opiniones filtradas"
+
+#: class/Common/Customizer/Tabs/SBR_Settings_Tab.php:273
+msgid "By Words"
+msgstr "Por palabras"
+
+#: class/Common/Customizer/Tabs/SBR_Settings_Tab.php:281
+#: class/Common/Customizer/Tabs/SBR_Settings_Tab.php:282
+#: class/Common/Customizer/Tabs/SBR_Settings_Tab.php:292
+msgid "Only show reviews containing"
+msgstr "Mostrar sólo reseñas que contengan"
+
+#: class/Common/Customizer/Tabs/SBR_Settings_Tab.php:283
+msgid "Add words here to only show posts containing these words"
+msgstr "Añade palabras aquí para mostrar sólo las publicaciones que contengan estas palabras"
+
+#: class/Common/Customizer/Tabs/SBR_Settings_Tab.php:291
+msgid "Do not show reviews containing"
+msgstr "No mostrar reseñas que contengan"
+
+#: class/Common/Customizer/Tabs/SBR_Settings_Tab.php:293
+msgid "Add words here to hide any posts containing these words"
+msgstr "Añade palabras aquí para ocultar los mensajes que contengan estas palabras"
+
+#: class/Common/Customizer/Tabs/SBR_Settings_Tab.php:393
+#: class/Common/Customizer/Tabs/SBR_Settings_Tab.php:430
+msgid "Allow List"
+msgstr "Lista de permitidos"
+
+#: class/Common/Customizer/Tabs/SBR_Settings_Tab.php:394
+#: class/Common/Customizer/Tabs/SBR_Settings_Tab.php:432
+msgid "Hides post by default so you can select the ones you want to show"
+msgstr "Oculta las publicaciones por defecto para que puedas seleccionar las que quieres mostrar"
+
+#: class/Common/Customizer/Tabs/SBR_Settings_Tab.php:398
+#: class/Common/Customizer/Tabs/SBR_Settings_Tab.php:436
+msgid "Block List"
+msgstr "Listas de bloqueados"
+
+#: class/Common/Customizer/Tabs/SBR_Settings_Tab.php:399
+#: class/Common/Customizer/Tabs/SBR_Settings_Tab.php:438
+msgid "Show all posts by default so you can select the ones you want to hide"
+msgstr "Mostrar todas las publicaciones por defecto para que puedas seleccionar las que quieres ocultar"
+
+#: class/Common/Customizer/Tabs/SBR_Settings_Tab.php:415
+msgid "You can only view and filter through the last 100 reviews"
+msgstr "Sólo puedes ver y filtrar las últimas 100 reseñas"
+
+#: class/Common/Customizer/Tabs/SBR_Settings_Tab.php:416
+msgid "Due to platform API limitations, we cannot store and provide you with a complete repository of your reviews."
+msgstr "Debido a las limitaciones de la API de la plataforma, no podemos almacenar y proporcionarte un repositorio completo de tus reseñas."
+
+#: class/Common/Customizer/Tabs/SBR_Settings_Tab.php:461
+#: class/Common/Settings/Tabs/SBR_Advanced_Tab.php:29
+msgid "Advanced"
+msgstr "Avanzado"
+
+#: class/Common/Customizer/Tabs/SBR_Settings_Tab.php:495
+#: class/Common/Settings/Tabs/SBR_Advanced_Tab.php:53
+msgid "Reset"
+msgstr "Restablecer"
+
+#: class/Common/Customizer/Tabs/SBR_Settings_Tab.php:503
+msgid "Limited Support"
+msgstr "Compatibilidad limitada"
+
+#: class/Common/Customizer/Tabs/SBR_Settings_Tab.php:504
+msgid "Only Google supports different languages. Reviews from other providers will still show up in English or the language they were submitted in."
+msgstr "Sólo Google admite diferentes idiomas. Las reseñas de otros proveedores seguirán apareciendo en inglés o en el idioma en que se enviaron."
+
+#: class/Common/Feed.php:72
+msgid "No feed with the ID %d found."
+msgstr "No se ha encontrado ningún feed con el ID %d."
+
+#: class/Common/Feed.php:72
+msgid "Please go to the %sReviews Feed%s settings page to create a feed."
+msgstr "Por favor, ve a la página de ajustes de %sReviews feed%s para crear un feed."
+
+#: class/Common/Feed.php:76
+msgid "No sources available for this feed."
+msgstr "No hay fuentes disponibles para este feed."
+
+#: class/Common/Feed.php:76
+msgid "Please go to the %sReviews Feed%s settings page add sources for this feed to use."
+msgstr "Por favor, ve a la página de ajustes de %sReviews Feed%s y añade fuentes para utilizar este feed."
+
+#: class/Common/Feed.php:195
+msgid "No Posts Found."
+msgstr "No se han encontrado entradas."
+
+#: class/Common/Feed.php:197
+msgid "There were no posts that fit your filters. Try modifying the filters set or add more sources with reviews that fit the filter by %sediting your feed%s"
+msgstr "No hay entradas que se ajusten a tus filtros. Intenta modificar los filtros establecidos o añade más fuentes con reseñas que se ajusten al filtro %seditando tu feed%s"
+
+#: class/Common/Feed.php:199
+msgid "There were no posts found for the sources selected. Make sure reviews are available for this source or change the source by %sediting your feed%s"
+msgstr "No se han encontrado publicaciones para las fuentes seleccionadas. Asegúrate de que hay reseñas disponibles para esta fuente o cambia la fuente %seditando tu feed%s"
+
+#: class/Common/Feed.php:400
+msgid "This is affecting the source %s for %s. New reviews will not be fetched until this is resolved."
+msgstr "Esto está afectando a la fuente %s de %s. No se obtendrán nuevas reseñas hasta que esto se resuelva."
+
+#: class/Common/Feed.php:402
+msgid "Troubleshoot by visiting %serror message reference page%s."
+msgstr "Soluciona el problema visitando %sla página de referencia de mensajes de error%s."
+
+#: class/Common/FeedDisplay.php:238
+#: class/Common/Settings/Tabs/SBR_Translation_Tab.php:77
+#: class/sbr-functions.php:262
+msgid "second"
+msgstr "segundo"
+
+#: class/Common/FeedDisplay.php:239
+#: class/Common/Settings/Tabs/SBR_Translation_Tab.php:82
+#: class/sbr-functions.php:263
+msgid "seconds"
+msgstr "segundos"
+
+#: class/Common/FeedDisplay.php:240
+#: class/Common/Settings/Tabs/SBR_Translation_Tab.php:87
+#: class/sbr-functions.php:264
+msgid "minute"
+msgstr "minuto"
+
+#: class/Common/FeedDisplay.php:241
+#: class/Common/Settings/Tabs/SBR_Translation_Tab.php:92
+#: class/sbr-functions.php:265
+msgid "minutes"
+msgstr "minutos"
+
+#: class/Common/FeedDisplay.php:242
+#: class/Common/Settings/Tabs/SBR_Translation_Tab.php:97
+#: class/sbr-functions.php:266
+msgid "hour"
+msgstr "hora"
+
+#: class/Common/FeedDisplay.php:243
+#: class/Common/Settings/Tabs/SBR_Translation_Tab.php:102
+#: class/sbr-functions.php:267
+msgid "hours"
+msgstr "horas"
+
+#: class/Common/FeedDisplay.php:244
+#: class/Common/Settings/Tabs/SBR_Translation_Tab.php:107
+#: class/sbr-functions.php:268
+msgid "day"
+msgstr "día"
+
+#: class/Common/FeedDisplay.php:245
+#: class/Common/Settings/Tabs/SBR_Translation_Tab.php:112
+#: class/sbr-functions.php:269
+msgid "days"
+msgstr "días"
+
+#: class/Common/FeedDisplay.php:246
+#: class/Common/Settings/Tabs/SBR_Translation_Tab.php:117
+#: class/sbr-functions.php:270
+msgid "week"
+msgstr "semana"
+
+#: class/Common/FeedDisplay.php:247
+#: class/Common/Settings/Tabs/SBR_Translation_Tab.php:122
+#: class/sbr-functions.php:271
+msgid "weeks"
+msgstr "semanas"
+
+#: class/Common/FeedDisplay.php:248
+#: class/Common/Settings/Tabs/SBR_Translation_Tab.php:127
+#: class/sbr-functions.php:272
+msgid "month"
+msgstr "mes"
+
+#: class/Common/FeedDisplay.php:249
+#: class/Common/Settings/Tabs/SBR_Translation_Tab.php:132
+#: class/sbr-functions.php:273
+msgid "months"
+msgstr "meses"
+
+#: class/Common/FeedDisplay.php:250 class/Common/FeedDisplay.php:251
+#: class/Common/Settings/Tabs/SBR_Translation_Tab.php:142
+msgid "years"
+msgstr "años"
+
+#: class/Common/FeedDisplay.php:252
+#: class/Common/Settings/Tabs/SBR_Translation_Tab.php:147
+#: class/sbr-functions.php:276
+msgid "ago"
+msgstr "atrás"
+
+#: class/Common/FeedDisplay.php:393
+msgid "This error message is only visible to WordPress admins"
+msgstr "Este mensaje de error solo es visible para los administradores de WordPress"
+
+#: class/Common/SBR_Blocks.php:111
+msgid "Add Settings"
+msgstr "Añadir ajustes"
+
+#: class/Common/SBR_Blocks.php:112
+msgid "Shortcode Settings"
+msgstr "Ajustes del shortcode"
+
+#: class/Common/SBR_Blocks.php:113
+msgid "Example"
+msgstr "Ejemplo"
+
+#: class/Common/SBR_Blocks.php:114
+msgid "Apply Changes"
+msgstr "Aplicar los cambios"
+
+#: class/Common/SBR_Blocks.php:207
+msgid "Only Visible to WordPress Admins"
+msgstr "Sólo visible para los administradores de WordPress"
+
+#: class/Common/SBR_Blocks.php:213
+msgid "Your license key is inactive. Activate it to enable Pro features."
+msgstr "Tu clave de licencia está inactiva. Actívala para activar las funciones Pro."
+
+#: class/Common/SBR_Blocks.php:215
+msgid "Your license has expired! Renew it to reactivate Pro features."
+msgstr "¡Tu licencia ha caducado! Renuévala para reactivar las funciones Pro."
+
+#: class/Common/SBR_Blocks.php:219
+msgid "Resolve Now"
+msgstr "Resolver ahora"
+
+#: class/Common/SBR_Blocks.php:269
+msgid "Create a Reviews Feed"
+msgstr "Crear un feed de reseñas"
+
+#: class/Common/Settings/Tabs/SBR_Advanced_Tab.php:45
+msgid "Optimize Images"
+msgstr "Optimizar imágenes"
+
+#. translators: "It" refers to the optimize images feature
+#: class/Common/Settings/Tabs/SBR_Advanced_Tab.php:46
+msgid "It will create multiple local copies of images in different sizes and use smallest size based on where the image is being displayed"
+msgstr "Creará múltiples copias locales de imágenes en diferentes tamaños y utilizará el tamaño más pequeño en función de dónde se esté mostrando la imagen."
+
+#: class/Common/Settings/Tabs/SBR_Advanced_Tab.php:58
+msgid "Images Cleared"
+msgstr "Imágenes vaciadas"
+
+#: class/Common/Settings/Tabs/SBR_Advanced_Tab.php:84
+msgid "Usage Tracking"
+msgstr "Seguimiento de uso"
+
+#. translators: %s: Opening and closing anchor HTML tags
+#: class/Common/Settings/Tabs/SBR_Advanced_Tab.php:87
+msgid "This helps us prevent plugin and theme conflicts by sending a report in the background once per week about your settings and relevant site stats. It does not send sensitive information like access tokens, email addresses, or user info. This will not affect your site performace as well. %sLearn More%s"
+msgstr "Esto nos ayuda a evitar conflictos entre plugins y temas enviando un informe en segundo plano una vez a la semana sobre tu configuración y las estadísticas relevantes del sitio. No envía información sensible como tokens de acceso, direcciones de correo electrónico o información de usuario. Esto tampoco afectará al rendimiento de tu sitio. %sMás información%s"
+
+#: class/Common/Settings/Tabs/SBR_Advanced_Tab.php:99
+msgid "Enqueue JavaScript in head"
+msgstr "Poner en cola el JavaScript en la cabecera"
+
+#: class/Common/Settings/Tabs/SBR_Advanced_Tab.php:100
+msgid "Add the JavaScript file for the plugin in the header instead of the footer"
+msgstr "Añade el archivo JavaScript del plugin en la cabecera en lugar del pie de página"
+
+#: class/Common/Settings/Tabs/SBR_Feeds_Tab.php:29
+msgid "Feeds"
+msgstr "Feeds"
+
+#: class/Common/Settings/Tabs/SBR_Feeds_Tab.php:44
+msgid "Caching"
+msgstr "Almacenamiento en caché"
+
+#: class/Common/Settings/Tabs/SBR_Feeds_Tab.php:49
+msgid "GDPR"
+msgstr "RGPD"
+
+#. translators: %s: Opening and closing anchor HTML tags
+#: class/Common/Settings/Tabs/SBR_Feeds_Tab.php:52
+msgid "We will automatically enable GDPR compliance if we detect a supported privacy consent plugin.%sLearn more%s."
+msgstr "Activaremos automáticamente el cumplimiento del GDPR si detectamos un plugin de consentimiento de privacidad compatible.%sMás información en%s."
+
+#: class/Common/Settings/Tabs/SBR_Feeds_Tab.php:57
+msgid "Automatic"
+msgstr "Automático"
+
+#: class/Common/Settings/Tabs/SBR_General_Tab.php:29
+msgid "General"
+msgstr "General"
+
+#: class/Common/Settings/Tabs/SBR_General_Tab.php:44
+#: class/Common/Settings/Tabs/SBR_General_Tab.php:52
+msgid "License Key"
+msgstr "Clave de licencia"
+
+#: class/Common/Settings/Tabs/SBR_General_Tab.php:46
+#: class/Common/Settings/Tabs/SBR_General_Tab.php:54
+msgid "Your license key provides access to updates and support"
+msgstr "Tu clave de licencia ofrece acceso a actualizaciones y soporte"
+
+#: class/Common/Settings/Tabs/SBR_General_Tab.php:59
+msgid "Manage Sources"
+msgstr "Gestionar fuentes"
+
+#: class/Common/Settings/Tabs/SBR_General_Tab.php:60
+msgid "Add or remove connected accounts"
+msgstr "Añadir o eliminar cuentas conectadas"
+
+#: class/Common/Settings/Tabs/SBR_General_Tab.php:64
+msgid "Manage API Keys"
+msgstr "Gestionar claves de API"
+
+#: class/Common/Settings/Tabs/SBR_General_Tab.php:66
+msgid "Update or modify an API key"
+msgstr "Actualizar o modificar una clave de API"
+
+#: class/Common/Settings/Tabs/SBR_General_Tab.php:73
+msgid "Preserve settings if plugin is removed"
+msgstr "Mantener los ajustes si se elimina el plugin"
+
+#: class/Common/Settings/Tabs/SBR_General_Tab.php:83
+msgid "Import Feed Settings"
+msgstr "Importar los ajustes del feed"
+
+#: class/Common/Settings/Tabs/SBR_General_Tab.php:85
+msgid "You will need a JSON file previously exported from the Reviews Feed Plugin"
+msgstr "Necesitarás un archivo JSON previamente exportado desde el plugin Reviews Feed"
+
+#: class/Common/Settings/Tabs/SBR_General_Tab.php:88
+msgid "Export Feed Settings"
+msgstr "Exportar los ajustes del feed"
+
+#: class/Common/Settings/Tabs/SBR_General_Tab.php:90
+msgid "Export settings for one or more of your feeds"
+msgstr "Exportar los ajustes de uno o varios de tus feeds"
+
+#: class/Common/Settings/Tabs/SBR_Translation_Tab.php:31
+msgid "Language & Translation"
+msgstr "Idioma y traducción"
+
+#: class/Common/Settings/Tabs/SBR_Translation_Tab.php:49
+msgid ""
+"Change the displayed language for all feeds and its displayed reviews. You can override this for each feed from the individual feed settings.%sLearn more%s <br/>\n"
+"                    %sNote: Currently only Google support translated reviews.%s"
+msgstr ""
+"Cambia el idioma mostrado para todos los feeds y sus reseñas mostradas. Puedes anular esta opción para cada fuente desde los ajustes de cada fuente.%sMás información%s <br/>\n"
+"                    %sNota: Actualmente sólo Google admite reseñas traducidas.%s"
+
+#: class/Common/Settings/Tabs/SBR_Translation_Tab.php:64
+msgid "Custom Text/Translate"
+msgstr "Personalizar texto/traducir"
+
+#: class/Common/Settings/Tabs/SBR_Translation_Tab.php:65
+msgid "Enter custom text for the words below, or translate it into the language you would like to use."
+msgstr "Introduce el texto personalizado para las siguientes palabras o tradúcelas al idioma que te gustaría usar."
+
+#: class/Common/Settings/Tabs/SBR_Translation_Tab.php:68
+msgid "Dates"
+msgstr "Fechas"
+
+#: class/Common/Settings/Tabs/SBR_Translation_Tab.php:78
+msgid "Used for “Posted a second ago”"
+msgstr "Se utiliza para «Publicado hace un segundo»"
+
+#: class/Common/Settings/Tabs/SBR_Translation_Tab.php:83
+msgid "Used for “Posted a seconds ago”"
+msgstr "Se utiliza para «Publicado hace unos segundos»"
+
+#: class/Common/Settings/Tabs/SBR_Translation_Tab.php:88
+msgid "Used for “Posted a minute ago”"
+msgstr "Se utiliza para «Publicado hace un minuto»"
+
+#: class/Common/Settings/Tabs/SBR_Translation_Tab.php:93
+msgid "Used for “Posted a minutes ago”"
+msgstr "Se utiliza para «Publicado hace unos minutos»"
+
+#: class/Common/Settings/Tabs/SBR_Translation_Tab.php:98
+msgid "Used for “Posted a hour ago”"
+msgstr "Se utiliza para «Publicado hace una hora»"
+
+#: class/Common/Settings/Tabs/SBR_Translation_Tab.php:103
+msgid "Used for “Posted a hours ago”"
+msgstr "Se utiliza para «Publicado hace unas horas»"
+
+#: class/Common/Settings/Tabs/SBR_Translation_Tab.php:108
+msgid "Used for “Posted a day ago”"
+msgstr "Se utiliza para «Publicado hace un día»"
+
+#: class/Common/Settings/Tabs/SBR_Translation_Tab.php:113
+msgid "Used for “Posted a days ago”"
+msgstr "Se utiliza para «Publicado hace unos días»"
+
+#: class/Common/Settings/Tabs/SBR_Translation_Tab.php:118
+msgid "Used for “Posted a week ago”"
+msgstr "Se utiliza para «Publicado hace una semana»"
+
+#: class/Common/Settings/Tabs/SBR_Translation_Tab.php:123
+msgid "Used for “Posted a weeks ago”"
+msgstr "Se utiliza para «Publicado hace unas semanas»"
+
+#: class/Common/Settings/Tabs/SBR_Translation_Tab.php:128
+msgid "Used for “Posted a month ago”"
+msgstr "Se utiliza para «Publicado hace un mes»"
+
+#: class/Common/Settings/Tabs/SBR_Translation_Tab.php:133
+msgid "Used for “Posted a months ago”"
+msgstr "Utilizado para «Publicado hace unos meses»"
+
+#: class/Common/Settings/Tabs/SBR_Translation_Tab.php:137
+#: class/sbr-functions.php:274 class/sbr-functions.php:275
+msgid "year"
+msgstr "año"
+
+#: class/Common/Settings/Tabs/SBR_Translation_Tab.php:138
+msgid "Used for “Posted a year ago”"
+msgstr "Se utiliza para «Publicado hace un año»"
+
+#: class/Common/Settings/Tabs/SBR_Translation_Tab.php:143
+msgid "Used for “Posted a years ago”"
+msgstr "Se utiliza para «Publicado hace unos años»"
+
+#: class/Common/Settings/Tabs/SBR_Translation_Tab.php:148
+msgid "Used for “Posted a XXX ago”"
+msgstr "Se utiliza para «Publicado hace XXX»"
+
+#: class/Common/Util.php:22
+msgid "Place ID"
+msgstr "Place ID"
+
+#: class/Common/Util.php:23
+msgid "Enter Place ID"
+msgstr "Introduce el Place ID"
+
+#: class/Common/Util.php:35 class/Common/Util.php:44 class/Common/Util.php:52
+#: class/Common/Util.php:59
+msgid "Page URL"
+msgstr "URL de página"
+
+#: class/Common/Util.php:36
+msgid "https://tripadvisor.com/..."
+msgstr "https://tripadvisor.com/..."
+
+#: class/Common/Util.php:45
+msgid "https://yelp.com/..."
+msgstr "https://yelp.com/..."
+
+#: class/Common/Util.php:93
+msgid "Unable to connect to Facebook to retrieve account information."
+msgstr "No ha sido posible conectarse a Facebook para recuperar la información de la cuenta."
+
+#: class/Common/Util.php:133
+msgid ""
+"Your server could not complete a remote request to Facebook's API. Your host may be blocking access or\n"
+"                    there may be a problem with your server."
+msgstr ""
+"Tu servidor no ha podido completar una solicitud remota a la API de Facebook. Puede que tu hospedaje esté bloqueando el acceso o\n"
+"                    puede que haya un problema con tu servidor."
+
+#: class/Common/Util.php:183
+msgid "New reviews will not display until an API key is entered for your sources."
+msgstr "Las nuevas reseñas no se mostrarán hasta que se introduzca una clave de API para tus fuentes."
+
+#: class/Common/Util.php:184
+msgid "Due to API limitations your feeds will not show new reviews until you enter an API key on the settings page."
+msgstr "Debido a las limitaciones de la API, tus feeds no mostrarán nuevas reseñas hasta que introduzcas una clave de API en la página de ajustes."
+
+#: class/Common/Util.php:188
+msgid "How to create an API key"
+msgstr "Cómo crear una clave de API"
+
+#: class/Common/Util.php:193
+msgid "Go to Settings page"
+msgstr "Ir a la página de ajustes"
+
+#: class/Common/Util.php:266
+msgid "Add Facebook posts from your timeline, albums and much more."
+msgstr "Añade publicaciones de Facebook de tu línea de tiempo, álbumes y mucho más."
+
+#: class/Common/Util.php:276
+msgid "A quick and elegant way to add your Instagram posts to your website. "
+msgstr "Una forma rápida y elegante de añadir tus publicaciones de Instagram a tu web. "
+
+#: class/Common/Util.php:286
+msgid "A customizable way to display tweets from your Twitter account. "
+msgstr "Una forma personalizable de mostrar los tweets de tu cuenta de Twitter. "
+
+#: class/Common/Util.php:296
+msgid "A simple yet powerful way to display videos from YouTube. "
+msgstr "Una forma sencilla pero potente de mostrar vídeos de YouTube. "
+
+#: class/Common/Util.php:316
+msgid "WPForms"
+msgstr "WPForms"
+
+#: class/Common/Util.php:317
+msgid "The most beginner friendly drag & drop WordPress forms plugin allowing you to create beautiful contact forms, subscription forms, payment forms, and more in minutes, not hours!"
+msgstr "El plugin de formularios de arrastrar y soltar más amigable para novatos te permite crear bonitos formularios de contacto, de suscripción, de pago y mucho más en minutos, ¡no en horas!"
+
+#: class/Common/Util.php:325
+msgid "MonsterInsights"
+msgstr "MonsterInsights"
+
+#: class/Common/Util.php:326
+msgid "MonsterInsights makes it “effortless” to properly connect your WordPress site with Google Analytics, so you can start making data-driven decisions to grow your business."
+msgstr "MonsterInsights reduce el esfuerzo de conectar correctamente tu sitio WordPress con Google Analytics, para que puedas empezar a tomar decisiones basadas en datos para hacer crecer tu negocio."
+
+#: class/Common/Util.php:334
+msgid "OptinMonster"
+msgstr "OptinMonster"
+
+#: class/Common/Util.php:335
+msgid "Our high-converting optin forms like Exit-Intent® popups, Fullscreen Welcome Mats, and Scroll boxes help you dramatically boost conversions and get more email subscribers."
+msgstr "Nuestros formularios de confirmación de alta conversión, como las ventanas emergentes Exit-Intent®, las alfombrillas de bienvenida a pantalla completa y las cajas de desplazamiento, te ayudan a aumentar drásticamente las conversiones y a conseguir más suscriptores de correo electrónico."
+
+#: class/Common/Util.php:343
+msgid "WP Mail SMTP"
+msgstr "WP Mail SMTP"
+
+#: class/Common/Util.php:344
+msgid "Make sure your website's emails reach the inbox. Our goal is to make email deliverability easy and reliable. Trusted by over 1 million websites."
+msgstr "Asegúrate de que los correos electrónicos de tu web llegan a la bandeja de entrada. Nuestro objetivo es hacer que la entregabilidad del correo electrónico sea fácil y fiable. Más de 1 millones de sitios confían en nosotros."
+
+#: class/Common/Util.php:352
+msgid "RafflePress"
+msgstr "RafflePress"
+
+#: class/Common/Util.php:353
+msgid "Turn your visitors into brand ambassadors! Easily grow your email list, website traffic, and social media followers with powerful viral giveaways & contests."
+msgstr "¡Convierte a tus visitantes en embajadores de tu marca! Aumenta fácilmente tu lista de correo electrónico, el tráfico de la web y los seguidores de los medios sociales con potentes regalos y concursos virales."
+
+#: class/Common/Util.php:361
+msgid "All in One SEO Pack"
+msgstr "All in One SEO Pack"
+
+#: class/Common/Util.php:362
+msgid "Out-of-the-box SEO for WordPress. Features like XML Sitemaps, SEO for custom post types, SEO for blogs, business sites, or ecommerce sites, and much more."
+msgstr "SEO listo para usar para WordPress. Características como mapas de sitio XML, SEO para tipos de contenido personalizados, SEO para blogs, sitios comerciales o sitios de comercio electrónico, y mucho más."
+
+#: class/Common/Util.php:889
+msgid "Upgrade to Pro to display Facebook reviews"
+msgstr "Actualiza a Pro para mostrar las reseñas de Facebook"
+
+#: class/Common/Util.php:890
+msgid "Upgrade to our \"Plus\" tier to display reviews from the well known social media platform."
+msgstr "Actualiza a nuestro nivel «Plus» para mostrar las reseñas de la conocida plataforma de redes sociales."
+
+#: class/Common/Util.php:911
+msgid "Upgrade to Pro to display TripAdvisor reviews"
+msgstr "Actualiza a Pro para mostrar las reseñas de TripAdvisor"
+
+#: class/Common/Util.php:912
+msgid "Upgrade to our \"Elite\" tier to display reviews from the well known travel advice site."
+msgstr "Pasa a nuestro nivel «Élite» para mostrar las reseñas del conocido sitio de consejos de viaje."
+
+#: class/Common/Util.php:931
+msgid "Upgrade to Pro to get Carousel layout"
+msgstr "Actualiza a Pro para obtener el diseño en carrusel"
+
+#: class/Common/Util.php:932
+msgid "An eye-catching rotating slider of your videos to add extra content in minimal space on your website."
+msgstr "Un atractivo carrusel giratorio de tus vídeos para añadir contenido extra en un espacio mínimo de tu web."
+
+#: class/Common/Util.php:941
+msgid "Upgrade to Pro to display more reviews"
+msgstr "Actualiza a Pro para mostrar más reseñas"
+
+#: class/Common/Util.php:942
+msgid "More layout settings to customize the look and feel of your reviews even more."
+msgstr "Más ajustes de diseño para personalizar aún más el aspecto de tus reseñas."
+
+#: class/Common/Util.php:951
+msgid "Upgrade to Pro to display average rating"
+msgstr "Actualizar a Pro para mostrar la valoración media"
+
+#: class/Common/Util.php:952
+msgid "Boost social proof to make more sales conversions with the number of ratings and an average rating."
+msgstr "Aumenta la prueba social para conseguir más conversiones de ventas con el número de valoraciones y una valoración media."
+
+#: class/Common/Util.php:961
+msgid "Upgrade to Pro to add load more functionality"
+msgstr "Actualiza a Pro para añadir muchas más funciones"
+
+#: class/Common/Util.php:962
+msgid "Overwhelm (in a good way) your visitors with additional reviews loaded on the page with a click."
+msgstr "Abruma (en el buen sentido) a tus visitantes con reseñas adicionales cargadas en la página con un clic."
+
+#: class/Common/Util.php:981
+msgid "Upgrade to Pro to display author images"
+msgstr "Actualiza a Pro para mostrar las imágenes de los autores"
+
+#: class/Common/Util.php:982
+msgid "Build brand trust with positive reviews from real customers."
+msgstr "Genera confianza en la marca con reseñas positivas de clientes reales."
+
+#: class/Common/Util.php:991
+msgid "Upgrade to Pro to filter your reviews"
+msgstr "Actualiza a Pro para filtrar tus reseñas"
+
+#: class/Common/Util.php:1001
+msgid "Upgrade to Pro to moderate your reviews"
+msgstr "Actualiza a Pro para moderar tus reseñas"
+
+#: class/Common/Util.php:1002
+msgid "Take complete control of what reviews show in the feed using keyword filters and a visual moderation system."
+msgstr "Controla por completo las reseñas que se muestran en el feed mediante filtros de palabras clave y un sistema de moderación visual."
+
+#: class/Common/Util.php:1011
+msgid "Upgrade to Pro to get one-click templates!"
+msgstr "¡Actualiza a Pro para obtener plantillas con un solo clic!"
+
+#: class/Common/Util.php:1012
+msgid "Quickly create and preview new feeds with pre-configured options based on popular feed types."
+msgstr "Crea y previsualiza rápidamente nuevos feeds con opciones preconfiguradas basadas en tipos de feeds populares."
+
+#: class/Common/Util.php:1021
+msgid "Upgrade to Pro for responsive layouts"
+msgstr "Actualiza a Pro para obtener diseños adaptables"
+
+#: class/Common/Util.php:1022
+msgid "Take control of your feed layouts by customizing number of reviews & columns"
+msgstr "Controla el diseño de tu feed personalizando el número de reseñas y columnas"
+
+#: class/sbr-functions.php:458 class/sbr-functions.php:506
+msgid "Upgrade to Pro"
+msgstr "Actualizar a Pro"
+
+#: class/sbr-functions.php:465
+msgid "Support"
+msgstr "Soporte"
+
+#: class/sbr-functions.php:507
+msgid "<div class=\"sb-pro-upgradelink-bg\"></div><strong class=\"sb-pro-upgradelink\">Upgrade to Pro</strong>"
+msgstr "<div class=\"sb-pro-upgradelink-bg\"></div><strong class=\"sb-pro-upgradelink\">Actualiza a Pro</strong>"
+
+#. Plugin URI of the plugin
+#: sb-reviews.php
+msgid "https://smashballoon.com/reviews-feed"
+msgstr "https://smashballoon.com/reviews-feed"
+
+#. Author URI of the plugin
+#: sb-reviews.php
+msgid "https://smashballoon.com/"
+msgstr "https://smashballoon.com/"
+
+#: class/Common/Util.php:275
+msgid "Instagram Feed"
+msgstr "Instagram Feed"
+
+#: class/Common/Util.php:265
+msgid "Custom Facebook Feed"
+msgstr "Custom Facebook Feed"
+
+#: class/Common/Util.php:285
+msgid "Custom Twitter Feeds"
+msgstr "Custom Twitter Feeds"
+
+#: class/Common/Util.php:295
+msgid "Feeds for YouTube"
+msgstr "Feeds for YouTube"
+
+#: class/Common/Settings/Tabs/SBR_General_Tab.php:74
+msgid "This will make sure that all of your feeds and settings are still saved even if the plugin is uninstalled"
+msgstr "Esto asegurará que todos tus feeds y ajustes se sigan guardando aunque se desinstale el plugin"
+
+#: class/Common/Admin/SBR_Support_Builder.php:90
+msgid "Docs & Troubleshooting"
+msgstr "Documentación y diagnóstico"
+
+#. Plugin Name of the plugin
+#: sb-reviews.php class/Common/Admin/MenuService.php:38
+msgid "Reviews Feed"
+msgstr "Feed de reseñas"

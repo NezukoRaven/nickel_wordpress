@@ -1,0 +1,2664 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ELEX WooCommerce Request a Quote - Basic\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-09 09:24+0000\n"
+"PO-Revision-Date: 2024-08-09 09:26+0000\n"
+"Last-Translator: \n"
+"Language-Team: Greek\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.7; wp-6.6.1\n"
+"X-Domain: elex-request-a-quote"
+
+#: ../../../../../../../projects/elex-request-a-quote/class-elex-request-a-quote.php:50
+msgid ""
+"WooCommerce plugin must be active for ELEX Request a Quote Plugin to work."
+msgstr ""
+"WooCommerce plugin πρέπει να είναι ενεργή για ELEX Ζητήσετε μια Προσφορά "
+"Plugin για να εργαστούν."
+
+#: ../../../../../../../projects/elex-request-a-quote/class-elex-request-a-quote.php:63
+#: ../../../../../../../projects/elex-request-a-quote/view/header.php:4
+#: ../../../../../../../projects/elex-request-a-quote/src/RequestAQuote.php:430
+#: ../../../../../../../projects/elex-request-a-quote/src/RequestAQuote.php:431
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: ../../../../../../../projects/elex-request-a-quote/class-elex-request-a-quote.php:64
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:136
+msgid "Documentation"
+msgstr "Τεκμηρίωση"
+
+#: ../../../../../../../projects/elex-request-a-quote/class-elex-request-a-quote.php:65
+msgid "Support"
+msgstr "Υποστήριξη"
+
+#: ../../../../../../../projects/elex-request-a-quote/class-elex-request-a-quote.php:74
+msgid ""
+"The Premium version of ELEX Request a Quote is already installed and "
+"activated. Please deactivate it in order to activate the basic version. If "
+"you encounter any issues, kindly contact our "
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/class-elex-request-a-quote.php:75
+msgid ""
+"The WooCommerce version of ELEX Request a Quote is already installed and "
+"activated. Please deactivate it in order to activate the basic version. If "
+"you encounter any issues, kindly contact our "
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/class-elex-request-a-quote.php:77
+msgid "for assistance."
+msgstr "για βοήθεια."
+
+#: ../../../../../../../projects/elex-request-a-quote/class-elex-request-a-quote.php:86
+#: ../../../../../../../projects/elex-request-a-quote/class-elex-request-a-quote.php:90
+msgid "Support "
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/header.php:4
+#: ../../../../../../../projects/elex-request-a-quote/src/RequestAQuote.php:439
+#: ../../../../../../../projects/elex-request-a-quote/src/RequestAQuote.php:440
+msgid "Customize Quote List & Form"
+msgstr "Προσαρμόστε Το Απόσπασμα Λίστα & Φόρμα"
+
+#. %s:  ELEX Request a Quote "Quote List" tab link URL
+#: ../../../../../../../projects/elex-request-a-quote/view/header.php:15
+#, php-format
+msgid ""
+"To customize your website's quote request form and quote items listing page, "
+"visit  %1$s section."
+msgstr ""
+"Για να προσαρμόσετε την ιστοσελίδα σας είναι έντυπο αιτήματος αποσπάσματός "
+"και παραθέτω τα στοιχεία λίστα της σελίδας, επισκεφθείτε %1$s ενότητα."
+
+#. %s: ELEX Request a Quote "Settings" tab link
+#: ../../../../../../../projects/elex-request-a-quote/view/header.php:20
+#, php-format
+msgid "To set up request a quote on your site, visit  %1$s section."
+msgstr ""
+"Για να ρυθμίσετε ζητήσετε μια προσφορά για το site σας, επισκεφθείτε %1$s "
+"ενότητα."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/header.php:53
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:128
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:178
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:228
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:179
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:232
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:268
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:120
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:157
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:331
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:19
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:68
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:185
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:233
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:355
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:708
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:888
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:1026
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:1067
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:51
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:169
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:717
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:831
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:297
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:325
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:354
+msgid "[Premium]"
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:98
+msgid "Note: Basic version supports only few features."
+msgstr "Σημείωση: η Βασική έκδοση υποστηρίζει μόνο μερικά χαρακτηριστικά."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:99
+msgid "Your business is precious! Go Premium to get below features."
+msgstr ""
+"Η επιχείρησή σας είναι πολύτιμο! Go Premium για να πάρει κάτω από τα "
+"χαρακτηριστικά γνωρίσματα."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:100
+msgid " -  Product-based exclusion for Request a Quote."
+msgstr "- Εξαίρεση βάσει προϊόντος για αίτημα προσφοράς."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:102
+msgid " - User role-based exclusion for Request a Quote."
+msgstr "- Εξαίρεση βάσει ρόλου χρήστη για Αίτημα προσφοράς."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:103
+msgid "- Disable Request a Quote option for unregistered users."
+msgstr ""
+"- Απενεργοποίηση Ζητήσετε μια Προσφορά επιλογή για τους μη εγγεγραμμένους "
+"χρήστες."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:104
+msgid "- Exclude Request a Quote based on the product stocks."
+msgstr "- Αποκλείει να Ζητήσετε μια Προσφορά με βάση το προϊόν αποθεμάτων."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:105
+msgid "- Product-based exclusion from the 'Hide Add to Cart and Price' option."
+msgstr ""
+"- Το προϊόν που βασίζεται σε αποκλεισμό από την \"Απόκρυψη Προσθήκη στο "
+"Καλάθι Τιμή\" επιλογή."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:106
+msgid ""
+"- User role-based exclusion from the 'Hide Add to Cart and Price' option."
+msgstr ""
+"- Το ρόλο του χρήστη που βασίζεται σε αποκλεισμό από την \"Απόκρυψη Προσθήκη "
+"στο Καλάθι Τιμή\" επιλογή."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:108
+msgid "- Quote list customization option for an empty quote list page."
+msgstr ""
+"- Παραθέτω λίστα με δυνατότητα προσαρμογής για το άδειο απόσπασμα σελίδα της "
+"λίστας."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:110
+msgid "- Product table customization option for the quote list page."
+msgstr ""
+"- Το προϊόν τραπέζι δυνατότητα προσαρμογής για την παράθεση σελίδα της "
+"λίστας."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:111
+msgid "- Quote Expiry  feature as per the number of days set by the Admin."
+msgstr ""
+"- Απόσπασμα δυνατότητα Λήξης σύμφωνα με τον αριθμό των ημερών που "
+"καθορίζονται από το Διαχειριστή."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:112
+msgid ""
+"- Accepted Payment Gateway feature to accept the payment method of Shop "
+"owner's choice."
+msgstr ""
+"- Πληρωμής που έγινε δεκτή από την Πύλη δυνατότητα να δεχθεί τη μέθοδο "
+"πληρωμής από το Κατάστημα του ιδιοκτήτη επιλογή."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:113
+msgid ""
+"- Option to change the \"Add to Quote \" Button Position Inline with the "
+"\"Add to Cart\" Button."
+msgstr ""
+"- Επιλογή για να αλλάξετε το \"Προσθήκη στο Απόσπασμα\" Κουμπί Θέση Inline "
+"με το \"Προσθήκη στο Καλάθι\" Κουμπί."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:114
+msgid "- Quote Button on Cart Page."
+msgstr "- Απόσπασμα Κουμπί στη Σελίδα Καλάθι."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:115
+msgid ""
+"- Option to set the Add to Quote Button Behaviour to redirect to Quote List "
+"Page."
+msgstr ""
+"- Επιλογή για να ορίσετε το Προσθέσετε στο Κουμπί Απόσπασμα Συμπεριφορά για "
+"να ανακατευθύνετε να Παραθέσω Σελίδα της Λίστας."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:116
+msgid "- Predefined Templates for the Emails."
+msgstr "- Προκαθορισμένα Πρότυπα για το e-mail."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:117
+msgid ""
+"- Send Automatic Reminder emails to the customer as per the number of days "
+"set by the admin,when there is no activity from the customer."
+msgstr ""
+"- Να στείλετε Αυτόματα μηνύματα ηλεκτρονικού ταχυδρομείου Υπενθύμιση στον "
+"πελάτη, σύμφωνα με τον αριθμό των ημερών που έχει οριστεί από το διαχειριστή,"
+"όταν δεν υπάρχει δραστηριότητα από τον πελάτη."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:118
+msgid "- Allow Customer to Send Counter Proposal from their My Account Page."
+msgstr ""
+"- Αφήστε τον Πελάτη να Στείλετε την Αντίθετη Πρόταση από τη Σελίδα του "
+"Λογαριασμού Μου."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:119
+msgid "- Allow Customer to download Quote PDF from their My Account Page."
+msgstr ""
+"- Αφήστε τον Πελάτη να κατεβάσετε το PDF Απόσπασμα από τη Σελίδα του "
+"Λογαριασμού Μου."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:120
+msgid ""
+"- Accept the Preferred Price/Percentage from the Customer during Quote "
+"Submission."
+msgstr ""
+"- Αποδεχτείτε την Προτιμώμενη Τιμή/Ποσοστό από τον Πελάτη κατά την Υποβολή "
+"της αίτησης."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:121
+msgid ""
+"- Attach PDF or image file to Quote Approved/Rejected/Negotiation mails from "
+"the Order Page."
+msgstr ""
+"- Συνδέστε PDF ή αρχείο εικόνας για να Παραθέσω "
+"Εγκρίνεται/Απορρίπτεται/Διαπραγμάτευση mail από την Σελίδα Παραγγελίας."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:122
+msgid "- AutoComplete Quote Form for Registered User."
+msgstr "- AutoComplete Απόσπασμα Φόρμα για τους Εγγεγραμμένους χρήστες."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:123
+msgid "- Create WordPress User when the Guest User submits the Quote Request."
+msgstr ""
+"- Δημιουργία WordPress Χρήστη όταν ο Επισκέπτης Χρήστης υποβάλλει το Αίτημα "
+"προσφοράς."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:124
+msgid "- reCAPTCHA verification for the Quote Submission."
+msgstr "- reCAPTCHA επαλήθευσης για την Υποβολή της αίτησης."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:125
+msgid "- All Buttons Customization including Color and Label"
+msgstr "- Όλα τα Κουμπιά Προσαρμογής, συμπεριλαμβανομένων Χρώμα και Ετικέτα"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/market.php:144
+msgid "You May Also like"
+msgstr "Μπορεί να ήθελε Επίσης"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/saved_toast.php:12
+msgid "Changes Saved Successfully!"
+msgstr "Αλλαγές Αποθηκεύτηκαν Με Επιτυχία!"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support_header.php:1
+#: ../../../../../../../projects/elex-request-a-quote/src/RequestAQuote.php:447
+#: ../../../../../../../projects/elex-request-a-quote/src/RequestAQuote.php:448
+msgid "Help & Support"
+msgstr "Βοήθεια & Υποστήριξη"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/create_order_status.php:15
+msgid "Quote Requested"
+msgstr "Απόσπασμα Ζήτησε"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/create_order_status.php:26
+msgid "Quote Approved"
+msgstr "Απόσπασμα Εγκεκριμένου"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/create_order_status.php:37
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/general.php:76
+msgid "Quote Rejected"
+msgstr "Απόσπασμα Απορριφθεί"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/RequestAQuote.php:190
+msgid "Quotes List"
+msgstr "Αποσπάσματα Λίστα"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/RequestAQuote.php:201
+msgid "Quote Received"
+msgstr "Απόσπασμα Έλαβε"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/RequestAQuote.php:419
+#: ../../../../../../../projects/elex-request-a-quote/src/RequestAQuote.php:420
+msgid "Request a Quote"
+msgstr "Ζητήστε μια Προσφορά"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/tickets.php:6
+msgid "Before raising the ticket, we recommend you to go through our detailed"
+msgstr ""
+"Πριν την αύξηση του εισιτηρίου, σας προτείνουμε να πάτε μέσα από τις "
+"λεπτομερείς"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/tickets.php:6
+msgid "documentation."
+msgstr "τεκμηρίωση."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/tickets.php:7
+msgid "Or"
+msgstr "Ή"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/tickets.php:8
+msgid ""
+"To get in touch with one of our helpdesk representatives, please raise a "
+"support ticket on our website."
+msgstr ""
+"Για να έρθετε σε επαφή με την υπηρεσία εξυπηρέτησης πελατών μας εκπροσώπους, "
+"παρακαλώ να θέσετε ένα εισιτήριο υποστήριξης στην ιστοσελίδα μας."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/tickets.php:9
+msgid ""
+"* Please don`t forget to attach your System Info File with the request for "
+"better support."
+msgstr ""
+"* Παρακαλώ μην ξεχάσετε να συνδέσετε το Σύστημά σας Πληροφορίες το Αρχείο με "
+"το αίτημα για καλύτερη υποστήριξη."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/tickets.php:13
+msgid "Raise a ticket"
+msgstr "Σηκώστε ένα εισιτήριο"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/tickets.php:21
+msgid ""
+"To copy the System Info, click below then press Ctrl + C (PC) or Cmd + C "
+"(Mac)."
+msgstr ""
+"Για να αντιγράψετε τις Πληροφορίες του Συστήματος, κάντε κλικ στο κουμπί "
+"παρακάτω, στη συνέχεια, πιέστε το συνδυασμό πλήκτρων Ctrl + C (PC) ή Cmd + C "
+"(Mac)."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/tickets.php:31
+msgid "Download System Info"
+msgstr "Κατεβάστε Το System Info"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/faqs.php:5
+msgid "Q1."
+msgstr "Q1."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/faqs.php:6
+msgid "Can I hide the “Add to Cart” button on the product page?"
+msgstr ""
+"Μπορώ να κρύψει το \"Προσθήκη στο Καλάθι\" κουμπί στη σελίδα του προϊόντος;"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/faqs.php:11
+msgid ""
+"Yes, You can easily hide the ‘Add to Cart’ button on the product page as "
+"well as the shop page."
+msgstr ""
+"Ναι, Μπορείτε εύκολα να κρύψει το \"Προσθήκη στο Καλάθι\" κουμπί στη σελίδα "
+"του προϊόντος, καθώς και την σελίδα του καταστήματος."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/faqs.php:17
+msgid "Q2."
+msgstr "Q2."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/faqs.php:18
+msgid "Can I hide the price of the products?"
+msgstr "Μπορώ να αποκρύψετε την τιμή των προϊόντων;"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/faqs.php:25
+msgid "Yes, You can hide the price of a particular product."
+msgstr "Ναι, Μπορείτε να αποκρύψετε την τιμή ενός συγκεκριμένου προϊόντος."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/faqs.php:35
+msgid "Q3."
+msgstr "Q3."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/faqs.php:38
+msgid "Can I customize my quote list page?"
+msgstr "Μπορώ να προσαρμόσετε το απόσπασμα λίστα σελίδα;"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/faqs.php:48
+msgid ""
+"Yes, ELEX Request a Quote plugin allows you to customize & enhance your "
+"frontend quote list page."
+msgstr ""
+"Ναι, ELEX Ζητήσετε μια Προσφορά plugin σας επιτρέπει να προσαρμόσετε και να "
+"ενισχύσει frontend σας παραθέτω την σελίδα της λίστας."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/faqs.php:59
+msgid "Q4."
+msgstr "Q4."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/faqs.php:62
+msgid "Does this plugin have the option to customize the Email templates?"
+msgstr ""
+"Αυτό το plugin έχει τη δυνατότητα να προσαρμόσετε τα πρότυπα Ηλεκτρονικού "
+"ταχυδρομείου;"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/faqs.php:71
+msgid ""
+"Yes, this plugin gives you the option to select from the predefined template "
+"or customize & create your own email template."
+msgstr ""
+"Ναι, αυτό το plugin σας δίνει τη δυνατότητα να επιλέξετε από τις "
+"προκαθορισμένες πρότυπο ή να προσαρμόσετε και να δημιουργήσετε το δικό σας "
+"πρότυπο ηλεκτρονικού ταχυδρομείου."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/faqs.php:82
+msgid "Q5."
+msgstr "Q5."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/faqs.php:83
+msgid ""
+"Can I restrict guest/ unregistered users from adding products into the Quote "
+"List and redirect them to the login or sign up page?"
+msgstr ""
+"Μπορώ να περιορίσω επισκέπτης/ μη εγγεγραμμένους χρήστες από την προσθήκη "
+"των προϊόντων στο Απόσπασμα Λίστα και να ανακατευθύνει τη σύνδεση ή "
+"εγγραφείτε σελίδα;"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/help_support/faqs.php:90
+msgid ""
+"Yes, this option is available in the plugin settings. We have a separate "
+"option for this where you can enable and redirect the guest/unregistered "
+"users to create an account or sign in to request a quote"
+msgstr ""
+"Ναι, αυτή η επιλογή είναι διαθέσιμη στις ρυθμίσεις του plugin. Έχουμε μια "
+"ξεχωριστή επιλογή για αυτό που μπορείτε να ενεργοποιήσετε και να "
+"ανακατευθύνει τον επισκέπτη/μη εγγεγραμμένους χρήστες για να δημιουργήσετε "
+"ένα λογαριασμό ή συνδεθείτε για να ζητήσετε προσφορά"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/quote/quote_list_main.php:5
+msgid "Powered by ELEX Request a Quote "
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/quote/view_quote_list.php:9
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/mini_quote_list/render_mini_quote_list.js:58
+msgid "View Quote List"
+msgstr "Δείτε Απόσπασμα Λίστα"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/button/add_to_quote.php:21
+msgid "Clear List Button Label"
+msgstr "Σβήσιμο Λίστας Ετικέτα Του Κουμπιού"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/button/add_to_quote.php:24
+msgid "Enter custom label text for 'Clear List' Button"
+msgstr ""
+"Εισάγετε προσαρμοσμένη ετικέτα κείμενο για το \"σβήσιμο Λίστας\" Κουμπί"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/button/add_to_quote.php:53
+msgid "Send Request Button Label"
+msgstr "Στείλτε Αίτημα Ετικέτα Του Κουμπιού"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/button/add_to_quote.php:56
+msgid "Enter custom label text for 'Send Request' Button"
+msgstr ""
+"Εισάγετε προσαρμοσμένη ετικέτα κειμένου για την \"Αποστολή Αιτήματος\" Κουμπί"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/button/add_to_quote.php:84
+msgid "Update List Button Label"
+msgstr "Ενημέρωση Λίστας Ετικέτα Του Κουμπιού"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/button/add_to_quote.php:87
+msgid "Enter custom label text for 'Update List' Button"
+msgstr "Εισάγετε προσαρμοσμένη ετικέτα κείμενο για το \"Update List\" Κουμπί"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/button/add_to_quote.php:115
+msgid "View Quote List Button Label"
+msgstr "Δείτε Απόσπασμα Λίστα Ετικέτα Του Κουμπιού"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/button/add_to_quote.php:118
+msgid "Enter custom label text for 'View Quote List' Button"
+msgstr ""
+"Εισάγετε προσαρμοσμένη ετικέτα κειμένου για την Άποψη Προσφορά List \" Κουμπί"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/button/add_to_quote.php:144
+msgid "Button Color"
+msgstr "Χρώμα Κουμπιών"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/button/add_to_quote.php:148
+msgid "Border"
+msgstr "Σύνορα"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/button/add_to_quote.php:159
+msgid "Background"
+msgstr "Φόντο"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/button/add_to_quote.php:169
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:273
+msgid "Text"
+msgstr "Κείμενο"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/button/add_to_quote.php:179
+msgid "Preview"
+msgstr "Προεπισκόπηση"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/button/add_to_quote.php:180
+#: ../../../../../../../projects/elex-request-a-quote/view/button/add_to_quote.php:223
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/widget.php:126
+msgid "Button Label"
+msgstr "Ετικέτα Του Κουμπιού"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/button/add_to_quote.php:185
+#: ../../../../../../../projects/elex-request-a-quote/view/button/add_to_quote.php:197
+#: ../../../../../../../projects/elex-request-a-quote/view/button/add_to_quote.php:209
+msgid "On hover"
+msgstr "Για hover"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:10
+msgid "Select \"Quote List\" Page"
+msgstr "Επιλέξτε \"Απόσπασμα Λίστα\" Της Σελίδας"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:12
+msgid "Select the WooCommerce page where you want to display the quote list."
+msgstr ""
+"Επιλέξτε το WooCommerce σελίδα όπου θέλετε να εμφανίζεται το απόσπασμα λίστα."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:45
+msgid "Quote List Page Title"
+msgstr "Παραθέτω Λίστα Με Τον Τίτλο Της Σελίδας"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:47
+msgid "Enter the title on the quote list page."
+msgstr "Εισάγετε τον τίτλο στο απόσπασμα σελίδα της λίστας."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:75
+msgid "\"Quote List\" Page Layout"
+msgstr "\"Απόσπασμα Λίστα\" Διάταξη Σελίδας"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:95
+msgid "Product list on the left & form on the right"
+msgstr "Προϊόν λίστα στα αριστερά & φόρμα στα δεξιά"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:114
+msgid "Product list on the top & form on the bottom"
+msgstr "Κατάλογος προϊόντων για την κορυφή και την φόρμα στο κατώτατο σημείο"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:125
+msgid "Choose What to Show If List is Empty"
+msgstr "Επιλέξτε Αυτό για να Δείξει Αν η Λίστα είναι Κενή"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:139
+msgid "Illustration"
+msgstr "Εικονογράφηση"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:146
+msgid "Empty Text"
+msgstr "Κενό Κείμενο"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:154
+msgid "\"Go to Shop Page\" button\""
+msgstr "\"Πηγαίνετε να Ψωνίσετε Σελίδα\" το κουμπί\""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:162
+msgid "Quote a Request Form"
+msgstr "Παραθέτω και ένα Έντυπο Αίτησης"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:175
+msgid "Contents to Show in Product Table"
+msgstr "Περιεχόμενο για να Δείξει στον Πίνακα Προϊόντων"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:189
+msgid "Product Image"
+msgstr "Την Εικόνα Του Προϊόντος"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:194
+msgid "Product Price"
+msgstr "Την Τιμή Του Προϊόντος"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:200
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/quote_list/quote_list_content.js:64
+msgid "Quantity"
+msgstr "Ποσότητα"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:205
+msgid "Each Product Subtotal"
+msgstr "Κάθε Προϊόν Υποσύνολο"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:210
+msgid "Product SKU"
+msgstr "SKU προϊόντος"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:215
+msgid "Taxes"
+msgstr "Φόρους"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:225
+msgid "Accept Preferred Price from Customer"
+msgstr "Δέχεται Προτιμώμενη Τιμή από τον Πελάτη"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:233
+msgid "Toggle On to accept the Preferred Price from Customer. "
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:264
+msgid "Show \"Powered by ELEX Request a Quote\""
+msgstr "Εκπομπή \"Powered by ELEX Ζητήσετε Προσφορά\""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:265
+msgid ""
+"Turn On or Off if you want to show or hide the ELEXtensions watermark on the "
+"quote list page."
+msgstr ""
+"Ενεργοποίηση ή Απενεργοποίηση εάν θέλετε να εμφανίσετε ή να αποκρύψετε το "
+"ELEXtensions υδατογράφημα στο απόσπασμα σελίδα της λίστας."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/quote_list.php:288
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:299
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/general.php:121
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/google_chat.php:84
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/sms.php:179
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:368
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:1208
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/widget.php:195
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:982
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:698
+msgid "Save Changes"
+msgstr "Αποθηκεύστε Τις Αλλαγές"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:13
+msgid "Show \"Update List\" Button"
+msgstr "Εκπομπή \"Ενημέρωση Λίστας\" Κουμπί"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:15
+msgid ""
+"Turn On/Off if you want to show/hide update list button on the quote list "
+"page."
+msgstr ""
+"Ενεργοποίηση/Απενεργοποίηση εάν θέλετε να εμφανίσετε/αποκρύψετε την "
+"ενημέρωση κουμπί λίστα στην προσφορά σελίδα της λίστας."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:43
+msgid "Show \"Clear List\" Button"
+msgstr "Εμφάνιση Κουμπί \"Εκκαθάριση Λίστας\" "
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:45
+msgid ""
+"Turn On/Off if you want to show/hide the clear list button on the quote list "
+"page."
+msgstr ""
+"Ενεργοποίηση/Απενεργοποίηση εάν θέλετε να εμφανίσετε/αποκρύψετε το σαφές "
+"κουμπί λίστα στην προσφορά σελίδα της λίστας."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:76
+msgid "Add more Items Button"
+msgstr "Προσθέσετε περισσότερα Στοιχεία Κουμπί"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:79
+msgid ""
+"Turn On/Off if you want to show/hide add more items button on the quote list "
+"page."
+msgstr ""
+"Ενεργοποίηση/Απενεργοποίηση εάν θέλετε να εμφανίσετε/αποκρύψετε προσθέσετε "
+"περισσότερα στοιχεία κουμπί στο απόσπασμα σελίδα της λίστας."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:110
+msgid "Add more Items Button Label"
+msgstr "Προσθέσετε περισσότερα Στοιχεία Ετικέτα του Κουμπιού"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:112
+msgid ""
+"Enter the label text for 'Add more items' button on the quote list page."
+msgstr ""
+"Εισάγετε την ετικέτα κειμένου για να Προσθέσετε περισσότερα στοιχεία \" "
+"κουμπί στο απόσπασμα σελίδα της λίστας."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:141
+msgid "Add More Items Button Redirect Page"
+msgstr "Προσθέσετε Περισσότερα Στοιχεία Κουμπί Σελίδα Ανακατεύθυνσης"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:143
+msgid ""
+"Select the page where you want the customer to be redirected to upon "
+"clicking the add more items button"
+msgstr ""
+"Επιλέξτε τη σελίδα που θέλετε ο πελάτης να μεταφερθείτε, κάνοντας κλικ στο "
+"προσθήκη περισσότερων στοιχείων κουμπί"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:176
+msgid ""
+"If there is No Activity on Quote by Customer, Send Reminder Email in Every"
+msgstr ""
+"Εάν δεν υπάρξει Καμία Δραστηριότητα για την Προσφορά από τον Πελάτη, Στείλτε "
+"e-Mail Υπενθύμισης σε Κάθε"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:184
+msgid ""
+"Set the number of days for sending a reminder email to the customer. Leave "
+"blank to skip automatic reminders."
+msgstr ""
+"Ορίστε τον αριθμό των ημερών για την αποστολή ενός e-mail υπενθύμισης για "
+"τον πελάτη. Αφήστε το κενό για να παρακάμψετε την αυτόματη υπενθυμίσεις."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:211
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:53
+msgid "Days"
+msgstr "Ημέρες"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:219
+msgid "Trials"
+msgstr "Δοκιμές"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:229
+msgid "Allow Customer to Send Counter Proposal"
+msgstr "Αφήστε τον Πελάτη να Στείλετε την Αντίθετη Πρόταση"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:237
+msgid "Turn on if you want to allow customer to send Counter Proposal."
+msgstr ""
+"Ενεργοποιήστε, αν θέλετε να επιτρέψει στον πελάτη να στείλετε την Αντίθετη "
+"Πρόταση."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:265
+msgid "Allow Customer to Download PDF"
+msgstr "Αφήστε τον Πελάτη να Κατεβάσετε το PDF"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/additional_options.php:274
+msgid "Turn on if you want to allow customer to download PDF."
+msgstr ""
+"Ενεργοποιήστε, αν θέλετε να επιτρέψει στον πελάτη να κατεβάσετε το PDF."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/form_settings.php:15
+msgid "Updated Successfully."
+msgstr "Ενημερώθηκε Με Επιτυχία."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/form_settings.php:38
+msgid "Deleted Successfully."
+msgstr "Διαγράφηκε Με Επιτυχία."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/form_settings.php:59
+msgid "Saved Successfully"
+msgstr "Αποθηκευτεί Με Επιτυχία"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/form_settings.php:80
+msgid "Field with same name Already Exist"
+msgstr "Το πεδίο με το ίδιο όνομα Υπάρχει Ήδη"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/listpage_form_setting/form_settings.php:100
+msgid "Enter 2 or more values for the selected input type."
+msgstr "Εισάγετε 2 ή περισσότερες τιμές για το επιλεγμένο τύπο εισόδου."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/general.php:16
+msgid "Notifications Email Address"
+msgstr "Ειδοποιήσεις E-Mail Διεύθυνση"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/general.php:19
+msgid ""
+"Enter the email addresses to receive a notification when the customer places "
+"a quote request. By default, the administrator email id is taken to get a "
+"notification. Multiple email ids should be separated by commas."
+msgstr ""
+"Εισάγετε τις διευθύνσεις ηλεκτρονικού ταχυδρομείου για να λαμβάνετε "
+"ειδοποίηση όταν ο πελάτης τοποθετεί μια προσφορά αιτήματος. Από προεπιλογή, "
+"ο διαχειριστής e-mail id είναι που λαμβάνονται για να πάρετε μια ειδοποίηση. "
+"Πολλαπλές διευθύνσεις email θα πρέπει να διαχωρίζονται με κόμματα."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/general.php:44
+msgid "Select Order Statuses To Notify Customers"
+msgstr "Επιλέξτε Για Καταστάσεις Να Ενημερώνει Τους Πελάτες"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/general.php:46
+msgid ""
+"Select the order statuses for which customers should receive an email "
+"notification."
+msgstr ""
+"Επιλέξτε το για καταστάσεις για τις οποίες οι πελάτες θα πρέπει να λάβετε "
+"μια ειδοποίηση μέσω ηλεκτρονικού ταχυδρομείου."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/general.php:69
+msgid ""
+"Quote Requested\n"
+"                                        "
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/general.php:79
+msgid ""
+"Quote Approved\n"
+"                                        "
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/general.php:95
+msgid "Debug Log"
+msgstr "Αρχείο Καταγραφής Εντοπισμού Σφαλμάτων"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/general.php:97
+msgid ""
+"Find email, sms and google chat logs here (wp-content\\uploads\\wc-logs)."
+msgstr ""
+"Βρείτε e-mail, sms και το google chat logs εδώ (wp-content\\προσθήκες\\wc-"
+"κορμοί)."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/google_chat.php:14
+msgid "Google Chat Notification"
+msgstr "Το Google Chat Κοινοποίηση"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/google_chat.php:17
+msgid ""
+"Enable to receive Google Chat notification when the customer makes a quote "
+"request."
+msgstr ""
+"Ενεργοποίηση για να λάβετε το Google Chat κοινοποίηση, όταν ο πελάτης κάνει "
+"μια αίτηση παράθεση."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/google_chat.php:51
+msgid "Webhook URL"
+msgstr "Webhook URL"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/google_chat.php:53
+msgid ""
+"Enter the Google Chat Webhook URL. You can find this URL on your google chat "
+"window."
+msgstr ""
+"Εισάγετε το Google Chat Webhook URL. Μπορείτε να βρείτε αυτήν τη διεύθυνση "
+"URL στο google παράθυρο συνομιλίας."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/sms.php:13
+msgid "SMS Notification"
+msgstr "SMS Ειδοποίηση"
+
+#. %s: URL to create Twilio account.
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/sms.php:32
+#, php-format
+msgid ""
+"Enable to receive SMS notification when the customer makes a quote request. "
+"Sign up for a new Twilio account %1$s."
+msgstr ""
+"Ενεργοποίηση για να λάβετε ειδοποίηση SMS όταν ο πελάτης κάνει μια αίτηση "
+"παράθεση. Εγγραφείτε για ένα νέο Twilio υπόψη το %1$s."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/sms.php:45
+msgid "Twilio SID"
+msgstr "Twilio SID"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/sms.php:47
+msgid "Enter Your Twilio SID"
+msgstr "Εισάγετε Το Twilio SID"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/sms.php:77
+msgid "Twilio Token"
+msgstr "Twilio Token"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/sms.php:79
+msgid "Enter Your Twilio Token"
+msgstr "Εισάγετε Το Twilio Token"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/sms.php:111
+msgid "Twilio Mobile Number"
+msgstr "Twilio Τον Αριθμό Του Κινητού"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/sms.php:113
+msgid ""
+"Enter the mobile number where you want to get a notification when the "
+"customer places a quote request"
+msgstr ""
+"Εισάγετε τον αριθμό του κινητού που θέλετε να πάρετε μια ειδοποίηση όταν ο "
+"πελάτης τοποθετεί ένα αιτήματος αποσπάσματός"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/sms.php:145
+msgid "Notification Mobile Number"
+msgstr "Κοινοποίηση Αριθμό Του Κινητού"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/notification_settings/sms.php:147
+msgid "Enter Your Twilio mobile Number"
+msgstr "Εισάγετε Το Twilio τον Αριθμό του κινητού"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:19
+msgid "Hide Price"
+msgstr "Απόκρυψη Τιμών"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:21
+msgid ""
+"Enabling the Hide Price will automatically enable the Hide Add to Cart "
+"button on the Shop page and the Product Page."
+msgstr ""
+"Επιτρέπει την Απόκρυψη Τιμή θα ενεργοποιήσει αυτόματα την Απόκρυψη Προσθήκη "
+"στο Καλάθι κουμπί στη σελίδα του Καταστήματος και την Σελίδα του Προϊόντος."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:46
+msgid ""
+"Turn on to hide price in the Product page, Shop Page and Quote List Page."
+msgstr ""
+"Ενεργοποιήστε την για να κρύψει τιμή στην σελίδα του Προϊόντος, Σελίδα Shop "
+"και το Απόσπασμα Σελίδα της Λίστας."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:61
+msgid "Hide Add to Cart Button on Shop Page"
+msgstr "Απόκρυψη Προσθήκη στο Καλάθι Κουμπί στη Σελίδα Καταστήματος"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:74
+msgid "Turn on to hide the add to cart button on the shop page."
+msgstr ""
+"Ενεργοποιήστε την για να αποκρύψετε το κουμπί προσθήκη στο καλάθι στη σελίδα "
+"του καταστήματος."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:89
+msgid "Hide Add to Cart Button on Product Page"
+msgstr "Απόκρυψη Προσθήκη στο Καλάθι Κουμπί στη Σελίδα του Προϊόντος"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:99
+msgid "Turn on to hide the add to cart button on the product page."
+msgstr ""
+"Ενεργοποιήστε την για να κρύψει το προσθέσετε στο καλάθι κουμπί στη σελίδα "
+"του προϊόντος."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:117
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:495
+msgid "Include Products"
+msgstr "Περιλαμβάνουν Προϊόντα"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:133
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:170
+msgid ""
+"Turn on & Select the Products for which the above settings should not be "
+"applied"
+msgstr ""
+"Ενεργοποιήσετε και να Επιλέξετε τα Προϊόντα για τα οποία οι ανωτέρω "
+"ρυθμίσεις δεν θα πρέπει να εφαρμόζεται"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:154
+msgid "Exclude Products"
+msgstr "Εξαιρούνται Τα Προϊόντα"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:182
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:748
+msgid "Exclude Products By Category"
+msgstr "Εξαιρούνται Τα Προϊόντα Με Βάση Την Κατηγορία"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:184
+msgid ""
+"Select the product categories that you want to exclude from the above "
+"applied settings"
+msgstr ""
+"Επιλέξτε από τις κατηγορίες προϊόντων που θέλετε να εξαιρέσετε από τα "
+"παραπάνω εφαρμόζονται ρυθμίσεις"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:228
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:792
+msgid "Exclude Products By Name"
+msgstr "Εξαιρούνται Τα Προϊόντα Με Βάση Το Όνομα"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:230
+msgid ""
+"Select the product names that you want to exclude from the above applied "
+"settings"
+msgstr ""
+"Επιλέξτε τα ονόματα προϊόντων που θέλετε να εξαιρέσετε από τα παραπάνω "
+"εφαρμόζονται ρυθμίσεις"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:275
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:834
+msgid "Exclude Products By Tags"
+msgstr "Εξαιρούνται Τα Προϊόντα Με Ετικέτες"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:277
+msgid ""
+"Select the product tags that you want to exclude from the above applied "
+"settings"
+msgstr ""
+"Επιλέξτε την κατηγορία προϊόντων που θέλετε να εξαιρέσετε από τα παραπάνω "
+"εφαρμόζονται ρυθμίσεις"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:328
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:885
+msgid "Role Based Filter"
+msgstr "Με Βάση Το Ρόλο Του Φίλτρου"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/hide_addtocart_price.php:347
+msgid ""
+"Select the roles for which the above settings should be\n"
+"                                        applied/not."
+msgstr ""
+"Επιλέξτε τους ρόλους για τους οποίους οι παραπάνω ρυθμίσεις θα πρέπει να "
+"εφαρμόζεται/δεν."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:16
+msgid "Quote Expires in"
+msgstr "Προσφορά Λήγει σε"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:25
+msgid ""
+"Set the number of days after the quote request date for the quote to expire. "
+"Leave blank if the quote should not expire."
+msgstr ""
+"Ορίστε τον αριθμό των ημερών μετά την παράθεση ημερομηνία αίτησης για την "
+"προσφορά λήγει. Αφήστε το κενό αν η προσφορά δεν πρέπει να λήξουν."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:65
+msgid "Accepted Payment Gateways"
+msgstr "Αποδεκτοί Τρόποι Πληρωμής"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:73
+msgid ""
+"Select the store payment methods to display during checkout. Leave blank to "
+"show all payment methods."
+msgstr ""
+"Επιλέξτε το κατάστημα μεθόδους πληρωμής για να εμφανιστεί κατά την "
+"ολοκλήρωση της παραγγελίας. Αφήστε το κενό για να δείτε όλες τις μεθόδους "
+"πληρωμής."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:117
+msgid "Quote Button on Shop Page"
+msgstr "Παραθέτω το Κουμπί στην Σελίδα Shop"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:119
+msgid "Toggle On or Off to display the Add to Quote button on the shop page"
+msgstr ""
+"Εναλλαγή On ή Off για να εμφανιστεί το Προσθέσετε στο κουμπί Απόσπασμα στη "
+"σελίδα του καταστήματος"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:150
+msgid "Quote Button on Product Page"
+msgstr "Απόσπασμα Κουμπί στη Σελίδα του Προϊόντος"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:153
+msgid ""
+"Toggle On or Off the display of the Add to Quote button on the product page"
+msgstr ""
+"Ενεργοποιήσετε ή να Απενεργοποιήσετε την οθόνη από το Προσθέσετε για να "
+"Παραθέσω το κουμπί στη σελίδα του προϊόντος"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:183
+msgid "Add to Quote Button Position on Product Page"
+msgstr "Προσθήκη στο Απόσπασμα Θέση Κουμπί στη Σελίδα του Προϊόντος"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:190
+msgid "Button position may vary depending on the theme."
+msgstr "Θέση του κουμπιού μπορεί να διαφέρει ανάλογα με το θέμα."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:213
+msgid "Inline with Add to Cart"
+msgstr "Inline με Προσθήκη στο Καλάθι"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:220
+msgid "Below Add to Cart"
+msgstr "Παρακάτω Προσθήκη στο Καλάθι"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:230
+msgid "Quote Button on Cart Page"
+msgstr "Απόσπασμα Κουμπί στη Σελίδα Καλάθι"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:238
+msgid ""
+"Enable or disable the \"Add to Quote\" button on the Cart page. When enabled,"
+" this button will appear on the Cart page. Customers can click the \"Add to "
+"Quote\" button to automatically add the products in their cart to a quote "
+"list page."
+msgstr ""
+"Ενεργοποιήσετε ή να απενεργοποιήσετε το \"Προσθήκη στο Απόσπασμα\" κουμπί "
+"στη σελίδα του Καλαθιού αγορών. Όταν είναι ενεργοποιημένη, αυτό το κουμπί θα "
+"εμφανιστεί στη σελίδα του Καλαθιού αγορών. Οι πελάτες μπορούν να κάνουν κλικ "
+"στο \"Προσθήκη στο Απόσπασμα\" κουμπί για να προσθέσετε τα προϊόντα στο "
+"καλάθι τους για να ένα απόσπασμα σελίδα της λίστας."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:266
+msgid "Quote Button Configurations"
+msgstr "Απόσπασμα Κουμπί Διαμορφώσεις"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:272
+msgid "Open Quote Form"
+msgstr "Ανοίξτε Το Απόσπασμα Μορφή"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:275
+msgid "Select how you want to show the quote list to your user."
+msgstr "Επιλέξτε πώς θέλετε να εμφανίζονται τα παραθέτω λίστα χρήστη σας."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:298
+msgid "In a New Page"
+msgstr "Σε μια Νέα Σελίδα"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:301
+msgid "In a Light Box"
+msgstr "Σε ένα Ελαφρύ Κουτί"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:313
+msgid "Add to Quote Success Alert Message"
+msgstr "Προσθήκη στο Απόσπασμα Επιτυχία Μήνυμα Προειδοποίησης"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:317
+msgid ""
+"Enter the alert message to display on successful addition of the product to "
+"the quote list."
+msgstr ""
+"Εισάγετε το προειδοποιητικό μήνυμα για να εμφανιστεί στην επιτυχή προσθήκη "
+"του προϊόντος στο απόσπασμα λίστα."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:340
+#: ../../../../../../../projects/elex-request-a-quote/src/Settings/SettingsController.php:397
+#: ../../../../../../../projects/elex-request-a-quote/src/Settings/Models/GeneralSettings.php:92
+msgid "Product successfully added to the Quote List"
+msgstr "Το προϊόν προστέθηκε με επιτυχία στο Απόσπασμα Λίστα"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:352
+msgid "Add to Quote Button Behaviour"
+msgstr "Προσθέστε στο Κουμπί Απόσπασμα Συμπεριφορά"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:361
+msgid ""
+"Select \"Redirect to the Quote List Page\" to enable automatic redirection "
+"to the Quote List Page upon clicking the \"Add to Quote\" button."
+msgstr ""
+"Επιλέξτε \"Ανακατευθύνει το Απόσπασμα της Σελίδας Λίστα\" για να "
+"ενεργοποιήσετε την αυτόματη ανακατεύθυνση στο Απόσπασμα Σελίδα της Λίστας, "
+"κάνοντας κλικ στο \"Προσθήκη στο Απόσπασμα\" κουμπί."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:384
+msgid "Redirect to the Quote List Page"
+msgstr "Ανακατεύθυνση στο Απόσπασμα Σελίδα της Λίστας"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:387
+msgid "Stay on the Shop/Product page"
+msgstr "Διαμονή για το Κατάστημα/τη σελίδα του Προϊόντος"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:396
+msgid "Quote Button Customization"
+msgstr "Απόσπασμα Κουμπί Προσαρμογή"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:400
+msgid "Quote Button Label"
+msgstr "Απόσπασμα Ετικέτα Του Κουμπιού"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:402
+msgid "Enter a custom label text for the request a quote button"
+msgstr ""
+"Εισάγετε μια προσαρμοσμένη ετικέτα κειμένου για να ζητήσετε μια προσφορά "
+"κουμπί"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:432
+msgid "Default Button Color"
+msgstr "Προεπιλεγμένο Κουμπί Χρώμα"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:434
+msgid "Choose the default color for the buttons."
+msgstr "Επιλέξτε το προεπιλεγμένο χρώμα για τα κουμπιά."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:471
+msgid "Filter Products"
+msgstr "Φίλτρο Προϊόντα"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:477
+msgid ""
+"The quote button will be added to all the products by\n"
+"                default. If you want to include\n"
+"                or exclude certain products, use the filter options given "
+"below."
+msgstr ""
+"Το κουμπί απόσπασμα θα πρέπει να προστεθεί σε όλα τα προϊόντα από προεπιλογή."
+" Αν θέλετε να συμπεριλάβετε ή να εξαιρέσετε ορισμένα προϊόντα, "
+"χρησιμοποιήστε το φίλτρο επιλογές που δίνονται παρακάτω."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:513
+msgid ""
+"Select the products for which request a quote settings should\n"
+"                                        be applied. Rest of the products "
+"will be excluded\n"
+"                                        automatically."
+msgstr ""
+"Επιλέξτε τα προϊόντα για τα οποία ζητήσετε μια προσφορά ρυθμίσεις θα πρέπει "
+"να εφαρμοστούν. Υπόλοιπα προϊόντα θα αποκλείεται αυτόματα."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:535
+msgid "Include Products By Category"
+msgstr "Περιλαμβάνουν Προϊόντα Από Την Κατηγορία"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:537
+msgid ""
+"Select the products categories for which you want to display the request a "
+"quote button"
+msgstr ""
+"Επιλέξτε τις κατηγορίες προϊόντων για τα οποία θέλετε να εμφανίζεται το "
+"ζητήσετε προσφορά κουμπί"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:591
+msgid "Include Products By Name"
+msgstr "Περιλαμβάνουν Προϊόντα Με Βάση Το Όνομα"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:594
+msgid ""
+"Select the products names for which you want to display the request a quote "
+"button"
+msgstr ""
+"Επιλέξτε τα προϊόντα τα ονόματα για τα οποία θέλετε να εμφανίζεται το "
+"ζητήσετε προσφορά κουμπί"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:646
+msgid "Include Products By Tags"
+msgstr "Περιλαμβάνουν Προϊόντα Από Την Κατηγορία"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:649
+msgid ""
+"Select the products tags for which you want to display the request a quote "
+"button"
+msgstr ""
+"Επιλέξτε την κατηγορία προϊόντων για την οποία θέλετε να εμφανίσετε το "
+"ζητήσετε προσφορά κουμπί"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:705
+msgid "Exclude Product"
+msgstr "Αποκλείει Το Προϊόν"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:727
+msgid ""
+"Select the products for which request a quote settings should\n"
+"                                        not be applied."
+msgstr ""
+"Επιλέξτε τα προϊόντα για τα οποία ζητήσετε μια προσφορά ρυθμίσεις δεν πρέπει "
+"να εφαρμοστεί."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:750
+msgid ""
+"Select the products categories for which you don't want to display the "
+"request a quote button"
+msgstr ""
+"Επιλέξτε τις κατηγορίες προϊόντων για τις οποίες δεν θέλετε να εμφανίσετε το "
+"ζητήσετε προσφορά κουμπί"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:795
+msgid ""
+"Select the individual product names for which you don't want to display the "
+"request a quote button"
+msgstr ""
+"Επιλέξτε τα μεμονωμένα ονόματα προϊόντων για τα οποία δεν θέλετε να "
+"εμφανίσετε το ζητήσετε προσφορά κουμπί"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:837
+msgid ""
+"Select the products tags for which you don't want to display the request a "
+"quote button"
+msgstr ""
+"Επιλέξτε την κατηγορία προϊόντων για την οποία δεν θέλετε να εμφανίσετε το "
+"ζητήσετε προσφορά κουμπί"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:907
+msgid ""
+"Select the roles for which request a quote settings should be\n"
+"                                        applied/not."
+msgstr ""
+"Επιλέξτε τους ρόλους για τους οποίους ζητήσετε μια προσφορά ρυθμίσεις θα "
+"πρέπει να εφαρμόζεται/δεν."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:928
+msgid "Include Roles"
+msgstr "Περιλαμβάνουν Ρόλους"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:930
+msgid ""
+"Select the user roles for which you want to display the request a quote "
+"button"
+msgstr ""
+"Επιλέξτε τους ρόλους χρήστη για τον οποίο θέλετε να εμφανίσετε το ζητήσετε "
+"προσφορά κουμπί"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:973
+msgid "Exclude Roles"
+msgstr "Αποκλείει Ρόλους"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:975
+msgid ""
+"Select the user roles for which you don't want to display the request a "
+"quote button"
+msgstr ""
+"Επιλέξτε το χρήστη ρόλους για τους οποίους δεν θέλετε να εμφανίσετε το "
+"ζητήσετε προσφορά κουμπί"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:1023
+msgid "Disable Quote Request for Unregistered Users"
+msgstr ""
+"Απενεργοποίηση του Αιτήματος Αποσπάσματός για μη εγγεγραμμένους Χρήστες"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:1042
+msgid ""
+"By enabling this option guest users can be redirected to the\n"
+"                                        My Account page for registration."
+msgstr ""
+"Ενεργοποιώντας αυτή την επιλογή guest χρήστες μπορούν να μεταφερθείτε στη "
+"σελίδα ο Λογαριασμός Μου για την εγγραφή."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:1064
+msgid "Include/Exclude products based on stock"
+msgstr "Συμπεριλαμβάνονται/εξαιρούνται προϊόντα που βασίζονται σε απόθεμα"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:1072
+msgid ""
+"Select an option to determine how you want to display the add to quote "
+"button based on the product availablity"
+msgstr ""
+"Επιλέξτε μια επιλογή για να καθορίσετε πώς θέλετε να εμφανίζεται το "
+"προσθέσετε στο κουμπί απόσπασμα βάσει της διαθεσιμότητας προϊόντων"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:1097
+msgid "Show Add to Quote Button for all the products"
+msgstr "Εμφάνιση Προσθήκη στο Κουμπί Απόσπασμα για όλα τα προϊόντα"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:1102
+msgid "Hide Add to Quote button for Out of Stock products"
+msgstr "Απόκρυψη Προσθήκη στο κουμπί Απόσπασμα για Out of Stock προϊόντα"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:1108
+msgid ""
+"Show Add to Quote button only for Out of Stock\n"
+"                                        products"
+msgstr "Εμφάνιση Προσθήκη στο κουμπί Παράθεση μόνο για Out of Stock προϊόντα"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:1126
+msgid "Third Party API key"
+msgstr "Τρίτο κλειδί API"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:1133
+msgid ""
+"In case you want to get quote requests/orders via third party plugins, Turn "
+"On the below\n"
+"\t\t\t\t\tfunctionality & get the API Key."
+msgstr ""
+"Σε περίπτωση που θέλετε να πάρετε προσφορά αιτήσεις/εντολές μέσω τρίτων "
+"plugins κόμμα, Ενεργοποιήστε την παρακάτω λειτουργικότητα και να πάρει το "
+"Κλειδί API."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:1150
+msgid "Third Party Usage"
+msgstr "Τρίτο Κόμμα Χρήση"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:1163
+msgid "Turn this ON, to get the API Key."
+msgstr "Το ενεργοποιήσετε, για να πάρει το Κλειδί API."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:1170
+msgid "Rest API Key"
+msgstr "Rest API Κλειδί"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:1179
+msgid "Copy API Key"
+msgstr "Αντιγράψτε το Κλειδί API"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:1222
+msgid "Copied Successfully!"
+msgstr "Αντιγράψει Με Επιτυχία!"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/general.php:1239
+msgid "Error copying text"
+msgstr "Σφάλμα κατά την αντιγραφή του κειμένου"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/widget.php:11
+msgid "Show Quote List Icon"
+msgstr "Απόσπασμα Παράστασης Εικονίδιο Λίστας"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/widget.php:31
+msgid "Quote List Color On Hover"
+msgstr "Παραθέτω Λίστα Με Χρώμα Για Hover"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/widget.php:33
+msgid "Select the color of the widget when a customer hovers over it."
+msgstr ""
+"Επιλέξτε το χρώμα του widget, όταν ένας πελάτης να αιωρείται από πάνω του."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/widget.php:61
+msgid "Quote List Icon Type"
+msgstr "Απόσπασμα Εικονίδιο Λίστας Τύπος"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/widget.php:63
+msgid ""
+"You may face compatibility issues with specific themes when Fixed icon type "
+"is chosen."
+msgstr ""
+"Μπορεί να αντιμετωπίσετε ζητήματα συμβατότητας με ειδικά θέματα, όταν "
+"Καθορίζεται το εικονίδιο τύπος που θα επιλεγεί."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/widget.php:81
+msgid "Float"
+msgstr "Float"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/widget.php:82
+msgid "Fixed"
+msgstr "Σταθερό"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/widget.php:93
+msgid "Show Button Label Next to Icon"
+msgstr "Δείξτε Ετικέτα Κουμπί Δίπλα από το Εικονίδιο"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/widget.php:128
+msgid "Please enter the text that you would like to display as a button label."
+msgstr ""
+"Παρακαλώ εισάγετε το κείμενο που θέλετε να εμφανίζεται ως ετικέτα του "
+"κουμπιού."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/widget.php:163
+msgid "Show List Pop Up on Hover"
+msgstr "Εμφάνιση Λίστας Pop Up για Hover"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/widget.php:165
+msgid ""
+"Turn it on or off if you want to display or hide the list of products in the "
+"quote list by hovering over the quote list widget."
+msgstr ""
+"Ενεργοποιήσετε ή να την απενεργοποιήσετε αν θέλετε να εμφανίσετε ή να "
+"αποκρύψετε τη λίστα των προϊόντων στο απόσπασμα λίστα με πλανάται πάνω από "
+"το απόσπασμα λίστα widget."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:9
+msgid ""
+"You can configure your email and sms/chat template here,\n"
+"                Make use of placeholders to\n"
+"                fill the fields dynamically."
+msgstr ""
+"Μπορείτε να ρυθμίσετε το email σας και sms/chat πρότυπο εδώ, χρησιμοποιεί "
+"σύμβολα κράτησης θέσης για να συμπληρώσετε τα πεδία δυναμικά."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:18
+msgid ""
+"Please note that placeholders can be applied only to\n"
+"                the\n"
+"                email and chat/sms body."
+msgstr ""
+"Παρακαλείστε να σημειώσετε ότι τα σύμβολα μπορούν να εφαρμοστούν μόνο στο "
+"email και το chat/sms σώμα."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:27
+msgid ""
+"Also note, the @payment_link placeholder can only be\n"
+"                applied to\n"
+"                the email body sent after the quote is approved. You can "
+"also include HTML tags and\n"
+"                inline styles in the email body but the same wont be "
+"applicable to the chat/sms\n"
+"                body."
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:48
+msgid "Use Predefined Email Templates"
+msgstr "Χρησιμοποιήστε Προκαθορισμένα Πρότυπα Ηλεκτρονικού Ταχυδρομείου"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:56
+msgid ""
+"Enable this option to use predefined email templates within the plugin. You "
+"can configure the email content below."
+msgstr ""
+"Ενεργοποιήστε αυτή την επιλογή για να χρησιμοποιήσετε προκαθορισμένα πρότυπα "
+"ηλεκτρονικού ταχυδρομείου στο plugin. Μπορείτε να ρυθμίσετε το ηλεκτρονικό "
+"ταχυδρομείο του περιεχομένου που ακολουθεί."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:90
+msgid "Email Template"
+msgstr "Πρότυπο Ηλεκτρονικού Ταχυδρομείου"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:107
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:134
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:154
+msgid "Preview Template"
+msgstr "Προεπισκόπηση Πρότυπο"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:124
+msgid ""
+"Rectangle Logo\n"
+"\t\t\t\t\t\t\t\t\t\t\tTemplate"
+msgstr "Ορθογώνιο Λογότυπο Πρότυπο"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:150
+msgid "Non Logo Template"
+msgstr "Μη Το Λογότυπο Πρότυπο"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:166
+msgid "Company Logo"
+msgstr "Το Λογότυπο Της Εταιρείας"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:179
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form/fields/form.js:135
+msgid "Upload Image"
+msgstr "Ανεβάστε Εικόνα"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:198
+msgid "upload png or jpeg file"
+msgstr "ανεβάστε png ή jpeg αρχείο"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:208
+msgid "Terms and Condition"
+msgstr "Όροι και προϋποθέσεις"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:210
+msgid ""
+"Enable this option if you wish to include the terms and conditions in the "
+"email template."
+msgstr ""
+"Ενεργοποιήστε αυτήν την επιλογή αν επιθυμείτε να περιλαμβάνουν τους όρους "
+"και τις προϋποθέσεις στο e-mail template."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:242
+msgid "Terms and Condition Content"
+msgstr "Όρους και το Περιεχόμενο Κατάσταση"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:257
+msgid "Quote Request Email Template: Sent to the Site Administrator"
+msgstr ""
+"Απόσπασμα Αίτημα Πρότυπο Ηλεκτρονικού ταχυδρομείου: Αποστέλλονται στο "
+"Διαχειριστή του Site"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:264
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:382
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:494
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:607
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:726
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:840
+msgid "Email Subject"
+msgstr "Το Θέμα Του Email"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:266
+msgid ""
+"Enter the subject for the email sent to the administrator when a quote is "
+"received."
+msgstr ""
+"Εισάγετε το θέμα για το μήνυμα ηλεκτρονικού ταχυδρομείου που αποστέλλονται "
+"στο διαχειριστή, όταν ένα απόσπασμα που έλαβε."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:300
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:417
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:529
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:642
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:760
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:874
+msgid "Email Heading"
+msgstr "Μήνυμα Ηλεκτρονικού Ταχυδρομείου Κλάσης"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:302
+msgid ""
+"Enter the heading for the email sent to the administrator when a quote is "
+"received."
+msgstr ""
+"Εισάγετε τον τίτλο για το e-mail που αποστέλλονται στο διαχειριστή, όταν ένα "
+"απόσπασμα που έλαβε."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:336
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:453
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:565
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:678
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:794
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:908
+msgid "Email Body"
+msgstr "Σώμα Του E-Mail"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:338
+msgid ""
+"Enter the body for the email sent to the administrator when a quote is "
+"received."
+msgstr ""
+"Πληκτρολογήστε το σώμα του e-mail που αποστέλλονται στο διαχειριστή, όταν "
+"ένα απόσπασμα που έλαβε."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:375
+msgid "Quote Requested Email Template: Sent to the Customer"
+msgstr ""
+"Απόσπασμα Ζήτησε Πρότυπο Ηλεκτρονικού ταχυδρομείου: Αποστέλλονται στον Πελάτη"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:384
+msgid ""
+"Enter the subject for the email sent to the customer when a quote is "
+"requested."
+msgstr ""
+"Εισάγετε το θέμα για το μήνυμα ηλεκτρονικού ταχυδρομείου που αποστέλλονται "
+"στον πελάτη, όταν ένα απόσπασμα ζητείται."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:419
+msgid ""
+"Enter the heading for the email sent to the customer when a quote is "
+"requested."
+msgstr ""
+"Εισάγετε τον τίτλο για το e-mail που αποστέλλονται στον πελάτη, όταν ένα "
+"απόσπασμα ζητείται."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:455
+msgid ""
+"Enter the body for the email sent to the customer when a quote is requested."
+msgstr ""
+"Πληκτρολογήστε το σώμα του e-mail που αποστέλλονται στον πελάτη, όταν ένα "
+"απόσπασμα ζητείται."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:487
+msgid "Quote Approved Email Template: Sent to the Customer"
+msgstr ""
+"Απόσπασμα Εγκεκριμένο Πρότυπο Ηλεκτρονικού ταχυδρομείου: Αποστέλλονται στον "
+"Πελάτη"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:496
+msgid ""
+"Enter the subject for the email sent to the customer when a quote is "
+"accepted by the administrator."
+msgstr ""
+"Εισάγετε το θέμα για το μήνυμα ηλεκτρονικού ταχυδρομείου αποστέλλεται στον "
+"πελάτη όταν η προσφορά γίνει αποδεκτή από το διαχειριστή."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:531
+msgid ""
+"Enter the heading for the email sent to the customer after the quote request "
+"is accepted by the administrator."
+msgstr ""
+"Εισάγετε τον τίτλο για το μήνυμα ηλεκτρονικού ταχυδρομείου αποστέλλεται στον "
+"πελάτη μετά την παράθεση αίτηση γίνεται αποδεκτή από τον διαχειριστή."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:567
+msgid ""
+"Enter the body for the email sent to the customer after the quote request is "
+"accepted by the administrator."
+msgstr ""
+"Εισάγετε το σώμα για το μήνυμα ηλεκτρονικού ταχυδρομείου αποστέλλεται στον "
+"πελάτη μετά την παράθεση αίτηση γίνεται αποδεκτή από τον διαχειριστή."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:600
+msgid "Quote Rejected Email Template: Sent to the Customer"
+msgstr ""
+"Προσφορά Απορρίπτεται Πρότυπο Ηλεκτρονικού ταχυδρομείου: Αποστέλλονται στον "
+"Πελάτη"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:609
+msgid ""
+"Enter the subject for the email sent to the customer when a quote is "
+"rejected by the administrator."
+msgstr ""
+"Εισάγετε το θέμα για το μήνυμα ηλεκτρονικού ταχυδρομείου αποστέλλεται στον "
+"πελάτη όταν μια προσφορά απορρίπτεται από τον διαχειριστή."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:644
+msgid ""
+"Enter the heading for the email sent to the customer after the quote request "
+"is rejected by the administrator."
+msgstr ""
+"Εισάγετε τον τίτλο για το μήνυμα ηλεκτρονικού ταχυδρομείου αποστέλλεται στον "
+"πελάτη μετά την παράθεση αίτημα απορρίπτεται από τον διαχειριστή."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:680
+msgid ""
+"Enter the body for the email sent to the customer after the quote request is "
+"rejected by the administrator."
+msgstr ""
+"Εισάγετε το σώμα για το μήνυμα ηλεκτρονικού ταχυδρομείου αποστέλλεται στον "
+"πελάτη μετά την παράθεση αίτημα απορρίπτεται από τον διαχειριστή."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:714
+msgid "Reminder Email Template: Sent to the Customer"
+msgstr ""
+"Υπενθύμιση Πρότυπο Ηλεκτρονικού ταχυδρομείου: Αποστέλλονται στον Πελάτη"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:728
+msgid ""
+"Enter the subject for the email sent to the customer when there is no action "
+"from the customer."
+msgstr ""
+"Εισάγετε το θέμα για το μήνυμα ηλεκτρονικού ταχυδρομείου αποστέλλεται στον "
+"πελάτη όταν δεν υπάρχει δράση από τον πελάτη."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:762
+msgid "Enter the heading for the reminder email sent to the customer."
+msgstr ""
+"Εισάγετε τον τίτλο για την υπενθύμιση e-mail που αποστέλλονται στον πελάτη."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:796
+msgid "Enter the email body for the reminder email sent to the customer."
+msgstr ""
+"Εισάγετε το email σας για το email υπενθύμισης αποστέλλεται στον πελάτη."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:828
+msgid "Negotiation Email Template: Sent to the Customer"
+msgstr ""
+"Διαπραγμάτευση Πρότυπο Ηλεκτρονικού ταχυδρομείου: Αποστέλλονται στον Πελάτη"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:842
+msgid "Enter the subject for the negotiation email sent to the customer."
+msgstr ""
+"Εισάγετε το θέμα για τη διαπραγμάτευση μήνυμα ηλεκτρονικού ταχυδρομείου "
+"αποστέλλεται στον πελάτη."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:876
+msgid "Enter the heading for the negotiation email sent to the customer."
+msgstr ""
+"Εισάγετε τον τίτλο για τη διαπραγμάτευση μήνυμα ηλεκτρονικού ταχυδρομείου "
+"αποστέλλεται στον πελάτη."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:910
+msgid "Enter the email body for the negotiation email sent to the customer."
+msgstr ""
+"Εισάγετε το e-mail του σώματος για τη διαπραγμάτευση μήνυμα ηλεκτρονικού "
+"ταχυδρομείου αποστέλλεται στον πελάτη."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:942
+msgid ""
+"Quote Requested SMS / Google Chat Template: Sent to the Site Administrator"
+msgstr ""
+"Απόσπασμα Ζήτησε SMS / Google Chat Πρότυπο: Αποστέλλονται στο Διαχειριστή "
+"του Site"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:949
+msgid "SMS And Google Chat Body"
+msgstr "SMS Και το Google Chat Σώμα"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:952
+msgid ""
+"Enter the content for the SMS/google chat notification sent to the "
+"administrator on receiving a quote request. you can enter text or fill the "
+"fields dynamically using placeholders from the above table. HTML tags are "
+"not accepted in this field."
+msgstr ""
+"Εισάγετε το περιεχόμενο του SMS/google chat κοινοποίηση που αποστέλλεται από "
+"τον διαχειριστή με την παραλαβή του αιτήματος αποσπάσματός. μπορείτε να "
+"πληκτρολογήσετε κείμενο ή να συμπληρώσετε τα πεδία δυναμικά χρησιμοποιώντας "
+"σύμβολα κράτησης θέσης από τον ανωτέρω πίνακα. HTML tags δεν γίνονται δεκτές "
+"σε αυτό το πεδίο."
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:992
+msgid "Title"
+msgstr "Τίτλος"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:993
+msgid "Placeholder"
+msgstr "Το σύμβολο κράτησης θέσης"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:998
+msgid "Core Fields"
+msgstr "Βασικά Πεδία"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1003
+msgid "Billing First Name"
+msgstr "Χρέωση Πρώτο Όνομα"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1004
+msgid "@billing_first_name"
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1008
+msgid "Billing Last Name"
+msgstr "Τιμολόγηση Τελευταίο Όνομα"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1009
+msgid "@billing_last_name"
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1013
+msgid "Billing Company"
+msgstr "Τιμολόγησης Της Εταιρείας"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1014
+msgid "@billing_company"
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1018
+msgid "Billing Country"
+msgstr "Χώρα Χρέωσης"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1019
+msgid "@billing_country"
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1022
+msgid "Billing Address 1"
+msgstr "Διεύθυνση Χρέωσης 1"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1023
+msgid "@billing_address_1"
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1027
+msgid "Billing Address 2"
+msgstr "Διεύθυνση Χρέωσης 2"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1028
+msgid "@billing_address_2"
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1031
+msgid "Billing City"
+msgstr "Τιμολόγηση Πόλη"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1032
+msgid "@billing_city"
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1035
+msgid "Billing State"
+msgstr "Τιμολόγηση Μέλος"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1036
+msgid "@billing_state"
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1039
+msgid "Billing Postcode"
+msgstr "Τιμολόγηση Ταχυδρομικό Κώδικα"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1040
+msgid "@billing_postcode"
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1043
+msgid "Billing Phone"
+msgstr "Τιμολόγηση Τηλέφωνο"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1044
+msgid "@billing_phone"
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1047
+msgid "Billing Email"
+msgstr "Τιμολόγηση E-Mail"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1048
+msgid "@billing_email"
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1051
+msgid "Order Items"
+msgstr "Στοιχεία Παραγγελίας"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1052
+msgid "@order_items"
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1055
+msgid "Payment Link"
+msgstr "Πληρωμή Link"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1056
+msgid "@payment_link"
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1059
+msgid "Customer Note"
+msgstr "Πελάτη Σημείωση"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1060
+msgid "@customer_note"
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1063
+msgid "Order ID"
+msgstr "ΑΝΑΓΝΩΡΙΣΤΙΚΌ παραγγελίας"
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1064
+msgid "@order_id"
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/view/settings/template.php:1067
+msgid "Custom Fields"
+msgstr "Προσαρμοσμένα Πεδία"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:89
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:120
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:355
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:452
+msgid "Name and type Can not be empty"
+msgstr "Το όνομα και ο τύπος δεν Μπορεί να είναι κενό"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:104
+msgid "Field has been rearranged successfully"
+msgstr "Το πεδίο έχει διαμορφωθεί με επιτυχία"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:144
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:340
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:474
+msgid "Enter options for the selcted types"
+msgstr "Εισάγετε τις επιλογές για το selcted τύπους"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:158
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:387
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:420
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:491
+msgid "Atleast one option is required"
+msgstr "Τουλάχιστον μία επιλογή που απαιτείται"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:171
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:400
+msgid "Already exist"
+msgstr "Υπάρχουν ήδη"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:184
+msgid "Field has been added successfully"
+msgstr "Το πεδίο έχει προστεθεί με επιτυχία"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:272
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:637
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/Models/FormSettings.php:40
+msgid "Quote Request Form"
+msgstr "Έντυπο Αιτήματος Αποσπάσματός"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:275
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:640
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/Models/FormSettings.php:42
+msgid "Your request has been submitted."
+msgstr "Το αίτημά σας έχει υποβληθεί."
+
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:303
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/quote_list/success_alert_toast.js:14
+msgid "Saved Successfully."
+msgstr "Αποθηκευτεί Με Επιτυχία."
+
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:433
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:504
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:543
+msgid "No Field Exist"
+msgstr "Δεν Υπάρχουν"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/FormSettingController.php:515
+msgid "Field has been edited successfully"
+msgstr "Το πεδίο έχει υποστεί επεξεργασία με επιτυχία"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/ListPageController.php:125
+msgid "Quote List Page"
+msgstr "Απόσπασμα Σελίδα Της Λίστας"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/ListPageController.php:130
+msgid "Additional Options"
+msgstr "Πρόσθετες Επιλογές"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/ListPageController.php:135
+msgid "Quote Form"
+msgstr "Απόσπασμα Μορφή"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/ListPageController.php:167
+#: ../../../../../../../projects/elex-request-a-quote/src/Widget/WidgetController.php:37
+#: ../../../../../../../projects/elex-request-a-quote/src/Widget/WidgetController.php:62
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/ListPageSettings.php:28
+#: ../../../../../../../projects/elex-request-a-quote/src/Widget/Models/WidgetModel.php:29
+msgid "Quote List"
+msgstr "Παραθέτω Λίστα"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/ListPageController.php:172
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/ListPageSettings.php:37
+msgid "Your Quote List is Empty"
+msgstr "Σας Παραθέτω Λίστα είναι Κενή"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/ListPageController.php:208
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/ListPageSettings.php:57
+msgid "Add More Items"
+msgstr "Προσθέσετε Περισσότερα Στοιχεία"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/QuoteListController.php:176
+msgid "Your request has been sent successfully"
+msgstr "Το αίτημά σας έχει σταλεί με επιτυχία"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Templates/order_items.php:9
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:61
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:69
+msgid "Products"
+msgstr "Προϊόντα"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Templates/order_items.php:13
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:62
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:70
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/quote_list/quote_list_content.js:52
+msgid "Price"
+msgstr "Τιμή"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Templates/order_items.php:18
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:63
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:71
+msgid "Qty."
+msgstr "Ποσότητα."
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Templates/order_items.php:23
+#: ../../../../../../../projects/elex-request-a-quote/src/Templates/order_items.php:125
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:64
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:117
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:72
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:125
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/squared_logo_template.php:122
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/quote_list/quote_list_content.js:78
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/quote_list/quote_list_content.js:110
+msgid "Subtotal"
+msgstr "Μερικό σύνολο"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Templates/order_items.php:133
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:121
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:129
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/squared_logo_template.php:126
+msgid "Fees"
+msgstr "Τέλη"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Templates/order_items.php:142
+msgid "Discount"
+msgstr "Έκπτωση"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Templates/order_items.php:151
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/quote_list/quote_list_content.js:90
+msgid "Tax"
+msgstr "Φόρος"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Templates/order_items.php:160
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:125
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:133
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/squared_logo_template.php:130
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/quote_list/quote_list_content.js:129
+msgid "Total"
+msgstr "Συνολικά"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Templates/order_items.php:175
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:143
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:152
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/squared_logo_template.php:148
+msgid "Terms & Conditions"
+msgstr "Όροι & Προϋποθέσεις"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/HelpAndSupport/HelpAndSupportController.php:44
+msgid "FAQs"
+msgstr "Συχνές ερωτήσεις"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/HelpAndSupport/HelpAndSupportController.php:49
+msgid "Raise a Ticket"
+msgstr "Σηκώστε ένα Εισιτήριο"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/ElementorWidget/Eraq_add_to_quote_widget.php:11
+#: ../../../../../../../projects/elex-request-a-quote/src/Settings/SettingsController.php:398
+#: ../../../../../../../projects/elex-request-a-quote/src/Settings/Models/GeneralSettings.php:93
+msgid "Add to Quote"
+msgstr "Προσθέστε σε Προσφορά"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Settings/SettingsController.php:415
+msgid "show_for_all_products"
+msgstr "show_for_all_products"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Settings/SettingsController.php:535
+msgid "General Settings"
+msgstr "Γενικές Ρυθμίσεις"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Settings/SettingsController.php:540
+msgid "Hide Add to Cart & Price"
+msgstr "Απόκρυψη Προσθήκη στο Καλάθι & Τιμή"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Settings/SettingsController.php:545
+msgid "Notification Settings"
+msgstr "Ρυθμίσεις Ειδοποίησης"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Settings/SettingsController.php:549
+msgid "Template Settings"
+msgstr "Πρότυπο Ρυθμίσεις"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Settings/SettingsController.php:554
+msgid "Quote List Menu"
+msgstr "Παραθέτω Λίστα Μενού"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Settings/SettingsController.php:558
+msgid "Button Customization"
+msgstr "Κουμπί Προσαρμογή"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Settings/SettingsController.php:562
+msgid "Go Premium!"
+msgstr "Go Premium!"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/Models/FormSettings.php:46
+msgid "First Name"
+msgstr "Πρώτο Όνομα"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/Models/FormSettings.php:49
+msgid "Add your first name."
+msgstr "Προσθέστε το όνομά σας."
+
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/Models/FormSettings.php:61
+msgid "Last Name"
+msgstr "Το Τελευταίο Όνομα"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/Models/FormSettings.php:64
+msgid "Add your last name."
+msgstr "Προσθέστε το επίθετο σας."
+
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/Models/FormSettings.php:76
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:273
+msgid "Email"
+msgstr "E-mail"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/Models/FormSettings.php:79
+msgid "Add your email."
+msgstr "Προσθέστε το email σας."
+
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/Models/FormSettings.php:92
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1063
+msgid "Phone"
+msgstr "Τηλέφωνο"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/FormSetting/Models/FormSettings.php:95
+msgid "Enter your Phone number"
+msgstr "Εισάγετε τον αριθμό Τηλεφώνου σας"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1020
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1069
+msgid "First name"
+msgstr "Πρώτο όνομα"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1024
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1073
+msgid "Last name"
+msgstr "Το τελευταίο όνομα"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1028
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1077
+msgid "Company"
+msgstr "Εταιρεία"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1032
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1081
+msgid "Address line 1"
+msgstr "Διεύθυνση γραμμή 1"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1036
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1085
+msgid "Address line 2"
+msgstr "Διεύθυνση γραμμή 2"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1040
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1089
+msgid "City"
+msgstr "Πόλη"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1044
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1093
+msgid "Postcode / ZIP"
+msgstr "Ταχυδρομικός κώδικας / ZIP"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1048
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1097
+msgid "Country / Region"
+msgstr "Χώρα / Περιοχή"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1052
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1101
+msgid "Select a country / region&hellip;"
+msgstr "Επιλέξτε μια χώρα / περιοχή..."
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1055
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1104
+msgid "State / County"
+msgstr "State / County"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1060
+msgid "Email address"
+msgstr "Η διεύθυνση ηλεκτρονικού ταχυδρομείου"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1119
+msgid "Billing"
+msgstr "Τιμολόγηση"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1164
+msgid "Shipping"
+msgstr "Ναυτιλία"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1208
+msgid "General"
+msgstr "Γενικά"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1364
+msgid "First name should be a string."
+msgstr "Πρώτο όνομα πρέπει να είναι μια συμβολοσειρά."
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1370
+msgid "Last name should be a string."
+msgstr "Το τελευταίο όνομα πρέπει να είναι μια συμβολοσειρά."
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1375
+msgid "Company name should be a string."
+msgstr "Το όνομα της εταιρείας πρέπει να είναι μια συμβολοσειρά."
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1380
+msgid "Email should be in valid format."
+msgstr "Το Email θα πρέπει να είναι σε έγκυρη μορφή."
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1385
+msgid "Email should be a int of length 10."
+msgstr "Το Email θα πρέπει να είναι int μήκους 10."
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1390
+msgid "Address 1  should be a string."
+msgstr "Διεύθυνση 1 πρέπει να είναι μια συμβολοσειρά."
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1395
+msgid "Address 2  should be a string."
+msgstr "Διεύθυνση 2 πρέπει να είναι μια συμβολοσειρά."
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1400
+msgid "City name  should be a string."
+msgstr "Το όνομα της πόλης θα πρέπει να είναι ένα string."
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1405
+msgid "state name  should be a string."
+msgstr "μέλος όνομα πρέπει να είναι μια συμβολοσειρά."
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1410
+msgid "Postcode  should be a string."
+msgstr "Ο ταχυδρομικός κώδικας πρέπει να είναι μια συμβολοσειρά."
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1416
+msgid "Country name should be a string."
+msgstr "Το όνομα της χώρας πρέπει να είναι μια συμβολοσειρά."
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1421
+msgid "Address array is empty"
+msgstr "Διεύθυνση σειράς είναι άδειο"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1429
+msgid "Custom Fields array is empty"
+msgstr "Προσαρμοσμένα Πεδία σειράς είναι άδειο"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1443
+msgid "User not found"
+msgstr "Ο χρήστης δεν βρέθηκε"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/Quotelist/Models/QuoteListModel.php:1458
+msgid "Unauthorize Access"
+msgstr "Μη Εξουσιοδοτημένης Πρόσβασης"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/Models/TemplateModel.php:263
+msgid "Product Name: Price * Quantity = Subtotal"
+msgstr "Όνομα Προϊόντων: Τιμή * Ποσότητα = Υποσύνολο"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/Models/TemplateModel.php:273
+msgid "Total :"
+msgstr "Συνολικά :"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/Models/TemplateModel.php:353
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:137
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:145
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/squared_logo_template.php:142
+msgid "Accept & Pay"
+msgstr "Δέχεται Και Πληρωμή"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:7
+msgid "Received a Quote!"
+msgstr "Έλαβε το Απόσπασμα!"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:21
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:26
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/squared_logo_template.php:23
+msgid "Quote #213"
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:26
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:30
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/squared_logo_template.php:32
+msgid "Issued By: Max Smith"
+msgstr "Που Εκδίδονται Από: Max Σμιθ"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:29
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:33
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/squared_logo_template.php:35
+msgid "Issued Date: 02-March-2022"
+msgstr "Που Εκδίδονται Ημερομηνία: 02-Μαρτίου-2022"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:32
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:36
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/squared_logo_template.php:38
+msgid "Expiry Date: 04-March-2022"
+msgstr "Ημερομηνία Λήξης: 04-Μαρτίου-2022"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:41
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:49
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/squared_logo_template.php:46
+msgid "Will Miller"
+msgstr "Θα Μίλερ"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:44
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:52
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/squared_logo_template.php:49
+msgid "Kelly.elliot@gmail.com"
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:47
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:55
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/squared_logo_template.php:52
+msgid "(190)081-0336"
+msgstr "(190)081-0336"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:77
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:97
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:85
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:105
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/squared_logo_template.php:82
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/squared_logo_template.php:102
+msgid "Product Name"
+msgstr "Όνομα Προϊόντων"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:78
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:98
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:86
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:106
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/squared_logo_template.php:83
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/squared_logo_template.php:103
+msgid "SKU:s123432"
+msgstr "SKU:s123432"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:146
+msgid ""
+"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy "
+"eirmod tempor invidunt\n"
+"                        ut labore et dolore magna aliquyam erat, sed diam "
+"voluptua. At vero eos."
+msgstr ""
+"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy "
+"eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam "
+"voluptua. Στο vero eos."
+
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/non_logo_template.php:155
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:165
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/squared_logo_template.php:160
+msgid "Powered by ELEX Request a Quote"
+msgstr "Τροφοδοτείται από ELEX Ζητήσετε μια Προσφορά"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:45
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/squared_logo_template.php:42
+msgid "Customer Details"
+msgstr "Τα Στοιχεία Των Πελατών"
+
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:156
+#: ../../../../../../../projects/elex-request-a-quote/src/TemplateSetting/DefaultTemplates/squared_logo_template.php:151
+msgid ""
+"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy "
+"eirmod tempor invidunt\n"
+"\t\t\t\t\t\tut labore et dolore magna aliquyam erat, sed diam voluptua. At "
+"vero eos."
+msgstr ""
+"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy "
+"eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam "
+"voluptua. Στο vero eos."
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:258
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_setting_header.js:14
+msgid "Form Settings"
+msgstr "Ρυθμίσεις Φόρμας"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:269
+msgid "Show Request a Quote Form"
+msgstr "Δείχνουν να Ζητήσετε μια Προσφορά Μορφή"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:284
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:338
+msgid ""
+"Enable this option to create a WordPress user for guest users after they "
+"submit the form."
+msgstr ""
+"Ενεργοποιήστε αυτή την επιλογή για να δημιουργήσετε ένα WordPress χρήστη για "
+"τους επισκέπτες χρήστες μετά την υποβολή της φόρμας."
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:296
+msgid "Auto Complete Form"
+msgstr "Αυτόματο Πλήρη Μορφή"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:309
+msgid ""
+"Turn this On to autocomplete request quote form with user account details."
+msgstr ""
+"Ενεργοποιήστε αυτό Για να autocomplete αίτημα απόσπασμα φόρμα με τα στοιχεία "
+"του λογαριασμού χρήστη."
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:321
+msgid "Create WordPress User"
+msgstr "Δημιουργία WordPress Χρήστη"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:350
+msgid "Enable reCAPTCHA"
+msgstr "Ενεργοποίηση reCAPTCHA"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:367
+msgid ""
+"Enable to activate reCAPTCHA v3 verification for submissions on the 'Request "
+"a Quote' form. "
+msgstr ""
+"Ενεργοποιήστε την ενεργοποίηση της επαλήθευσης reCAPTCHA v3 για υποβολές στη "
+"φόρμα «Αίτημα προσφοράς»."
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:375
+msgid "To use reCAPTCHA, sign up for an "
+msgstr "Για να χρησιμοποιήσετε το reCAPTCHA, εγγραφείτε για ένα"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:380
+msgid "API Key Pair "
+msgstr "Ζεύγος κλειδιών API"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:382
+msgid "for your site."
+msgstr "για το site σας."
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:395
+msgid "Site Key"
+msgstr "Ιστοσελίδα Κλειδί"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:397
+msgid "Enter a Valid Site Key"
+msgstr "Εισάγετε ένα Έγκυρο Site Κλειδί"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:408
+msgid "Enter your Site Key"
+msgstr "Εισάγετε το Site σας Κλειδί"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:417
+msgid "Secret Key"
+msgstr "Μυστικό Κλειδί"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:419
+msgid ""
+"Enter a valid secret key. Quotes will not be accepted if entered incorrectly."
+msgstr ""
+"Εισάγετε μια έγκυρη μυστικό κλειδί. Αποσπάσματα δεν θα γίνεται δεκτή εάν "
+"εισαχθεί λάθος."
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:429
+msgid "Enter your Secret key"
+msgstr "Εισάγετε το Μυστικό κλειδί"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:441
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_setting_header.js:44
+msgid "Form Header Title"
+msgstr "Μορφή Κεφαλίδας Τίτλου"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:448
+msgid ""
+"Enter the text you want to display as the header/title of the quote form."
+msgstr ""
+"Εισάγετε το κείμενο που θέλετε να εμφανίζεται ως η επικεφαλίδα/τίτλο του το "
+"απόσπασμα μορφή."
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:495
+msgid "Fill Your Details"
+msgstr "Συμπληρώστε Τα Στοιχεία Σας"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:507
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_setting_header.js:67
+msgid "Form Submit Actions"
+msgstr "Υποβολή Φόρμας Δράσεις"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:517
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_setting_header.js:72
+msgid "\"Send Request\" Button Redirectional URl"
+msgstr "\"Αποστολή Αιτήματος\" Κουμπί Redirectional URl"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:527
+msgid ""
+"Please provide the page URL that you wish to redirect to, After clicking the "
+"\"Send Request\" button"
+msgstr ""
+"Παρακαλώ δώστε τη διεύθυνση URL της σελίδας που θέλετε να γίνεται η "
+"ανακατεύθυνση, Αφού κάνετε κλικ στο \"Αποστολή Αίτησης\" κουμπί"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:583
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_setting_header.js:98
+msgid "\"Send Request\" Success Message"
+msgstr "\"Αποστολή Αιτήματος\" Μήνυμα Επιτυχίας"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:593
+msgid ""
+"Enter the text that you want to display as a message after the successful "
+"submission of the quote request."
+msgstr ""
+"Εισάγετε το κείμενο που θέλετε να εμφανίζεται ως ένα μήνυμα μετά από την "
+"επιτυχή υποβολή της αίτησης για προσφορά."
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:640
+msgid "Your request has been sent successfully."
+msgstr "Το αίτημά σας έχει σταλεί με επιτυχία."
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:650
+msgid "Form Field Settings"
+msgstr "Πεδίο Φόρμας Ρυθμίσεις"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:656
+msgid ""
+"When you create custom fields, the placeholder for the email template will "
+"be created based on the label text (For eg: Upload Image will be "
+"@Upload_Image). If you make changes to the label text in the future, please "
+"make sure to use the updated placeholder in the email body. Also, the label "
+"text cannot be modified for orders placed before the change."
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:664
+msgid "Label Name"
+msgstr "Όνομα Ετικέτας"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:665
+msgid "Field Type "
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:666
+msgid "Placeholder "
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:667
+msgid "Connected To "
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:668
+msgid "Required "
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:669
+msgid "Actions "
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form_settings.js:694
+msgid "Add New Field "
+msgstr ""
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/toast_message/update_message.js:17
+msgid "Updated Successfully"
+msgstr "Ενημερώθηκε Με Επιτυχία"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/quote_list/quote_list_content.js:239
+msgid "Update List"
+msgstr "Ενημέρωση Λίστας"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/quote_list/quote_list_content.js:443
+msgid "Product Detail"
+msgstr "Λεπτομέρεια Προϊόντων"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/quote_list/quote_list_empty.js:29
+msgid "Go to Shop Page"
+msgstr "Πηγαίνετε να Ψωνίσετε Σελίδα"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/quote_list/show_clear_list.js:14
+msgid "Clear List"
+msgstr "Σβήσιμο Λίστας"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/mini_quote_list/render_mini_quote_list.js:31
+msgid "items in Quote List"
+msgstr "στοιχεία Παραθέτω Λίστα"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_setting_header.js:23
+msgid "Show Request a Quote"
+msgstr "Δείχνουν να Ζητήσετε μια Προσφορά"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_setting_header.js:35
+msgid ""
+"Turn this Off, if you want to use any third party form to get the quote "
+"requests."
+msgstr ""
+"Την Απενεργοποιήσετε, αν θέλετε να χρησιμοποιήσετε οποιοδήποτε τρίτο μέρος "
+"φόρμα για να λάβετε την προσφορά αιτήματα."
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:273
+msgid "Select a type"
+msgstr "Επιλέξτε έναν τύπο"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:273
+msgid "Textarea"
+msgstr "Textarea"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:273
+msgid "Url"
+msgstr "Url"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:273
+msgid "Image"
+msgstr "Εικόνα"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:273
+msgid "Checkbox"
+msgstr "Το πλαίσιο ελέγχου"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:273
+msgid "Date"
+msgstr "Ημερομηνία"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:273
+msgid "Number"
+msgstr "Αριθμός"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:273
+msgid "Radio"
+msgstr "Ραδιόφωνο"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:273
+msgid "Tel"
+msgstr "Τηλ."
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:304
+msgid "Select Connected To"
+msgstr "Επιλέξτε Συνδεδεμένος"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:304
+msgid "billing_first_name"
+msgstr "billing_first_name"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:304
+msgid "billing_last_name"
+msgstr "billing_last_name"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:304
+msgid "billing_email"
+msgstr "billing_email"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:304
+msgid "billing_company"
+msgstr "billing_company"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:304
+msgid "billing_country"
+msgstr "billing_country"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:304
+msgid "billing_address_1"
+msgstr "billing_address_1"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:304
+msgid "billing_address_2"
+msgstr "billing_address_2"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:304
+msgid "billing_city"
+msgstr "billing_city"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:304
+msgid "billing_state"
+msgstr "billing_state"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:304
+msgid "billing_postcode"
+msgstr "billing_postcode"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:304
+msgid "billing_phone"
+msgstr "billing_phone"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:304
+msgid "order_comments"
+msgstr "order_comments"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:304
+msgid "Custom Field"
+msgstr "Προσαρμοσμένο Πεδίο"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:395
+msgid "Enter values and click enter to add more"
+msgstr ""
+"Εισάγετε τις τιμές και κάντε κλικ στο enter για να προσθέσετε περισσότερα"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/settings/form_fields.js:396
+msgid "Click Enter to add more"
+msgstr "Κάντε κλικ στο κουμπί Enter για να προσθέσετε περισσότερα"
+
+#: ../../../../../../../projects/elex-request-a-quote/assets/js/components/form/fields/form.js:407
+msgid "Send Request"
+msgstr "Αποστολή Αιτήματος"
+
+#. Name of the plugin
+msgid "ELEX WooCommerce Request a Quote - Basic"
+msgstr "ELEX WooCommerce Request - Basic"
+
+#. Description of the plugin
+msgid ""
+"Create Request a Quote option for your WooCommerce products. You can also "
+"create and customize request a quote forms to be displayed on the frontend. "
+"The plugin will also send automated email notifications for quote "
+"submissions, approvals, and rejections."
+msgstr ""
+"Δημιουργία Ζητήσετε μια Προσφορά επιλογή για WooCommerce προϊόντα. Μπορείτε "
+"επίσης να δημιουργήσετε και να προσαρμόσετε ζητήσετε μια προσφορά έντυπα που "
+"πρέπει να εμφανίζεται στο frontend. Το plugin θα στείλει επίσης "
+"αυτοματοποιημένες ειδοποιήσεις μέσω ηλεκτρονικού ταχυδρομείου για να "
+"αναφέρουμε τις παρατηρήσεις, τις εγκρίσεις και απορρίψεις."
+
+#. URI of the plugin
+msgid "https://elextensions.com/plugin/"
+msgstr ""
+
+#. Author of the plugin
+msgid "ELEXtensions"
+msgstr "ELEXtensions"
+
+#. Author URI of the plugin
+msgid "https://elextensions.com/"
+msgstr ""

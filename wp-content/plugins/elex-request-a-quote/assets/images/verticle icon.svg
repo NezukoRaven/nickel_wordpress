@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="54" viewBox="0 0 50 54">
+  <g id="verticle_icon" data-name="verticle icon" transform="translate(-490 -472)">
+    <g id="Rectangle_12" data-name="Rectangle 12" transform="translate(490 472)" fill="#fff" stroke="#bdbdbd" stroke-width="1">
+      <path d="M8,0H18a5,5,0,0,1,5,5V49a5,5,0,0,1-5,5H8a8,8,0,0,1-8-8V8A8,8,0,0,1,8,0Z" stroke="none"/>
+      <path d="M8,.5H18A4.5,4.5,0,0,1,22.5,5V49A4.5,4.5,0,0,1,18,53.5H8A7.5,7.5,0,0,1,.5,46V8A7.5,7.5,0,0,1,8,.5Z" fill="none"/>
+    </g>
+    <g id="Rectangle_1020" data-name="Rectangle 1020" transform="translate(517 472)" fill="#fff" stroke="#bdbdbd" stroke-width="1">
+      <path d="M5,0H15a8,8,0,0,1,8,8V46a8,8,0,0,1-8,8H5a5,5,0,0,1-5-5V5A5,5,0,0,1,5,0Z" stroke="none"/>
+      <path d="M5,.5H15A7.5,7.5,0,0,1,22.5,8V46A7.5,7.5,0,0,1,15,53.5H5A4.5,4.5,0,0,1,.5,49V5A4.5,4.5,0,0,1,5,.5Z" fill="none"/>
+    </g>
+  </g>
+</svg>

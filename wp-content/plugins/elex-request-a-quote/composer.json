@@ -1,0 +1,52 @@
+{
+    "name": "elula/request-a-quote",
+    "description": "Create Request a Quote option for your WooCommerce products. You can restrict request a quote option for specific products, categories, and tags. You can also create and customize request a quote forms to be displayed on the frontend. The plugin will also send automated notifications for quote submissions, approvals, and rejections.",
+    "type": "wordpress-plugin",
+    "autoload": {
+      "psr-4": {
+    		"Elex\\RequestAQuote\\": "src/"
+    	}
+    },
+    "require-dev": {
+        "woocommerce/woocommerce-sniffs": "^0.1.0",
+        "squizlabs/php_codesniffer": "*",
+        "wp-coding-standards/wpcs": "^2.3",
+        "phpcompatibility/php-compatibility": "^9.3",
+        "woocommerce/woocommerce-git-hooks": "^1.0",
+        "dealerdirect/phpcodesniffer-composer-installer": "v0.7.0",
+        "johnpbloch/wordpress-core": "^5.9",
+        "phpmd/phpmd": "^2.13"
+    },
+    "scripts": {
+        "pre-update-cmd": [
+          "WooCommerce\\GitHooks\\Hooks::preHooks"
+        ],
+        "pre-install-cmd": [
+          "WooCommerce\\GitHooks\\Hooks::preHooks"
+        ],
+        "post-install-cmd": [
+          "WooCommerce\\GitHooks\\Hooks::postHooks"
+        ],
+        "post-update-cmd": [
+          "WooCommerce\\GitHooks\\Hooks::postHooks"
+        ],
+        "phpcs": [
+          "phpcs --warning-severity=0 -s --ignore-annotations --extensions=php,html ."
+        ],
+        "phpcbf": [
+          "phpcbf --extensions=php -p ."
+        ]
+    },
+      "extra": {
+        "scripts-description": {
+          "test": "Run unit tests",
+          "phpcs": "Analyze code against the WordPress coding standards with PHP_CodeSniffer",
+          "phpcbf": "Fix coding standards warnings/errors automatically with PHP Code Beautifier"
+        }
+      },
+    "config": {
+        "allow-plugins": {
+            "dealerdirect/phpcodesniffer-composer-installer": true
+        }
+    }
+}

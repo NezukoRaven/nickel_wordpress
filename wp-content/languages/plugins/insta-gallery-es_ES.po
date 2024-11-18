@@ -1,0 +1,144 @@
+# Translation of Plugins - Social Feed Gallery - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Social Feed Gallery - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-09-30 17:46:56+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Social Feed Gallery - Stable (latest release)\n"
+
+#: vendor_packages/wp-plugin-table-links.php:23 build/backend/js/index.js:46
+msgid "Documentation"
+msgstr "Documentación"
+
+#: compatibility/widget.php:77
+msgid "Please add new gallery in plugin admin panel, then come back and select your gallery to here."
+msgstr "Por favor, añade una nueva galería en el panel de administración del plugin y, después, vuelve y selecciona tu galería aquí."
+
+#: jetpack_vendor/quadlayers/wp-plugin-suggestions/src/Table.php:175
+msgctxt "Plugin Installer"
+msgid "Favorites"
+msgstr "Favoritos"
+
+#: jetpack_vendor/quadlayers/wp-plugin-suggestions/src/Table.php:174
+msgctxt "Plugin Installer"
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: jetpack_vendor/quadlayers/wp-plugin-suggestions/src/Table.php:173
+msgctxt "Plugin Installer"
+msgid "Popular"
+msgstr "Popular"
+
+#: jetpack_vendor/quadlayers/wp-plugin-suggestions/src/Table.php:172
+msgctxt "Plugin Installer"
+msgid "Featured"
+msgstr "Destacado"
+
+#: jetpack_vendor/quadlayers/wp-plugin-suggestions/src/Table.php:170
+msgctxt "Plugin Installer"
+msgid "Beta Testing"
+msgstr "Pruebas beta"
+
+#: jetpack_vendor/quadlayers/wp-plugin-suggestions/src/Table.php:167
+msgid "Search Results"
+msgstr "Resultados de la búsqueda"
+
+#: jetpack_vendor/quadlayers/wp-plugin-suggestions/src/Page.php:78
+#: jetpack_vendor/quadlayers/wp-plugin-suggestions/src/Page.php:93
+#: jetpack_vendor/quadlayers/wp-plugin-suggestions/src/Page.php:94
+#: jetpack_vendor/quadlayers/wp-plugin-suggestions/src/view/suggestions.php:50
+#: build/backend/js/index.js:46
+msgid "Suggestions"
+msgstr "Sugerencias"
+
+#: compatibility/widget.php:64
+msgid "Select your Instagram gallery"
+msgstr "Selecciona tu galería de Instagram"
+
+#. Plugin Name of the plugin
+#: insta-gallery.php build/gutenberg/js/index.js:2
+msgid "Social Feed Gallery"
+msgstr "Social Feed Gallery"
+
+#: vendor_packages/wp-notice-plugin-promote.php:52
+msgid "Yes, of course!"
+msgstr "¡Sí, por supuesto!"
+
+#: vendor_packages/wp-notice-plugin-promote.php:65 build/backend/js/index.js:46
+msgid "Purchase Now"
+msgstr "Comprar ahora"
+
+#. Plugin URI of the plugin
+#: insta-gallery.php
+msgid "https://quadlayers.com/products/instagram-feed-gallery/"
+msgstr "https://quadlayers.com/products/instagram-feed-gallery/"
+
+#: compatibility/widget.php:60
+msgid "Title"
+msgstr "Título"
+
+#: vendor_packages/wp-notice-plugin-promote.php:57
+msgid "Report a bug"
+msgstr "Informar de un fallo"
+
+#: vendor_packages/wp-notice-plugin-promote.php:44
+msgid "Hello! Thank you for choosing the %s plugin!"
+msgstr "¡Hola! ¡Gracias por elegir el plugin %s!"
+
+#: lib/controllers/class-backend.php:54 lib/controllers/class-backend.php:55
+#: build/backend/js/index.js:46
+msgid "Welcome"
+msgstr "Bienvenido"
+
+#: lib/controllers/class-backend.php:86 lib/controllers/class-backend.php:89
+#: vendor_packages/wp-plugin-table-links.php:13 build/backend/js/index.js:46
+msgid "Premium"
+msgstr "Premiun"
+
+#. Author URI of the plugin
+#: insta-gallery.php
+msgid "https://quadlayers.com"
+msgstr "https://quadlayers.com"
+
+#. Author of the plugin
+#: insta-gallery.php
+#: jetpack_vendor/quadlayers/wp-plugin-suggestions/src/view/suggestions.php:82
+msgid "QuadLayers"
+msgstr "QuadLayers"
+
+#: lib/controllers/class-backend.php:70 lib/controllers/class-backend.php:71
+#: build/backend/js/index.js:46
+msgid "Feeds"
+msgstr "Feeds"
+
+#: vendor_packages/wp-plugin-table-links.php:18 build/backend/js/index.js:46
+msgid "Support"
+msgstr "Soporte"
+
+#: lib/controllers/class-backend.php:78 lib/controllers/class-backend.php:79
+#: vendor_packages/wp-plugin-table-links.php:8 build/backend/js/index.js:46
+msgid "Settings"
+msgstr "Ajustes"
+
+#: compatibility/widget.php:16
+msgid "Displays your Instagram gallery"
+msgstr "Muestra tu galería de Instagram"
+
+#: compatibility/widget.php:81
+msgid "Add New Gallery"
+msgstr "Añadir una nueva galería"
+
+#: lib/controllers/class-backend.php:62 lib/controllers/class-backend.php:63
+#: build/backend/js/index.js:46
+msgid "Accounts"
+msgstr "Cuentas"
+
+#. Description of the plugin
+#: insta-gallery.php build/gutenberg/js/index.js:2
+msgid "Display beautiful and responsive galleries on your website from your Instagram feed account."
+msgstr "Muestra galerías bonitas y adaptables en tu web desde tu cuenta de feed de Instagram."

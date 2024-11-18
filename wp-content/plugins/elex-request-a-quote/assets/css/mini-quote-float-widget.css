@@ -1,0 +1,39 @@
+#elex-rqst-float-minicart-icon.elex-rqst-mini-qote-list-wrap {
+    position: fixed;
+    bottom: 100px;
+    height: 60px;
+    width: 60px;
+    box-shadow: 0px 3px 17px #1010104F;
+    right: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #F0F8FF;
+    border-radius: 50%;
+    z-index: 999;
+}
+#elex-rqst-float-minicart-icon.elex-rqst-mini-qote-list-wrap .elex-rqst-float-minicart-icon-alignment{
+    justify-content: center !important;
+}
+#elex-rqst-float-minicart-icon.elex-rqst-mini-qote-list-wrap .elex-raq-view-quote-dropdown-btn{
+    z-index: 99;
+    /* background:#fff; */
+}
+
+#elex-rqst-float-minicart-icon.elex-rqst-mini-qote-list-wrap .elex-raq-view-quote-dropdown-btn small{
+    display:none;
+}
+#elex-rqst-float-minicart-icon.elex-rqst-mini-qote-list-wrap .container{
+    padding: 0 !important;
+}
+
+#elex-rqst-float-minicart-icon.elex-rqst-mini-qote-list-wrap .elex-raq-view-quote-dropdown-btn .elex-raq-view-quote-dropdown{
+    top: unset;
+    bottom: 0;
+
+}
+
+#elex-rqst-float-minicart-icon.elex-rqst-mini-qote-list-wrap .elex-raq-view-quote-dropdown-btn:hover .elex-raq-view-quote-dropdown{
+    top: unset;
+    bottom: 50px;
+}

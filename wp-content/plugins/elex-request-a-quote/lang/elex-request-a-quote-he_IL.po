@@ -1,0 +1,3070 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ELEX WooCommerce Request a Quote - Basic\n"
+"POT-Creation-Date: 2024-08-12 11:30+0530\n"
+"PO-Revision-Date: 2024-08-12 11:36+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: he_IL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : n==2 ? 1 : n>10 && n%10==0 ? "
+"2 : 3);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: class-elex-request-a-quote.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: vendor\n"
+
+#: assets/js/components/form/fields/form.js:135 view/settings/template.php:179
+msgid "Upload Image"
+msgstr "העלאת תמונה"
+
+#: assets/js/components/form/fields/form.js:407
+msgid "Send Request"
+msgstr "שלח בקשה"
+
+#: assets/js/components/form_settings.js:258
+#: assets/js/components/settings/form_setting_header.js:14
+msgid "Form Settings"
+msgstr "הגדרות טופס"
+
+#: assets/js/components/form_settings.js:270
+msgid "Show Request a Quote Form"
+msgstr "הצג טופס בקשת הצעת מחיר"
+
+#: assets/js/components/form_settings.js:285
+#: assets/js/components/form_settings.js:339
+
+msgid ""
+"Enable this option to create a WordPress user for guest users after they "
+"submit the form."
+msgstr ""
+"הפעל אפשרות זו כדי ליצור משתמש WordPress עבור משתמשים אורחים לאחר שליחת "
+"הטופס."
+
+#: assets/js/components/form_settings.js:296
+
+msgid "Auto Complete Form"
+msgstr "טופס מילוי אוטומטי"
+
+#: assets/js/components/form_settings.js:297
+#: assets/js/components/form_settings.js:325
+#: assets/js/components/form_settings.js:354 view/header.php:53
+#: view/listpage_form_setting/additional_options.php:179
+#: view/listpage_form_setting/additional_options.php:232
+#: view/listpage_form_setting/additional_options.php:268
+#: view/listpage_form_setting/quote_list.php:128
+#: view/listpage_form_setting/quote_list.php:178
+#: view/listpage_form_setting/quote_list.php:228 view/settings/general.php:19
+#: view/settings/general.php:68 view/settings/general.php:185
+#: view/settings/general.php:233 view/settings/general.php:355
+#: view/settings/general.php:708 view/settings/general.php:888
+#: view/settings/general.php:1026 view/settings/general.php:1067
+#: view/settings/hide_addtocart_price.php:120
+#: view/settings/hide_addtocart_price.php:157
+#: view/settings/hide_addtocart_price.php:331 view/settings/template.php:51
+#: view/settings/template.php:169 view/settings/template.php:717
+#: view/settings/template.php:831
+
+msgid "[Premium]"
+msgstr "[פרימיום]"
+
+#: assets/js/components/form_settings.js:310
+
+msgid ""
+"Turn this On to autocomplete request quote form with user account details."
+msgstr ""
+"הפעל אפשרות זו כדי למלא באופן אוטומטי טופס בקשת הצעת מחיר עם פרטי חשבון "
+"משתמש."
+
+#: assets/js/components/form_settings.js:322
+msgid "Create WordPress User"
+msgstr "צור משתמש WordPress"
+
+#: assets/js/components/form_settings.js:351
+msgid "Enable reCAPTCHA"
+msgstr "הפעל reCAPTCHA"
+
+#: assets/js/components/form_settings.js:368
+
+msgid ""
+"Enable to activate reCAPTCHA v3 verification for submissions on the 'Request "
+"a Quote' form. "
+msgstr "אפשר להפעיל אימות reCAPTCHA v3 עבור הגשות בטופס 'בקש הצעת מחיר'. "
+
+#: assets/js/components/form_settings.js:376
+
+msgid "To use reCAPTCHA, sign up for an "
+msgstr "כדי להשתמש ב- reCAPTCHA, הירשם לקבלת "
+
+#: assets/js/components/form_settings.js:380
+
+msgid "API Key Pair "
+msgstr "זוג מפתחות API "
+
+#: assets/js/components/form_settings.js:383
+
+msgid "for your site."
+msgstr "עבור האתר שלך."
+
+#: assets/js/components/form_settings.js:395
+msgid "Site Key"
+msgstr "מפתח אתר"
+
+#: assets/js/components/form_settings.js:397
+
+msgid "Enter a Valid Site Key"
+msgstr "הזנת מפתח אתר חוקי"
+
+#: assets/js/components/form_settings.js:409
+
+msgid "Enter your Site Key"
+msgstr "הזן את מפתח האתר שלך"
+
+#: assets/js/components/form_settings.js:417
+msgid "Secret Key"
+msgstr "מפתח סודי"
+
+#: assets/js/components/form_settings.js:419
+
+msgid ""
+"Enter a valid secret key. Quotes will not be accepted if entered incorrectly."
+msgstr "הזן מפתח סודי חוקי. הצעות מחיר לא יתקבלו אם הוזנו באופן שגוי."
+
+#: assets/js/components/form_settings.js:430
+
+msgid "Enter your Secret key"
+msgstr "הזן את המפתח הסודי שלך"
+
+#: assets/js/components/form_settings.js:441
+#: assets/js/components/settings/form_setting_header.js:44
+msgid "Form Header Title"
+msgstr "כותרת כותרת טופס"
+
+#: assets/js/components/form_settings.js:449
+
+msgid ""
+"Enter the text you want to display as the header/title of the quote form."
+msgstr "הזן את הטקסט שברצונך להציג ככותרת/כותרת של טופס הצעת המחיר."
+
+#: assets/js/components/form_settings.js:496
+
+msgid "Fill Your Details"
+msgstr "מלאו את פרטיכם"
+
+#: assets/js/components/form_settings.js:507
+#: assets/js/components/settings/form_setting_header.js:67
+
+msgid "Form Submit Actions"
+msgstr "פעולות שליחת טופס"
+
+#: assets/js/components/form_settings.js:518
+#: assets/js/components/settings/form_setting_header.js:72
+
+msgid "\"Send Request\" Button Redirectional URl"
+msgstr "לחצן \"שלח בקשה\" כתובת URL מכוונת מחדש"
+
+#: assets/js/components/form_settings.js:528
+
+msgid ""
+"Please provide the page URL that you wish to redirect to, After clicking the "
+"\"Send Request\" button"
+msgstr ""
+"אנא ספק את כתובת האתר של הדף שאליה ברצונך להפנות מחדש, לאחר לחיצה על כפתור "
+"\"שלח בקשה\""
+
+#: assets/js/components/form_settings.js:584
+#: assets/js/components/settings/form_setting_header.js:98
+
+msgid "\"Send Request\" Success Message"
+msgstr "הודעת הצלחה \"שלח בקשה\""
+
+#: assets/js/components/form_settings.js:594
+
+msgid ""
+"Enter the text that you want to display as a message after the successful "
+"submission of the quote request."
+msgstr ""
+"הזן את הטקסט שברצונך להציג כהודעה לאחר שליחה מוצלחת של בקשת הצעת המחיר."
+
+#: assets/js/components/form_settings.js:641
+
+msgid "Your request has been sent successfully."
+msgstr "בקשתך נשלחה בהצלחה."
+
+#: assets/js/components/form_settings.js:650
+
+msgid "Form Field Settings"
+msgstr "הגדרות שדה טופס"
+
+#: assets/js/components/form_settings.js:656
+
+msgid ""
+"When you create custom fields, the placeholder for the email template will "
+"be created based on the label text (For eg: Upload Image will be "
+"@Upload_Image). If you make changes to the label text in the future, please "
+"make sure to use the updated placeholder in the email body. Also, the label "
+"text cannot be modified for orders placed before the change."
+msgstr ""
+"בעת יצירת שדות מותאמים אישית, מציין המיקום עבור תבנית הדוא\"ל ייווצר בהתבסס "
+"על טקסט התווית (לדוגמה: העלאת תמונה תהיה @Upload_Image). אם תבצע שינויים "
+"בטקסט התווית בעתיד, הקפד להשתמש במציין המיקום המעודכן בגוף הדוא\"ל. כמו כן, "
+"לא ניתן לשנות את טקסט התווית עבור הזמנות שבוצעו לפני השינוי."
+
+#: assets/js/components/form_settings.js:664
+msgid "Label Name"
+msgstr "שם משפחה"
+
+#: assets/js/components/form_settings.js:665
+
+msgid "Field Type "
+msgstr "סוג שדה "
+
+#: assets/js/components/form_settings.js:666
+
+msgid "Placeholder "
+msgstr "ממלא מקום"
+
+#: assets/js/components/form_settings.js:667
+
+msgid "Connected To "
+msgstr "מחובר ל "
+
+#: assets/js/components/form_settings.js:668
+msgid "Required "
+msgstr "נדרש"
+
+#: assets/js/components/form_settings.js:669
+
+msgid "Actions "
+msgstr "פעולות "
+
+#: assets/js/components/form_settings.js:694
+
+msgid "Add New Field "
+msgstr "הוספת שדה חדש "
+
+#: assets/js/components/form_settings.js:698
+#: view/listpage_form_setting/additional_options.php:299
+#: view/listpage_form_setting/quote_list.php:288
+#: view/notification_settings/general.php:121
+#: view/notification_settings/google_chat.php:84
+#: view/notification_settings/sms.php:179 view/settings/general.php:1208
+#: view/settings/hide_addtocart_price.php:368 view/settings/template.php:982
+#: view/settings/widget.php:195
+msgid "Save Changes"
+msgstr "שמור שינויים"
+
+#: assets/js/components/mini_quote_list/render_mini_quote_list.js:31
+msgid "items in Quote List"
+msgstr "פריטים ברשימת הצעות מחיר"
+
+#: assets/js/components/mini_quote_list/render_mini_quote_list.js:58
+#: view/quote/view_quote_list.php:9
+msgid "View Quote List"
+msgstr "הצג רשימת הצעות מחיר"
+
+#: assets/js/components/quote_list/quote_list_content.js:52
+#: src/TemplateSetting/DefaultTemplates/non_logo_template.php:62
+#: src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:70
+#: src/Templates/order_items.php:13
+msgid "Price"
+msgstr "מחיר"
+
+#: assets/js/components/quote_list/quote_list_content.js:64
+#: view/listpage_form_setting/quote_list.php:200
+msgid "Quantity"
+msgstr "כמות"
+
+#: assets/js/components/quote_list/quote_list_content.js:78
+#: assets/js/components/quote_list/quote_list_content.js:110
+#: src/TemplateSetting/DefaultTemplates/non_logo_template.php:64
+#: src/TemplateSetting/DefaultTemplates/non_logo_template.php:117
+#: src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:72
+#: src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:125
+#: src/TemplateSetting/DefaultTemplates/squared_logo_template.php:122
+#: src/Templates/order_items.php:23 src/Templates/order_items.php:125
+msgid "Subtotal"
+msgstr "סה\"כ"
+
+#: assets/js/components/quote_list/quote_list_content.js:90
+#: src/Templates/order_items.php:151
+msgid "Tax"
+msgstr "מס"
+
+#: assets/js/components/quote_list/quote_list_content.js:129
+#: src/TemplateSetting/DefaultTemplates/non_logo_template.php:125
+#: src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:133
+#: src/TemplateSetting/DefaultTemplates/squared_logo_template.php:130
+#: src/Templates/order_items.php:160
+msgid "Total"
+msgstr "סה\"כ"
+
+#: assets/js/components/quote_list/quote_list_content.js:239
+msgid "Update List"
+msgstr "עדכן רשימה"
+
+#: assets/js/components/quote_list/quote_list_content.js:443
+msgid "Product Detail"
+msgstr "פרטי מוצר"
+
+#: assets/js/components/quote_list/quote_list_empty.js:29
+msgid "Go to Shop Page"
+msgstr "עבור אל דף החנות"
+
+#: assets/js/components/quote_list/show_clear_list.js:14
+msgid "Clear List"
+msgstr "נקה רשימה"
+
+#: assets/js/components/quote_list/success_alert_toast.js:14
+#: src/FormSetting/FormSettingController.php:303
+msgid "Saved Successfully."
+msgstr "נשמר בהצלחה."
+
+#: assets/js/components/settings/form_fields.js:273
+
+msgid "Select a type"
+msgstr "בחירת סוג"
+
+#: assets/js/components/settings/form_fields.js:273
+#: view/button/add_to_quote.php:169
+msgid "Text"
+msgstr "טקסט"
+
+#: assets/js/components/settings/form_fields.js:273
+msgid "Textarea"
+msgstr "איזור כיתוב"
+
+#: assets/js/components/settings/form_fields.js:273
+#: src/FormSetting/Models/FormSettings.php:76
+msgid "Email"
+msgstr "אימייל"
+
+#: assets/js/components/settings/form_fields.js:273
+msgid "Url"
+msgstr "כתובת קישור"
+
+#: assets/js/components/settings/form_fields.js:273
+msgid "Image"
+msgstr "תמונה"
+
+#: assets/js/components/settings/form_fields.js:273
+msgid "Checkbox"
+msgstr "תיבת סימון"
+
+#: assets/js/components/settings/form_fields.js:273
+msgid "Date"
+msgstr "תאריך"
+
+#: assets/js/components/settings/form_fields.js:273
+msgid "Number"
+msgstr "מספר"
+
+#: assets/js/components/settings/form_fields.js:273
+msgid "Radio"
+msgstr "רדיו"
+
+#: assets/js/components/settings/form_fields.js:273
+msgid "Tel"
+msgstr "טל"
+
+#: assets/js/components/settings/form_fields.js:304
+
+msgid "Select Connected To"
+msgstr "בחר מחובר אל"
+
+#: assets/js/components/settings/form_fields.js:304
+
+msgid "billing_first_name"
+msgstr "שם פרטי חיוב"
+
+#: assets/js/components/settings/form_fields.js:304
+
+msgid "billing_last_name"
+msgstr "שם משפחה לחיוב"
+
+#: assets/js/components/settings/form_fields.js:304
+
+msgid "billing_email"
+msgstr "דוא\"ל לחיוב"
+
+#: assets/js/components/settings/form_fields.js:304
+
+msgid "billing_company"
+msgstr "שם חברה לחיוב"
+
+#: assets/js/components/settings/form_fields.js:304
+
+msgid "billing_country"
+msgstr "ארץ"
+
+#: assets/js/components/settings/form_fields.js:304
+
+msgid "billing_address_1"
+msgstr "billing_address_1"
+
+#: assets/js/components/settings/form_fields.js:304
+
+msgid "billing_address_2"
+msgstr "billing_address_2"
+
+#: assets/js/components/settings/form_fields.js:304
+
+msgid "billing_city"
+msgstr "עיר"
+
+#: assets/js/components/settings/form_fields.js:304
+
+msgid "billing_state"
+msgstr "מדינה"
+
+#: assets/js/components/settings/form_fields.js:304
+
+msgid "billing_postcode"
+msgstr "מיקוד לחיוב"
+
+#: assets/js/components/settings/form_fields.js:304
+
+msgid "billing_phone"
+msgstr "מס' טלפון"
+
+#: assets/js/components/settings/form_fields.js:304
+
+msgid "order_comments"
+msgstr "order_comments"
+
+#: assets/js/components/settings/form_fields.js:304
+msgid "Custom Field"
+msgstr "שדה מותאם אישית"
+
+#: assets/js/components/settings/form_fields.js:395
+
+msgid "Enter values and click enter to add more"
+msgstr "הזן ערכים ולחץ על Enter כדי להוסיף עוד"
+
+#: assets/js/components/settings/form_fields.js:396
+
+msgid "Click Enter to add more"
+msgstr "לחץ על Enter כדי להוסיף עוד"
+
+#: assets/js/components/settings/form_setting_header.js:23
+
+msgid "Show Request a Quote"
+msgstr "הצג טופס בקשת הצעת מחיר"
+
+#: assets/js/components/settings/form_setting_header.js:35
+
+msgid ""
+"Turn this Off, if you want to use any third party form to get the quote "
+"requests."
+msgstr ""
+"בטל אפשרות זו, אם ברצונך להשתמש בטופס כלשהו של צד שלישי כדי לקבל את בקשות "
+"הצעת המחיר."
+
+#: assets/js/components/toast_message/update_message.js:17
+msgid "Updated Successfully"
+msgstr "עודכן בהצלחה"
+
+#: class-elex-request-a-quote.php:50
+
+msgid ""
+"WooCommerce plugin must be active for ELEX Request a Quote Plugin to work."
+msgstr "תוסף WooCommerce חייב להיות פעיל כדי שתוסף ELEX Request a Quote יעבוד."
+
+#: class-elex-request-a-quote.php:63 src/RequestAQuote.php:430
+#: src/RequestAQuote.php:431 view/header.php:4
+msgid "Settings"
+msgstr "הגדרות"
+
+#: class-elex-request-a-quote.php:64 view/market.php:136
+msgid "Documentation"
+msgstr "תיעוד"
+
+#: class-elex-request-a-quote.php:65
+msgid "Support"
+msgstr "תמיכה"
+
+#: class-elex-request-a-quote.php:74
+
+msgid ""
+"The Premium version of ELEX Request a Quote is already installed and "
+"activated. Please deactivate it in order to activate the basic version. If "
+"you encounter any issues, kindly contact our "
+msgstr ""
+"גרסת הפרימיום של ELEX Request a Quote כבר מותקנת ומופעלת. אנא בטל את הפעלתו "
+"על מנת להפעיל את הגרסה הבסיסית. אם אתה נתקל בבעיות כלשהן, אנא צור קשר עם "
+
+#: class-elex-request-a-quote.php:75
+
+msgid ""
+"The WooCommerce version of ELEX Request a Quote is already installed and "
+"activated. Please deactivate it in order to activate the basic version. If "
+"you encounter any issues, kindly contact our "
+msgstr ""
+"גרסת WooCommerce של ELEX Request a Quote כבר מותקנת ומופעלת. אנא בטל את "
+"הפעלתו על מנת להפעיל את הגרסה הבסיסית. אם אתה נתקל בבעיות כלשהן, אנא צור קשר "
+"עם "
+
+#: class-elex-request-a-quote.php:77
+
+msgid "for assistance."
+msgstr "לקבלת סיוע."
+
+#: class-elex-request-a-quote.php:86 class-elex-request-a-quote.php:90
+
+msgid "Support "
+msgstr "תמיכה"
+
+#: src/ElementorWidget/Eraq_add_to_quote_widget.php:11
+#: src/Settings/Models/GeneralSettings.php:93
+#: src/Settings/SettingsController.php:398
+msgid "Add to Quote"
+msgstr "הוסף להצעת המחיר"
+
+#: src/FormSetting/FormSettingController.php:89
+#: src/FormSetting/FormSettingController.php:120
+#: src/FormSetting/FormSettingController.php:355
+#: src/FormSetting/FormSettingController.php:452
+
+msgid "Name and type Can not be empty"
+msgstr "שם וסוג אינם יכולים להיות ריקים"
+
+#: src/FormSetting/FormSettingController.php:104
+
+msgid "Field has been rearranged successfully"
+msgstr "השדה סודר מחדש בהצלחה"
+
+#: src/FormSetting/FormSettingController.php:144
+#: src/FormSetting/FormSettingController.php:340
+#: src/FormSetting/FormSettingController.php:474
+
+msgid "Enter options for the selcted types"
+msgstr "הזן אפשרויות לסוגים המסומנים"
+
+#: src/FormSetting/FormSettingController.php:158
+#: src/FormSetting/FormSettingController.php:387
+#: src/FormSetting/FormSettingController.php:420
+#: src/FormSetting/FormSettingController.php:491
+
+msgid "Atleast one option is required"
+msgstr "נדרשת לפחות אפשרות אחת"
+
+#: src/FormSetting/FormSettingController.php:171
+#: src/FormSetting/FormSettingController.php:400
+msgid "Already exist"
+msgstr "דואר אלקטרוני כבר קיים."
+
+#: src/FormSetting/FormSettingController.php:184
+
+msgid "Field has been added successfully"
+msgstr "שדה נוסף בהצלחה"
+
+#: src/FormSetting/FormSettingController.php:272
+#: src/FormSetting/FormSettingController.php:637
+#: src/FormSetting/Models/FormSettings.php:40
+
+msgid "Quote Request Form"
+msgstr "טופס בקשה להצעת מחיר"
+
+#: src/FormSetting/FormSettingController.php:275
+#: src/FormSetting/FormSettingController.php:640
+#: src/FormSetting/Models/FormSettings.php:42
+
+msgid "Your request has been submitted."
+msgstr "בקשתך הוגשה."
+
+#: src/FormSetting/FormSettingController.php:433
+#: src/FormSetting/FormSettingController.php:504
+#: src/FormSetting/FormSettingController.php:543
+
+msgid "No Field Exist"
+msgstr "לא קיים שדה"
+
+#: src/FormSetting/FormSettingController.php:515
+
+msgid "Field has been edited successfully"
+msgstr "השדה נערך בהצלחה"
+
+#: src/FormSetting/FormSettingController.php:559
+
+msgid "Field has been "
+msgstr "השדה היה "
+
+#: src/FormSetting/FormSettingController.php:583
+msgid "Invalid field"
+msgstr "שדה שגוי"
+
+#: src/FormSetting/FormSettingController.php:594
+
+msgid "Field has been deleted"
+msgstr "השדה נמחק"
+
+#: src/FormSetting/FormSettingController.php:671
+#: src/FormSetting/FormSettingController.php:679
+msgid "The "
+msgstr "ה"
+
+#: src/FormSetting/Models/FormSettings.php:46
+msgid "First Name"
+msgstr "שם פרטי"
+
+#: src/FormSetting/Models/FormSettings.php:49
+
+msgid "Add your first name."
+msgstr "הוסף את שמך הפרטי."
+
+#: src/FormSetting/Models/FormSettings.php:61
+msgid "Last Name"
+msgstr "שם משפחה"
+
+#: src/FormSetting/Models/FormSettings.php:64
+
+msgid "Add your last name."
+msgstr "הוסף את שם המשפחה שלך."
+
+#: src/FormSetting/Models/FormSettings.php:79
+
+msgid "Add your email."
+msgstr "הוסף את הדואר האלקטרוני שלך."
+
+#: src/FormSetting/Models/FormSettings.php:92
+#: src/Quotelist/Models/QuoteListModel.php:1063
+msgid "Phone"
+msgstr "טלפון"
+
+#: src/FormSetting/Models/FormSettings.php:95
+
+msgid "Enter your Phone number"
+msgstr "הזן את מספר הטלפון שלך"
+
+#: src/HelpAndSupport/HelpAndSupportController.php:44
+
+msgid "FAQs"
+msgstr "שאלות נפוצות"
+
+#: src/HelpAndSupport/HelpAndSupportController.php:49
+
+msgid "Raise a Ticket"
+msgstr "גייסו כרטיס"
+
+#: src/Notification/NotificationController.php:383
+
+msgid "General notification"
+msgstr "הודעה כללית"
+
+#: src/Notification/NotificationController.php:388
+#: view/notification_settings/sms.php:13
+msgid "SMS Notification"
+msgstr "הודעות SMS"
+
+#: src/Notification/NotificationController.php:393
+#: view/notification_settings/google_chat.php:14
+
+msgid "Google Chat Notification"
+msgstr "התראה על צ'אט Google"
+
+#: src/Quotelist/ListPageController.php:125
+
+msgid "Quote List Page"
+msgstr "דף רשימת הצעות מחיר"
+
+#: src/Quotelist/ListPageController.php:130
+
+msgid "Additional Options"
+msgstr "אפשרויות נוספות"
+
+#: src/Quotelist/ListPageController.php:135
+msgid "Quote Form"
+msgstr "טופס הצעת מחיר"
+
+#: src/Quotelist/ListPageController.php:167
+#: src/Quotelist/Models/ListPageSettings.php:28
+#: src/Widget/Models/WidgetModel.php:29 src/Widget/WidgetController.php:37
+#: src/Widget/WidgetController.php:62
+#: view/listpage_form_setting/quote_list.php:66 view/settings/widget.php:148
+
+msgid "Quote List"
+msgstr "הצג רשימת הצעות מחיר"
+
+#: src/Quotelist/ListPageController.php:172
+#: src/Quotelist/Models/ListPageSettings.php:37
+
+msgid "Your Quote List is Empty"
+msgstr "רשימת הצעות המחיר שלך ריקה"
+
+#: src/Quotelist/ListPageController.php:208
+#: src/Quotelist/Models/ListPageSettings.php:57
+
+msgid "Add More Items"
+msgstr "הוספת פריטים נוספים"
+
+#: src/Quotelist/Models/QuoteListModel.php:1020
+#: src/Quotelist/Models/QuoteListModel.php:1069
+msgid "First name"
+msgstr "שם פרטי"
+
+#: src/Quotelist/Models/QuoteListModel.php:1024
+#: src/Quotelist/Models/QuoteListModel.php:1073
+msgid "Last name"
+msgstr "שם משפחה"
+
+#: src/Quotelist/Models/QuoteListModel.php:1028
+#: src/Quotelist/Models/QuoteListModel.php:1077
+msgid "Company"
+msgstr "חברה"
+
+#: src/Quotelist/Models/QuoteListModel.php:1032
+#: src/Quotelist/Models/QuoteListModel.php:1081
+msgid "Address line 1"
+msgstr "כתובת רחוב"
+
+#: src/Quotelist/Models/QuoteListModel.php:1036
+#: src/Quotelist/Models/QuoteListModel.php:1085
+msgid "Address line 2"
+msgstr "כתובת 2"
+
+#: src/Quotelist/Models/QuoteListModel.php:1040
+#: src/Quotelist/Models/QuoteListModel.php:1089
+msgid "City"
+msgstr "עיר"
+
+#: src/Quotelist/Models/QuoteListModel.php:1044
+#: src/Quotelist/Models/QuoteListModel.php:1093
+msgid "Postcode / ZIP"
+msgstr "מיקוד"
+
+#: src/Quotelist/Models/QuoteListModel.php:1048
+#: src/Quotelist/Models/QuoteListModel.php:1097
+msgid "Country / Region"
+msgstr "מדינה / אזור"
+
+#: src/Quotelist/Models/QuoteListModel.php:1052
+#: src/Quotelist/Models/QuoteListModel.php:1101
+msgid "Select a country / region&hellip;"
+msgstr "בחרי מדינה / אזור;"
+
+#: src/Quotelist/Models/QuoteListModel.php:1055
+#: src/Quotelist/Models/QuoteListModel.php:1104
+msgid "State / County"
+msgstr "מדינה / ארץ"
+
+#: src/Quotelist/Models/QuoteListModel.php:1060
+msgid "Email address"
+msgstr "כתובת אימייל"
+
+#: src/Quotelist/Models/QuoteListModel.php:1119
+msgid "Billing"
+msgstr "חיוב"
+
+#: src/Quotelist/Models/QuoteListModel.php:1164
+msgid "Shipping"
+msgstr "משלוח"
+
+#: src/Quotelist/Models/QuoteListModel.php:1208
+msgid "General"
+msgstr "כללי"
+
+#: src/Quotelist/Models/QuoteListModel.php:1364
+
+msgid "First name should be a string."
+msgstr "שם פרטי צריך להיות מחרוזת."
+
+#: src/Quotelist/Models/QuoteListModel.php:1370
+
+msgid "Last name should be a string."
+msgstr "שם משפחה צריך להיות מחרוזת."
+
+#: src/Quotelist/Models/QuoteListModel.php:1375
+
+msgid "Company name should be a string."
+msgstr "שם החברה צריך להיות מחרוזת."
+
+#: src/Quotelist/Models/QuoteListModel.php:1380
+
+msgid "Email should be in valid format."
+msgstr "הדוא\"ל צריך להיות בפורמט חוקי."
+
+#: src/Quotelist/Models/QuoteListModel.php:1385
+
+msgid "Email should be a int of length 10."
+msgstr "דוא\"ל צריך להיות int של אורך 10."
+
+#: src/Quotelist/Models/QuoteListModel.php:1390
+
+msgid "Address 1  should be a string."
+msgstr "כתובת 1 צריכה להיות מחרוזת."
+
+#: src/Quotelist/Models/QuoteListModel.php:1395
+
+msgid "Address 2  should be a string."
+msgstr "כתובת 2 צריכה להיות מחרוזת."
+
+#: src/Quotelist/Models/QuoteListModel.php:1400
+
+msgid "City name  should be a string."
+msgstr "שם העיר צריך להיות מחרוזת."
+
+#: src/Quotelist/Models/QuoteListModel.php:1405
+
+msgid "state name  should be a string."
+msgstr "שם המדינה צריך להיות מחרוזת."
+
+#: src/Quotelist/Models/QuoteListModel.php:1410
+
+msgid "Postcode  should be a string."
+msgstr "מיקוד צריך להיות מחרוזת."
+
+#: src/Quotelist/Models/QuoteListModel.php:1416
+
+msgid "Country name should be a string."
+msgstr "שם המדינה צריך להיות מחרוזת."
+
+#: src/Quotelist/Models/QuoteListModel.php:1421
+
+msgid "Address array is empty"
+msgstr "מערך הכתובות ריק"
+
+#: src/Quotelist/Models/QuoteListModel.php:1429
+
+msgid "Custom Fields array is empty"
+msgstr "מערך שדות מותאמים אישית ריק"
+
+#: src/Quotelist/Models/QuoteListModel.php:1443
+msgid "User not found"
+msgstr "משתמש לא נמצא"
+
+#: src/Quotelist/Models/QuoteListModel.php:1458
+
+msgid "Unauthorize Access"
+msgstr "ביטול הרשאה של גישה"
+
+#: src/Quotelist/QuoteListController.php:176
+
+msgid "Your request has been sent successfully"
+msgstr "בקשתך נשלחה בהצלחה"
+
+#: src/Quotelist/QuoteListController.php:200
+
+msgid "ELEX Quote Request Details"
+msgstr "פרטי בקשה להצעת מחיר של ELEX"
+
+#: src/RequestAQuote.php:190
+msgid "Quotes List"
+msgstr "רשימת שערים"
+
+#: src/RequestAQuote.php:201 view/settings/template.php:408
+
+msgid "Quote Received"
+msgstr "הצעת המחיר שהתקבלה"
+
+#: src/RequestAQuote.php:419 src/RequestAQuote.php:420
+msgid "Request a Quote"
+msgstr "קבל הצעת מחיר"
+
+#: src/RequestAQuote.php:439 src/RequestAQuote.php:440 view/header.php:4
+
+msgid "Customize Quote List & Form"
+msgstr "התאמה אישית של רשימת הצעות מחיר וטופס"
+
+#: src/RequestAQuote.php:447 src/RequestAQuote.php:448
+#: view/help_support_header.php:1
+msgid "Help & Support"
+msgstr "עזרה ותמיכה"
+
+#: src/Settings/Models/GeneralSettings.php:92
+#: src/Settings/SettingsController.php:397 view/settings/general.php:340
+
+msgid "Product successfully added to the Quote List"
+msgstr "המוצר נוסף בהצלחה לרשימת הצעות המחיר"
+
+#: src/Settings/SettingsController.php:415
+
+msgid "show_for_all_products"
+msgstr "show_for_all_products"
+
+#: src/Settings/SettingsController.php:535
+msgid "General Settings"
+msgstr "הגדרות כלליות"
+
+#: src/Settings/SettingsController.php:540
+
+msgid "Hide Add to Cart & Price"
+msgstr "הסתר, הוסף לסל & מחיר"
+
+#: src/Settings/SettingsController.php:545
+msgid "Notification Settings"
+msgstr "הגדרות עדכונים"
+
+#: src/Settings/SettingsController.php:549
+msgid "Template Settings"
+msgstr "הגדרות תבנית"
+
+#: src/Settings/SettingsController.php:554
+
+msgid "Quote List Menu"
+msgstr "תפריט רשימת הצעות מחיר"
+
+#: src/Settings/SettingsController.php:558
+
+msgid "Button Customization"
+msgstr "התאמה אישית של לחצנים"
+
+#: src/Settings/SettingsController.php:562
+
+msgid "Go Premium!"
+msgstr "עברו למינוי פרימיום!"
+
+#: src/TemplateSetting/DefaultTemplates/non_logo_template.php:7
+
+msgid "Received a Quote!"
+msgstr "קיבל הצעת מחיר!"
+
+#: src/TemplateSetting/DefaultTemplates/non_logo_template.php:21
+#: src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:26
+#: src/TemplateSetting/DefaultTemplates/squared_logo_template.php:23
+
+msgid "Quote #213"
+msgstr "ציטוט #213"
+
+#: src/TemplateSetting/DefaultTemplates/non_logo_template.php:26
+#: src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:30
+#: src/TemplateSetting/DefaultTemplates/squared_logo_template.php:32
+
+msgid "Issued By: Max Smith"
+msgstr "הונפק על ידי: מקס סמית"
+
+#: src/TemplateSetting/DefaultTemplates/non_logo_template.php:29
+#: src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:33
+#: src/TemplateSetting/DefaultTemplates/squared_logo_template.php:35
+
+msgid "Issued Date: 02-March-2022"
+msgstr "תאריך הנפקה: 02-מרץ-2022"
+
+#: src/TemplateSetting/DefaultTemplates/non_logo_template.php:32
+#: src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:36
+#: src/TemplateSetting/DefaultTemplates/squared_logo_template.php:38
+
+msgid "Expiry Date: 04-March-2022"
+msgstr "תאריך תפוגה: 04-מרץ-2022"
+
+#: src/TemplateSetting/DefaultTemplates/non_logo_template.php:41
+#: src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:49
+#: src/TemplateSetting/DefaultTemplates/squared_logo_template.php:46
+
+msgid "Will Miller"
+msgstr "ויל מילר"
+
+#: src/TemplateSetting/DefaultTemplates/non_logo_template.php:44
+#: src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:52
+#: src/TemplateSetting/DefaultTemplates/squared_logo_template.php:49
+
+msgid "Kelly.elliot@gmail.com"
+msgstr "Kelly.elliot@gmail.com"
+
+#: src/TemplateSetting/DefaultTemplates/non_logo_template.php:47
+#: src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:55
+#: src/TemplateSetting/DefaultTemplates/squared_logo_template.php:52
+
+msgid "(190)081-0336"
+msgstr "(190)081-0336"
+
+#: src/TemplateSetting/DefaultTemplates/non_logo_template.php:61
+#: src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:69
+#: src/Templates/order_items.php:9
+msgid "Products"
+msgstr "מוצרים"
+
+#: src/TemplateSetting/DefaultTemplates/non_logo_template.php:63
+#: src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:71
+#: src/Templates/order_items.php:18
+
+msgid "Qty."
+msgstr "כמות."
+
+#: src/TemplateSetting/DefaultTemplates/non_logo_template.php:77
+#: src/TemplateSetting/DefaultTemplates/non_logo_template.php:97
+#: src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:85
+#: src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:105
+#: src/TemplateSetting/DefaultTemplates/squared_logo_template.php:82
+#: src/TemplateSetting/DefaultTemplates/squared_logo_template.php:102
+msgid "Product Name"
+msgstr "שם המוצר"
+
+#: src/TemplateSetting/DefaultTemplates/non_logo_template.php:78
+#: src/TemplateSetting/DefaultTemplates/non_logo_template.php:98
+#: src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:86
+#: src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:106
+#: src/TemplateSetting/DefaultTemplates/squared_logo_template.php:83
+#: src/TemplateSetting/DefaultTemplates/squared_logo_template.php:103
+
+msgid "SKU:s123432"
+msgstr "מק\"ט: s123432"
+
+#: src/TemplateSetting/DefaultTemplates/non_logo_template.php:121
+#: src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:129
+#: src/TemplateSetting/DefaultTemplates/squared_logo_template.php:126
+#: src/Templates/order_items.php:133
+msgid "Fees"
+msgstr "עמלות"
+
+#: src/TemplateSetting/DefaultTemplates/non_logo_template.php:137
+#: src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:145
+#: src/TemplateSetting/DefaultTemplates/squared_logo_template.php:142
+#: src/TemplateSetting/Models/TemplateModel.php:353
+
+msgid "Accept & Pay"
+msgstr "קבל ושלם"
+
+#: src/TemplateSetting/DefaultTemplates/non_logo_template.php:143
+#: src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:152
+#: src/TemplateSetting/DefaultTemplates/squared_logo_template.php:148
+#: src/Templates/order_items.php:175
+msgid "Terms & Conditions"
+msgstr "תנאי השימוש והתקנון"
+
+#: src/TemplateSetting/DefaultTemplates/non_logo_template.php:146
+
+msgid ""
+"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy "
+"eirmod tempor invidunt\n"
+"                        ut labore et dolore magna aliquyam erat, sed diam "
+"voluptua. At vero eos."
+msgstr ""
+"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy "
+"eirmod tempor invidunt\n"
+"                        Ut labore et dolore magna aliquyam erat, sed diam "
+"voluptua. ב vero eos."
+
+#: src/TemplateSetting/DefaultTemplates/non_logo_template.php:155
+#: src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:165
+#: src/TemplateSetting/DefaultTemplates/squared_logo_template.php:160
+
+msgid "Powered by ELEX Request a Quote"
+msgstr "מופעל על ידי ELEX בקש הצעת מחיר"
+
+#: src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:45
+#: src/TemplateSetting/DefaultTemplates/squared_logo_template.php:42
+msgid "Customer Details"
+msgstr "פרטי הלקוח"
+
+#: src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:156
+#: src/TemplateSetting/DefaultTemplates/squared_logo_template.php:151
+
+msgid ""
+"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy "
+"eirmod tempor invidunt\n"
+"\t\t\t\t\t\tut labore et dolore magna aliquyam erat, sed diam voluptua. At "
+"vero eos."
+msgstr ""
+"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy "
+"eirmod tempor invidunt\n"
+"\t\t\t\t\t\tUt labore et dolore magna aliquyam erat, sed diam voluptua. ב "
+"vero eos."
+
+#: src/TemplateSetting/Models/TemplateModel.php:263
+
+msgid "Product Name: Price * Quantity = Subtotal"
+msgstr "שם המוצר: מחיר * כמות = סכום ביניים"
+
+#: src/TemplateSetting/Models/TemplateModel.php:273
+msgid "Total :"
+msgstr "סה\"כ:"
+
+#: src/Templates/order_items.php:142
+msgid "Discount"
+msgstr "הנחה"
+
+#: src/create_order_status.php:15
+
+msgid "Quote Requested"
+msgstr "הצעת מחיר מבוקשת"
+
+#: src/create_order_status.php:20
+, php-format
+msgid "Quote Requested (%s)"
+msgid_plural "Quote Requested (%s)"
+msgstr[0] "הצעת מחיר מבוקשת (%s)"
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+#: src/create_order_status.php:26 view/settings/template.php:520
+
+msgid "Quote Approved"
+msgstr "הצעת המחיר אושרה"
+
+#: src/create_order_status.php:31
+, php-format
+msgid "Quote Approved (%s)"
+msgid_plural "Quote Approved (%s)"
+msgstr[0] "הצעת המחיר אושרה (%s)"
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+#: src/create_order_status.php:37 view/notification_settings/general.php:76
+#: view/settings/template.php:633
+
+msgid "Quote Rejected"
+msgstr "הציטוט נדחה"
+
+#: src/create_order_status.php:42
+, php-format
+msgid "Quote Rejected (%s)"
+msgid_plural "Quote Rejected (%s)"
+msgstr[0] "הציטוט נדחה (%s)"
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+#: view/button/add_to_quote.php:21
+
+msgid "Clear List Button Label"
+msgstr "נקה תווית לחצן רשימה"
+
+#: view/button/add_to_quote.php:24
+
+msgid "Enter custom label text for 'Clear List' Button"
+msgstr "הזן טקסט תווית מותאם אישית עבור לחצן 'נקה רשימה'"
+
+#: view/button/add_to_quote.php:53
+
+msgid "Send Request Button Label"
+msgstr "תווית לחצן 'שלח בקשה'"
+
+#: view/button/add_to_quote.php:56
+
+msgid "Enter custom label text for 'Send Request' Button"
+msgstr "הזן טקסט תווית מותאם אישית עבור לחצן 'שלח בקשה'"
+
+#: view/button/add_to_quote.php:84
+
+msgid "Update List Button Label"
+msgstr "תווית לחצן 'עדכן רשימה'"
+
+#: view/button/add_to_quote.php:87
+
+msgid "Enter custom label text for 'Update List' Button"
+msgstr "הזן טקסט תווית מותאם אישית עבור לחצן 'עדכן רשימה'"
+
+#: view/button/add_to_quote.php:115
+
+msgid "View Quote List Button Label"
+msgstr "הצג תווית לחצן 'הצג רשימת הצעות מחיר'"
+
+#: view/button/add_to_quote.php:118
+
+msgid "Enter custom label text for 'View Quote List' Button"
+msgstr "הזן טקסט תווית מותאם אישית עבור לחצן 'הצג רשימת הצעות מחיר'"
+
+#: view/button/add_to_quote.php:144
+msgid "Button Color"
+msgstr "צבע כפתור"
+
+#: view/button/add_to_quote.php:148
+msgid "Border"
+msgstr "גבול"
+
+#: view/button/add_to_quote.php:159
+msgid "Background"
+msgstr "רקע"
+
+#: view/button/add_to_quote.php:179
+msgid "Preview"
+msgstr "תצוגה מקדימה"
+
+#: view/button/add_to_quote.php:180 view/button/add_to_quote.php:223
+#: view/settings/widget.php:126
+msgid "Button Label"
+msgstr "תווית הכפתור"
+
+#: view/button/add_to_quote.php:185 view/button/add_to_quote.php:197
+#: view/button/add_to_quote.php:209
+
+msgid "On hover"
+msgstr "על הריחוף"
+
+#: view/header.php:15
+, php-format
+msgid ""
+"To customize your website's quote request form and quote items listing page, "
+"visit  %1$s section."
+msgstr ""
+"כדי להתאים אישית את טופס בקשת הצעת המחיר של אתר האינטרנט שלך ואת דף הרישום "
+"של פריטי הצעת מחיר, בקר במקטע %1$s."
+
+#: view/header.php:20
+, php-format
+msgid "To set up request a quote on your site, visit  %1$s section."
+msgstr "כדי להגדיר בקשת הצעת מחיר באתר שלך, בקר בסעיף %1$s."
+
+#: view/header.php:39
+
+msgid "go_premium"
+msgstr "go_premium"
+
+#: view/header.php:43
+
+msgid "elex_raq_basic"
+msgstr "elex_raq_basic"
+
+#: view/help_support/faqs.php:5
+
+msgid "Q1."
+msgstr "שאלה 1."
+
+#: view/help_support/faqs.php:6
+
+msgid "Can I hide the “Add to Cart” button on the product page?"
+msgstr "האם ניתן להסתיר את כפתור \"הוסף לעגלה\" בדף המוצר?"
+
+#: view/help_support/faqs.php:11
+
+msgid ""
+"Yes, You can easily hide the ‘Add to Cart’ button on the product page as "
+"well as the shop page."
+msgstr "כן, ניתן להסתיר בקלות את כפתור 'הוסף לעגלה' בדף המוצר וכן בדף החנות."
+
+#: view/help_support/faqs.php:17
+
+msgid "Q2."
+msgstr "שאלה 2."
+
+#: view/help_support/faqs.php:18
+
+msgid "Can I hide the price of the products?"
+msgstr "האם ניתן להסתיר את מחיר המוצרים?"
+
+#: view/help_support/faqs.php:26
+
+msgid "Yes, You can hide the price of a particular product."
+msgstr "כן, אתה יכול להסתיר את המחיר של מוצר מסוים."
+
+#: view/help_support/faqs.php:35
+
+msgid "Q3."
+msgstr "שאלה 3."
+
+#: view/help_support/faqs.php:39
+
+msgid "Can I customize my quote list page?"
+msgstr "האם אוכל להתאים אישית את דף רשימת הצעות המחיר שלי?"
+
+#: view/help_support/faqs.php:49
+
+msgid ""
+"Yes, ELEX Request a Quote plugin allows you to customize & enhance your "
+"frontend quote list page."
+msgstr ""
+"כן, תוסף ELEX Request a Quote מאפשר לך להתאים אישית ולשפר את דף רשימת הצעות "
+"המחיר החזיתית שלך."
+
+#: view/help_support/faqs.php:59
+
+msgid "Q4."
+msgstr "שאלה 4."
+
+#: view/help_support/faqs.php:63
+
+msgid "Does this plugin have the option to customize the Email templates?"
+msgstr "האם לתוסף זה יש אפשרות להתאים אישית את תבניות הדוא\"ל?"
+
+#: view/help_support/faqs.php:72
+
+msgid ""
+"Yes, this plugin gives you the option to select from the predefined template "
+"or customize & create your own email template."
+msgstr ""
+"כן, תוסף זה נותן לך את האפשרות לבחור מתוך התבנית המוגדרת מראש או להתאים "
+"אישית וליצור תבנית דוא\"ל משלך."
+
+#: view/help_support/faqs.php:82
+
+msgid "Q5."
+msgstr "שאלה 5."
+
+#: view/help_support/faqs.php:83
+
+msgid ""
+"Can I restrict guest/ unregistered users from adding products into the Quote "
+"List and redirect them to the login or sign up page?"
+msgstr ""
+"האם אוכל להגביל אורחים/משתמשים לא רשומים מלהוסיף מוצרים לרשימת הצעות המחיר "
+"ולהפנות אותם לדף הכניסה או ההרשמה?"
+
+#: view/help_support/faqs.php:91
+
+msgid ""
+"Yes, this option is available in the plugin settings. We have a separate "
+"option for this where you can enable and redirect the guest/unregistered "
+"users to create an account or sign in to request a quote"
+msgstr ""
+"כן, אפשרות זו זמינה בהגדרות התוסף. יש לנו אפשרות נפרדת לכך שבה אתה יכול "
+"להפעיל ולנתב מחדש את האורחים/משתמשים לא רשומים כדי ליצור חשבון או להיכנס כדי "
+"לבקש הצעת מחיר"
+
+#: view/help_support/tickets.php:6
+
+msgid "Before raising the ticket, we recommend you to go through our detailed"
+msgstr "לפני העלאת הכרטיס, אנו ממליצים לכם לעבור על המפורט שלנו"
+
+#: view/help_support/tickets.php:6
+
+msgid "documentation."
+msgstr "תיעוד"
+
+#: view/help_support/tickets.php:7
+msgid "Or"
+msgstr "או"
+
+#: view/help_support/tickets.php:8
+
+msgid ""
+"To get in touch with one of our helpdesk representatives, please raise a "
+"support ticket on our website."
+msgstr ""
+"כדי ליצור קשר עם אחד מנציגי מוקד התמיכה שלנו, אנא העלה כרטיס תמיכה באתר "
+"האינטרנט שלנו."
+
+#: view/help_support/tickets.php:9
+
+msgid ""
+"* Please don`t forget to attach your System Info File with the request for "
+"better support."
+msgstr "* אל תשכח לצרף את קובץ פרטי המערכת שלך עם הבקשה לתמיכה טובה יותר."
+
+#: view/help_support/tickets.php:13
+
+msgid "Raise a ticket"
+msgstr "גייסו כרטיס"
+
+#: view/help_support/tickets.php:21
+
+msgid ""
+"To copy the System Info, click below then press Ctrl + C (PC) or Cmd + C "
+"(Mac)."
+msgstr ""
+"כדי להעתיק את פרטי המערכת, לחץ למטה ולאחר מכן הקש Ctrl + C (PC) או Cmd + C "
+"(Mac)."
+
+#: view/help_support/tickets.php:31
+msgid "Download System Info"
+msgstr "הורד מידע מערכת"
+
+#: view/listpage_form_setting/additional_options.php:13
+
+msgid "Show \"Update List\" Button"
+msgstr "הצג לחצן \"עדכן רשימה\""
+
+#: view/listpage_form_setting/additional_options.php:15
+
+msgid ""
+"Turn On/Off if you want to show/hide update list button on the quote list "
+"page."
+msgstr "הפעל/כבה אם ברצונך להציג/להסתיר לחצן עדכן רשימה בדף רשימת הצעות מחיר."
+
+#: view/listpage_form_setting/additional_options.php:43
+
+msgid "Show \"Clear List\" Button"
+msgstr "הצג את לחצן \"נקה רשימה\""
+
+#: view/listpage_form_setting/additional_options.php:45
+
+msgid ""
+"Turn On/Off if you want to show/hide the clear list button on the quote list "
+"page."
+msgstr ""
+"הפעל/כבה אם ברצונך להציג/להסתיר את לחצן נקה רשימה בדף רשימת הצעות מחיר."
+
+#: view/listpage_form_setting/additional_options.php:76
+
+msgid "Add more Items Button"
+msgstr "לחצן 'הוסף פריטים נוספים'"
+
+#: view/listpage_form_setting/additional_options.php:79
+
+msgid ""
+"Turn On/Off if you want to show/hide add more items button on the quote list "
+"page."
+msgstr ""
+"הפעל/כבה אם ברצונך להציג/להסתיר לחצן הוסף פריטים נוספים בדף רשימת הצעות מחיר."
+
+#: view/listpage_form_setting/additional_options.php:98
+#: view/listpage_form_setting/quote_list.php:80
+#: view/listpage_form_setting/quote_list.php:99
+#: view/listpage_form_setting/quote_list.php:283
+#: view/notification_settings/general.php:115
+#: view/notification_settings/google_chat.php:36 view/settings/template.php:79
+#: view/settings/widget.php:18 view/settings/widget.php:114
+#: view/settings/widget.php:185
+msgid "checked"
+msgstr "נבדק"
+
+#: view/listpage_form_setting/additional_options.php:110
+
+msgid "Add more Items Button Label"
+msgstr "הוספת תווית לחצן 'פריטים'"
+
+#: view/listpage_form_setting/additional_options.php:112
+
+msgid ""
+"Enter the label text for 'Add more items' button on the quote list page."
+msgstr ""
+"הזן את טקסט התווית עבור לחצן 'הוסף פריטים נוספים' בדף רשימת הצעות המחיר."
+
+#: view/listpage_form_setting/additional_options.php:131
+
+msgid "Add More items"
+msgstr "הוספת פריטים נוספים"
+
+#: view/listpage_form_setting/additional_options.php:141
+
+msgid "Add More Items Button Redirect Page"
+msgstr "לחצן 'הוסף פריטים נוספים' דף ניתוב מחדש"
+
+#: view/listpage_form_setting/additional_options.php:143
+
+msgid ""
+"Select the page where you want the customer to be redirected to upon "
+"clicking the add more items button"
+msgstr ""
+"בחר את הדף שאליו ברצונך שהלקוח ינותב מחדש בעת לחיצה על לחצן הוסף פריטים "
+"נוספים"
+
+#: view/listpage_form_setting/additional_options.php:176
+
+msgid ""
+"If there is No Activity on Quote by Customer, Send Reminder Email in Every"
+msgstr "אם אין פעילות בהצעת מחיר לפי לקוח, שלח דוא\"ל תזכורת בכל"
+
+#: view/listpage_form_setting/additional_options.php:184
+
+msgid ""
+"Set the number of days for sending a reminder email to the customer. Leave "
+"blank to skip automatic reminders."
+msgstr ""
+"הגדר את מספר הימים לשליחת דוא\"ל תזכורת ללקוח. השאר ריק כדי לדלג על תזכורות "
+"אוטומטיות."
+
+#: view/listpage_form_setting/additional_options.php:211
+#: view/settings/general.php:53
+msgid "Days"
+msgstr "ימים"
+
+#: view/listpage_form_setting/additional_options.php:219
+
+msgid "Trials"
+msgstr "ניסויים"
+
+#: view/listpage_form_setting/additional_options.php:229
+
+msgid "Allow Customer to Send Counter Proposal"
+msgstr "אפשר ללקוח לשלוח הצעה נגדית"
+
+#: view/listpage_form_setting/additional_options.php:237
+
+msgid "Turn on if you want to allow customer to send Counter Proposal."
+msgstr "הפעל אם ברצונך לאפשר ללקוח לשלוח הצעה נגדית."
+
+#: view/listpage_form_setting/additional_options.php:265
+
+msgid "Allow Customer to Download PDF"
+msgstr "אפשר ללקוח להוריד PDF"
+
+#: view/listpage_form_setting/additional_options.php:274
+
+msgid "Turn on if you want to allow customer to download PDF."
+msgstr "הפעל אם ברצונך לאפשר ללקוח להוריד PDF."
+
+#: view/listpage_form_setting/form_settings.php:15
+
+msgid "Updated Successfully."
+msgstr "עודכן בהצלחה"
+
+#: view/listpage_form_setting/form_settings.php:38
+
+msgid "Deleted Successfully."
+msgstr "נמחק בהצלחה."
+
+#: view/listpage_form_setting/form_settings.php:59
+msgid "Saved Successfully"
+msgstr "נשמר בהצלחה"
+
+#: view/listpage_form_setting/form_settings.php:80
+
+msgid "Field with same name Already Exist"
+msgstr "שדה עם אותו שם כבר קיים"
+
+#: view/listpage_form_setting/form_settings.php:100
+
+msgid "Enter 2 or more values for the selected input type."
+msgstr "הזן 2 ערכים או יותר לסוג הקלט שנבחר."
+
+#: view/listpage_form_setting/quote_list.php:10
+
+msgid "Select \"Quote List\" Page"
+msgstr "בחר דף \"רשימת הצעות מחיר\""
+
+#: view/listpage_form_setting/quote_list.php:12
+
+msgid "Select the WooCommerce page where you want to display the quote list."
+msgstr "בחר את הדף של WooCommerce שבו ברצונך להציג את רשימת הצעות המחיר."
+
+#: view/listpage_form_setting/quote_list.php:45
+
+msgid "Quote List Page Title"
+msgstr "כותרת דף רשימת הצעות מחיר"
+
+#: view/listpage_form_setting/quote_list.php:47
+
+msgid "Enter the title on the quote list page."
+msgstr "הזן את הכותרת בדף רשימת הצעות המחיר."
+
+#: view/listpage_form_setting/quote_list.php:75
+
+msgid "\"Quote List\" Page Layout"
+msgstr "פריסת דף \"רשימת הצעות מחיר\""
+
+#: view/listpage_form_setting/quote_list.php:95
+
+msgid "Product list on the left & form on the right"
+msgstr "רשימת מוצרים משמאל וטופס מימין"
+
+#: view/listpage_form_setting/quote_list.php:114
+
+msgid "Product list on the top & form on the bottom"
+msgstr "רשימת מוצרים בחלק העליון וטופס בתחתית"
+
+#: view/listpage_form_setting/quote_list.php:125
+
+msgid "Choose What to Show If List is Empty"
+msgstr "בחר מה להציג אם הרשימה ריקה"
+
+#: view/listpage_form_setting/quote_list.php:139
+msgid "Illustration"
+msgstr "איור"
+
+#: view/listpage_form_setting/quote_list.php:146
+
+msgid "Empty Text"
+msgstr "טקסט ריק"
+
+#: view/listpage_form_setting/quote_list.php:154
+
+msgid "\"Go to Shop Page\" button\""
+msgstr "כפתור \"עבור לדף חנות\""
+
+#: view/listpage_form_setting/quote_list.php:162
+
+msgid "Quote a Request Form"
+msgstr "הצעת מחיר טופס בקשה"
+
+#: view/listpage_form_setting/quote_list.php:175
+
+msgid "Contents to Show in Product Table"
+msgstr "תוכן שיוצג בטבלת המוצרים"
+
+#: view/listpage_form_setting/quote_list.php:189
+msgid "Product Image"
+msgstr "תמונת מוצר"
+
+#: view/listpage_form_setting/quote_list.php:194
+msgid "Product Price"
+msgstr "מחיר מוצר"
+
+#: view/listpage_form_setting/quote_list.php:205
+
+msgid "Each Product Subtotal"
+msgstr "כל סכום ביניים של מוצר"
+
+#: view/listpage_form_setting/quote_list.php:210
+msgid "Product SKU"
+msgstr "מק״ט מוצר"
+
+#: view/listpage_form_setting/quote_list.php:215
+msgid "Taxes"
+msgstr "מע\"מ"
+
+#: view/listpage_form_setting/quote_list.php:225
+
+msgid "Accept Preferred Price from Customer"
+msgstr "קבל מחיר מועדף מהלקוח"
+
+#: view/listpage_form_setting/quote_list.php:233
+
+msgid "Toggle On to accept the Preferred Price from Customer. "
+msgstr "הפעל כדי לקבל את המחיר המועדף מהלקוח. "
+
+#: view/listpage_form_setting/quote_list.php:264
+
+msgid "Show \"Powered by ELEX Request a Quote\""
+msgstr "הצג \"מופעל על ידי ELEX בקש הצעת מחיר\""
+
+#: view/listpage_form_setting/quote_list.php:265
+
+msgid ""
+"Turn On or Off if you want to show or hide the ELEXtensions watermark on the "
+"quote list page."
+msgstr ""
+"הפעל או כבה אם ברצונך להציג או להסתיר את סימן המים ELEXtensions בדף רשימת "
+"הצעות המחיר."
+
+#: view/market.php:98
+
+msgid "Note: Basic version supports only few features."
+msgstr "הערה: הגרסה הבסיסית תומכת בתכונות מעטות בלבד."
+
+#: view/market.php:99
+
+msgid "Your business is precious! Go Premium to get below features."
+msgstr "העסק שלך יקר! עברו למינוי Premium כדי לקבל את התכונות הבאות."
+
+#: view/market.php:100
+
+msgid " -  Product-based exclusion for Request a Quote."
+msgstr " - החרגה מבוססת מוצר עבור בקשת הצעת מחיר."
+
+#: view/market.php:102
+
+msgid " - User role-based exclusion for Request a Quote."
+msgstr " - אי הכללה מבוססת תפקיד משתמש עבור בקשת הצעת מחיר."
+
+#: view/market.php:103
+
+msgid "- Disable Request a Quote option for unregistered users."
+msgstr "- השבת את האפשרות בקש הצעת מחיר עבור משתמשים לא רשומים."
+
+#: view/market.php:104
+
+msgid "- Exclude Request a Quote based on the product stocks."
+msgstr "- אל תכלול בקש הצעת מחיר בהתבסס על מלאי המוצרים."
+
+#: view/market.php:105
+
+msgid "- Product-based exclusion from the 'Hide Add to Cart and Price' option."
+msgstr "- החרגה מבוססת מוצר מהאפשרות 'הסתר, הוסף לעגלה ולמחיר'."
+
+#: view/market.php:106
+
+msgid ""
+"- User role-based exclusion from the 'Hide Add to Cart and Price' option."
+msgstr "- אי הכללה מבוססת תפקיד משתמש מהאפשרות 'הסתר, הוסף לעגלה ולמחיר'."
+
+#: view/market.php:108
+
+msgid "- Quote list customization option for an empty quote list page."
+msgstr ""
+"- אפשרות התאמה אישית של רשימת הצעות מחיר עבור דף רשימת הצעות מחיר ריקות."
+
+#: view/market.php:110
+
+msgid "- Product table customization option for the quote list page."
+msgstr "- אפשרות התאמה אישית של טבלת מוצרים עבור דף רשימת הצעות מחיר."
+
+#: view/market.php:111
+
+msgid "- Quote Expiry  feature as per the number of days set by the Admin."
+msgstr "- תכונת תפוגת הצעת מחיר בהתאם למספר הימים שהוגדר על ידי מנהל המערכת."
+
+#: view/market.php:112
+
+msgid ""
+"- Accepted Payment Gateway feature to accept the payment method of Shop "
+"owner's choice."
+msgstr "- תכונת שער התשלום המקובל לקבלת אמצעי התשלום לפי בחירת בעל החנות."
+
+#: view/market.php:113
+
+msgid ""
+"- Option to change the \"Add to Quote \" Button Position Inline with the "
+"\"Add to Cart\" Button."
+msgstr ""
+"- אפשרות לשנות את מיקום כפתור \"הוסף להצעת מחיר\" בתוך השורה עם כפתור \"הוסף "
+"לעגלה\"."
+
+#: view/market.php:114
+
+msgid "- Quote Button on Cart Page."
+msgstr "- כפתור הצעת מחיר בדף העגלה."
+
+#: view/market.php:115
+
+msgid ""
+"- Option to set the Add to Quote Button Behaviour to redirect to Quote List "
+"Page."
+msgstr ""
+"- אפשרות להגדיר את התנהגות לחצן הוסף להצעת מחיר להפניה מחדש לדף רשימת הצעות "
+"מחיר."
+
+#: view/market.php:116
+
+msgid "- Predefined Templates for the Emails."
+msgstr "- תבניות מוגדרות מראש למיילים."
+
+#: view/market.php:117
+
+msgid ""
+"- Send Automatic Reminder emails to the customer as per the number of days "
+"set by the admin,when there is no activity from the customer."
+msgstr ""
+"- שליחת מייל תזכורת אוטומטית ללקוח לפי מספר הימים שהוגדר על ידי המנהל, כאשר "
+"אין פעילות מצד הלקוח."
+
+#: view/market.php:118
+
+msgid "- Allow Customer to Send Counter Proposal from their My Account Page."
+msgstr "- אפשר ללקוח לשלוח הצעה נגדית מדף החשבון שלי שלו."
+
+#: view/market.php:119
+
+msgid "- Allow Customer to download Quote PDF from their My Account Page."
+msgstr "- אפשר ללקוח להוריד קובץ PDF של הצעת מחיר מדף החשבון שלי שלו."
+
+#: view/market.php:120
+
+msgid ""
+"- Accept the Preferred Price/Percentage from the Customer during Quote "
+"Submission."
+msgstr "- קבל את המחיר/אחוז המועדף מהלקוח במהלך הגשת הצעת המחיר."
+
+#: view/market.php:121
+
+msgid ""
+"- Attach PDF or image file to Quote Approved/Rejected/Negotiation mails from "
+"the Order Page."
+msgstr ""
+"- צרף קובץ PDF או תמונה להצעת מחיר שאושרה/נדחתה/משא ומתן מיילים מדף ההזמנה."
+
+#: view/market.php:122
+
+msgid "- AutoComplete Quote Form for Registered User."
+msgstr "- טופס הצעת מחיר אוטומטי למשתמש רשום."
+
+#: view/market.php:123
+
+msgid "- Create WordPress User when the Guest User submits the Quote Request."
+msgstr "- יצירת משתמש וורדפרס כאשר המשתמש האורח שולח את בקשת הצעת המחיר."
+
+#: view/market.php:124
+
+msgid "- reCAPTCHA verification for the Quote Submission."
+msgstr "- אימות reCAPTCHA עבור הגשת הצעת המחיר."
+
+#: view/market.php:125
+
+msgid "- All Buttons Customization including Color and Label"
+msgstr "- התאמה אישית של כל הכפתורים כולל צבע ותווית"
+
+#: view/market.php:144
+
+msgid "You May Also like"
+msgstr "אולי יעניין אותך גם"
+
+#: view/notification_settings/general.php:16
+
+msgid "Notifications Email Address"
+msgstr "הודעות כתובת דוא\"ל"
+
+#: view/notification_settings/general.php:19
+
+msgid ""
+"Enter the email addresses to receive a notification when the customer places "
+"a quote request. By default, the administrator email id is taken to get a "
+"notification. Multiple email ids should be separated by commas."
+msgstr ""
+"הזן את כתובות הדואר האלקטרוני כדי לקבל הודעה כאשר הלקוח מגיש בקשה להצעת "
+"מחיר. כברירת מחדל, מזהה הדואר האלקטרוני של מנהל המערכת מועבר כדי לקבל הודעה. "
+"יש להפריד מזהי דוא\"ל מרובים באמצעות פסיקים."
+
+#: view/notification_settings/general.php:44
+
+msgid "Select Order Statuses To Notify Customers"
+msgstr "בחר סטטוסים של הזמנות כדי להודיע ללקוחות"
+
+#: view/notification_settings/general.php:46
+
+msgid ""
+"Select the order statuses for which customers should receive an email "
+"notification."
+msgstr "בחר את סטטוסי ההזמנה שעבורם הלקוחות אמורים לקבל הודעת דוא\"ל."
+
+#: view/notification_settings/general.php:70
+
+msgid ""
+"Quote Requested\n"
+"                                        "
+msgstr ""
+"הצעת מחיר מבוקשת\n"
+"                                        "
+
+#: view/notification_settings/general.php:80
+
+msgid ""
+"Quote Approved\n"
+"                                        "
+msgstr ""
+"הצעת המחיר אושרה\n"
+"                                        "
+
+#: view/notification_settings/general.php:95
+msgid "Debug Log"
+msgstr "לוג איתור באגים"
+
+#: view/notification_settings/general.php:97
+
+msgid ""
+"Find email, sms and google chat logs here (wp-content\\uploads\\wc-logs)."
+msgstr ""
+"מצא יומני דוא\"ל, SMS וצ'אט של Google כאן (wp-content\\uploads\\wc-logs)."
+
+#: view/notification_settings/google_chat.php:17
+
+msgid ""
+"Enable to receive Google Chat notification when the customer makes a quote "
+"request."
+msgstr "אפשר לקבל התראה על Google Chat כאשר הלקוח מבקש הצעת מחיר."
+
+#: view/notification_settings/google_chat.php:51
+msgid "Webhook URL"
+msgstr "כתובת Webhook"
+
+#: view/notification_settings/google_chat.php:53
+
+msgid ""
+"Enter the Google Chat Webhook URL. You can find this URL on your google chat "
+"window."
+msgstr ""
+"הזן את כתובת האתר של Google Chat Webhook. תוכל למצוא כתובת אתר זו בחלון "
+"הצ'אט של Google."
+
+#: view/notification_settings/sms.php:32
+, php-format
+msgid ""
+"Enable to receive SMS notification when the customer makes a quote request. "
+"Sign up for a new Twilio account %1$s."
+msgstr ""
+"אפשר לקבל הודעת SMS כאשר הלקוח מגיש בקשה להצעת מחיר. הירשם לחשבון Twilio חדש "
+"%1$s."
+
+#: view/notification_settings/sms.php:45
+
+msgid "Twilio SID"
+msgstr "טוויליו סיד"
+
+#: view/notification_settings/sms.php:47
+
+msgid "Enter Your Twilio SID"
+msgstr "הזן את Twilio SID שלך"
+
+#: view/notification_settings/sms.php:77
+
+msgid "Twilio Token"
+msgstr "אסימון טוויליו"
+
+#: view/notification_settings/sms.php:79
+
+msgid "Enter Your Twilio Token"
+msgstr "הזן את אסימון Twilio שלך"
+
+#: view/notification_settings/sms.php:111
+
+msgid "Twilio Mobile Number"
+msgstr "מספר טלפון נייד של Twilio"
+
+#: view/notification_settings/sms.php:113
+
+msgid ""
+"Enter the mobile number where you want to get a notification when the "
+"customer places a quote request"
+msgstr ""
+"הזן את מספר הטלפון הנייד שבו ברצונך לקבל התראה כאשר הלקוח מגיש בקשה להצעת "
+"מחיר"
+
+#: view/notification_settings/sms.php:145
+
+msgid "Notification Mobile Number"
+msgstr "הודעה מספר טלפון נייד"
+
+#: view/notification_settings/sms.php:147
+
+msgid "Enter Your Twilio mobile Number"
+msgstr "הזן את מספר הטלפון הנייד שלך ב- Twilio"
+
+#: view/output.php:15
+msgid ""
+"\n"
+"\n"
+msgstr ""
+"\n"
+"\n"
+
+#: view/output.php:40 view/output.php:41 view/output.php:42 view/output.php:43
+#: view/output.php:44 view/output.php:45 view/output.php:46 view/output.php:59
+#: view/output.php:62 view/output.php:83 view/output.php:84 view/output.php:86
+#: view/output.php:143
+msgid "\n"
+msgstr "\n"
+
+#: view/output.php:47
+msgid "Yes"
+msgstr "כן"
+
+#: view/output.php:53
+msgid "Length: "
+msgstr "אורך "
+
+#: view/output.php:54
+
+msgid " Status:"
+msgstr " מצב:"
+
+#: view/output.php:56
+
+msgid " ERROR: Too Long"
+msgstr " שגיאה: ארוך מדי"
+
+#: view/output.php:58
+
+msgid " Acceptable"
+msgstr " מקובל"
+
+#: view/output.php:66 view/output.php:71
+
+msgid " (#"
+msgstr " ( #"
+
+#: view/output.php:76
+msgid "Enabled"
+msgstr "מאופשר"
+
+#: view/output.php:83
+
+msgid "On ("
+msgstr "מופעל ("
+
+#: view/output.php:84
+
+msgid "Your server supports fsockopen."
+msgstr "השרת שלך תומך fsockopen."
+
+#: view/output.php:85
+
+msgid "Your server supports cURL."
+msgstr "השרת שלך תומך ב- cURL."
+
+#: view/output.php:86
+
+msgid "Your server has the SOAP Client enabled."
+msgstr "לקוח SOAP מופעל בשרת שלך."
+
+#: view/output.php:116
+
+msgid "Site Health Info:"
+msgstr "מידע על תקינות האתר:"
+
+#: view/quote/add_to_quote.php:10 view/quote/view_quote_list.php:8
+
+msgid "text-center"
+msgstr "מרכז טקסט"
+
+#: view/quote/quote_list_main.php:5
+
+msgid "Powered by ELEX Request a Quote "
+msgstr "מופעל על ידי ELEX בקש הצעת מחיר "
+
+#: view/saved_toast.php:12
+
+msgid "Changes Saved Successfully!"
+msgstr "השינויים נשמרו בהצלחה!"
+
+#: view/settings/general.php:16
+
+msgid "Quote Expires in"
+msgstr "תוקף הצעת המחיר פג ב-"
+
+#: view/settings/general.php:25
+
+msgid ""
+"Set the number of days after the quote request date for the quote to expire. "
+"Leave blank if the quote should not expire."
+msgstr ""
+"הגדר את מספר הימים לאחר תאריך בקשת הצעת המחיר כדי שתוקף הצעת המחיר יפוג. "
+"השאר ריק אם הצעת המחיר לא אמורה לפוג."
+
+#: view/settings/general.php:65
+
+msgid "Accepted Payment Gateways"
+msgstr "שערי תשלום מקובלים"
+
+#: view/settings/general.php:73
+
+msgid ""
+"Select the store payment methods to display during checkout. Leave blank to "
+"show all payment methods."
+msgstr ""
+"בחר את אמצעי התשלום בחנות שיוצגו במהלך התשלום. השאר ריק כדי להציג את כל "
+"אמצעי התשלום."
+
+#: view/settings/general.php:117
+
+msgid "Quote Button on Shop Page"
+msgstr "לחצן הצעת מחיר בדף החנות"
+
+#: view/settings/general.php:119
+
+msgid "Toggle On or Off to display the Add to Quote button on the shop page"
+msgstr "הפעל או כבוי כדי להציג את לחצן הוסף להצעת מחיר בדף החנות"
+
+#: view/settings/general.php:150
+
+msgid "Quote Button on Product Page"
+msgstr "לחצן הצעת מחיר בדף המוצר"
+
+#: view/settings/general.php:153
+
+msgid ""
+"Toggle On or Off the display of the Add to Quote button on the product page"
+msgstr "הפעל או כבה את התצוגה של לחצן הוסף להצעת מחיר בדף המוצר"
+
+#: view/settings/general.php:183
+
+msgid "Add to Quote Button Position on Product Page"
+msgstr "לחצן 'הוסף להצעת מחיר' מיקום בדף המוצר"
+
+#: view/settings/general.php:190
+
+msgid "Button position may vary depending on the theme."
+msgstr "מיקום הלחצן עשוי להשתנות בהתאם לערכת הנושא."
+
+#: view/settings/general.php:213
+
+msgid "Inline with Add to Cart"
+msgstr "מוטבע עם הוסף לעגלה"
+
+#: view/settings/general.php:220
+msgid "Below Add to Cart"
+msgstr "מתחת ל- הוסף לסל"
+
+#: view/settings/general.php:230
+
+msgid "Quote Button on Cart Page"
+msgstr "לחצן הצעת מחיר בדף העגלה"
+
+#: view/settings/general.php:238
+
+msgid ""
+"Enable or disable the \"Add to Quote\" button on the Cart page. When "
+"enabled, this button will appear on the Cart page. Customers can click the "
+"\"Add to Quote\" button to automatically add the products in their cart to a "
+"quote list page."
+msgstr ""
+"הפעל או השבת את הלחצן \"הוסף להצעת מחיר\" בדף עגלת הקניות. כאשר לחצן זה "
+"מופעל, הוא יופיע בדף עגלת הקניות. לקוחות יכולים ללחוץ על הלחצן \"הוסף להצעת "
+"מחיר\" כדי להוסיף באופן אוטומטי את המוצרים בעגלה שלהם לדף רשימת הצעות מחיר."
+
+#: view/settings/general.php:266
+
+msgid "Quote Button Configurations"
+msgstr "תצורות לחצן הצעת מחיר"
+
+#: view/settings/general.php:272
+
+msgid "Open Quote Form"
+msgstr "פתח טופס הצעת מחיר"
+
+#: view/settings/general.php:275
+
+msgid "Select how you want to show the quote list to your user."
+msgstr "בחר כיצד ברצונך להציג את רשימת הצעות המחיר למשתמש שלך."
+
+#: view/settings/general.php:298
+
+msgid "In a New Page"
+msgstr "בדף חדש"
+
+#: view/settings/general.php:301
+
+msgid "In a Light Box"
+msgstr "בקופסת אור"
+
+#: view/settings/general.php:313
+
+msgid "Add to Quote Success Alert Message"
+msgstr "הוסף להצעת מחיר הודעת התראת הצלחה"
+
+#: view/settings/general.php:317
+
+msgid ""
+"Enter the alert message to display on successful addition of the product to "
+"the quote list."
+msgstr ""
+"הזן את הודעת ההתראה שתוצג במקרה של הוספה מוצלחת של המוצר לרשימת הצעות המחיר."
+
+#: view/settings/general.php:352
+
+msgid "Add to Quote Button Behaviour"
+msgstr "הוסף להצעת מחיר התנהגות לחצן"
+
+#: view/settings/general.php:361
+
+msgid ""
+"Select \"Redirect to the Quote List Page\" to enable automatic redirection "
+"to the Quote List Page upon clicking the \"Add to Quote\" button."
+msgstr ""
+"בחר \"ניתוב מחדש לדף רשימת הצעות מחיר\" כדי לאפשר ניתוב מחדש אוטומטי לדף "
+"רשימת הצעות מחיר בלחיצה על הלחצן \"הוסף להצעת מחיר\"."
+
+#: view/settings/general.php:384
+
+msgid "Redirect to the Quote List Page"
+msgstr "ניתוב מחדש לדף רשימת הצעות מחיר"
+
+#: view/settings/general.php:387
+
+msgid "Stay on the Shop/Product page"
+msgstr "הישאר בדף חנות/מוצר"
+
+#: view/settings/general.php:396
+
+msgid "Quote Button Customization"
+msgstr "התאמה אישית של לחצן הצעת מחיר"
+
+#: view/settings/general.php:400
+
+msgid "Quote Button Label"
+msgstr "תווית לחצן הצעת מחיר"
+
+#: view/settings/general.php:402
+
+msgid "Enter a custom label text for the request a quote button"
+msgstr "הזן טקסט תווית מותאם אישית עבור לחצן בקש הצעת מחיר"
+
+#: view/settings/general.php:432
+
+msgid "Default Button Color"
+msgstr "צבע לחצן ברירת מחדל"
+
+#: view/settings/general.php:434
+
+msgid "Choose the default color for the buttons."
+msgstr "בחר את צבע ברירת המחדל עבור הלחצנים."
+
+#: view/settings/general.php:471
+msgid "Filter Products"
+msgstr "סינון מוצרים"
+
+#: view/settings/general.php:478
+
+msgid ""
+"The quote button will be added to all the products by\n"
+"                default. If you want to include\n"
+"                or exclude certain products, use the filter options given "
+"below."
+msgstr ""
+"כפתור הצעת המחיר יתווסף לכל המוצרים על ידי\n"
+"                ברירת מחדל. אם ברצונך לכלול\n"
+"                או אל תכלול מוצרים מסוימים, השתמש באפשרויות הסינון המפורטות "
+"להלן."
+
+#: view/settings/general.php:495 view/settings/hide_addtocart_price.php:117
+
+msgid "Include Products"
+msgstr "כלול מוצרים"
+
+#: view/settings/general.php:514
+
+msgid ""
+"Select the products for which request a quote settings should\n"
+"                                        be applied. Rest of the products "
+"will be excluded\n"
+"                                        automatically."
+msgstr ""
+"בחר את המוצרים שעבורם יש לבקש הגדרות הצעת מחיר\n"
+"                                        להיות מיושם. שאר המוצרים יוחרגו\n"
+"                                        באופן אוטומטי."
+
+#: view/settings/general.php:535
+
+msgid "Include Products By Category"
+msgstr "כלול מוצרים לפי קטגוריה"
+
+#: view/settings/general.php:537
+
+msgid ""
+"Select the products categories for which you want to display the request a "
+"quote button"
+msgstr "בחר את קטגוריות המוצרים שעבורן ברצונך להציג את לחצן בקש הצעת מחיר"
+
+#: view/settings/general.php:591
+
+msgid "Include Products By Name"
+msgstr "כלול מוצרים לפי שם"
+
+#: view/settings/general.php:594
+
+msgid ""
+"Select the products names for which you want to display the request a quote "
+"button"
+msgstr "בחר את שמות המוצרים שעבורם ברצונך להציג את לחצן בקש הצעת מחיר"
+
+#: view/settings/general.php:646
+
+msgid "Include Products By Tags"
+msgstr "כלול מוצרים לפי תגיות"
+
+#: view/settings/general.php:649
+
+msgid ""
+"Select the products tags for which you want to display the request a quote "
+"button"
+msgstr "בחר את תגי המוצרים שעבורם ברצונך להציג את לחצן בקש הצעת מחיר"
+
+#: view/settings/general.php:705
+
+msgid "Exclude Product"
+msgstr "אל תכלול מוצר"
+
+#: view/settings/general.php:728
+
+msgid ""
+"Select the products for which request a quote settings should\n"
+"                                        not be applied."
+msgstr ""
+"בחר את המוצרים שעבורם יש לבקש הגדרות הצעת מחיר\n"
+"                                        לא להיות מיושם."
+
+#: view/settings/general.php:748 view/settings/hide_addtocart_price.php:182
+
+msgid "Exclude Products By Category"
+msgstr "אל תכלול מוצרים לפי קטגוריה"
+
+#: view/settings/general.php:750
+
+msgid ""
+"Select the products categories for which you don't want to display the "
+"request a quote button"
+msgstr ""
+"בחר את קטגוריות המוצרים שעבורן אינך מעוניין להציג את לחצן בקש הצעת מחיר"
+
+#: view/settings/general.php:792 view/settings/hide_addtocart_price.php:228
+
+msgid "Exclude Products By Name"
+msgstr "אל תכלול מוצרים לפי שם"
+
+#: view/settings/general.php:795
+
+msgid ""
+"Select the individual product names for which you don't want to display the "
+"request a quote button"
+msgstr ""
+"בחר את שמות המוצרים הבודדים שעבורם אינך מעוניין להציג את לחצן בקש הצעת מחיר"
+
+#: view/settings/general.php:834 view/settings/hide_addtocart_price.php:275
+
+msgid "Exclude Products By Tags"
+msgstr "אל תכלול מוצרים לפי תגיות"
+
+#: view/settings/general.php:837
+
+msgid ""
+"Select the products tags for which you don't want to display the request a "
+"quote button"
+msgstr "בחר את תגי המוצרים שעבורם אינך רוצה להציג את לחצן בקש הצעת מחיר"
+
+#: view/settings/general.php:885 view/settings/hide_addtocart_price.php:328
+
+msgid "Role Based Filter"
+msgstr "מסנן מבוסס תפקידים"
+
+#: view/settings/general.php:908
+
+msgid ""
+"Select the roles for which request a quote settings should be\n"
+"                                        applied/not."
+msgstr ""
+"בחר את התפקידים שעבורם יש לבקש הגדרות הצעת מחיר\n"
+"                                        מוחל / לא."
+
+#: view/settings/general.php:928
+msgid "Include Roles"
+msgstr "לכלול תפקידים"
+
+#: view/settings/general.php:930
+
+msgid ""
+"Select the user roles for which you want to display the request a quote "
+"button"
+msgstr "בחר את תפקידי המשתמש שעבורם ברצונך להציג את לחצן בקש הצעת מחיר"
+
+#: view/settings/general.php:973
+msgid "Exclude Roles"
+msgstr "אל תכללי תפקידים"
+
+#: view/settings/general.php:975
+
+msgid ""
+"Select the user roles for which you don't want to display the request a "
+"quote button"
+msgstr "בחר את תפקידי המשתמש שעבורם אינך מעוניין להציג את לחצן בקש הצעת מחיר"
+
+#: view/settings/general.php:1023
+
+msgid "Disable Quote Request for Unregistered Users"
+msgstr "השבת בקשת הצעת מחיר עבור משתמשים לא רשומים"
+
+#: view/settings/general.php:1043
+
+msgid ""
+"By enabling this option guest users can be redirected to the\n"
+"                                        My Account page for registration."
+msgstr ""
+"על-ידי הפעלת אפשרות זו ניתן לנתב מחדש משתמשים אורחים אל\n"
+"                                        דף החשבון שלי לרישום."
+
+#: view/settings/general.php:1064
+
+msgid "Include/Exclude products based on stock"
+msgstr "לכלול/לא לכלול מוצרים המבוססים על המלאי"
+
+#: view/settings/general.php:1072
+
+msgid ""
+"Select an option to determine how you want to display the add to quote "
+"button based on the product availablity"
+msgstr ""
+"בחר אפשרות כדי לקבוע כיצד ברצונך להציג את לחצן הוסף להצעת מחיר בהתבסס על "
+"זמינות המוצר"
+
+#: view/settings/general.php:1097
+
+msgid "Show Add to Quote Button for all the products"
+msgstr "הצג לחצן הוסף להצעת מחיר עבור כל המוצרים"
+
+#: view/settings/general.php:1102
+
+msgid "Hide Add to Quote button for Out of Stock products"
+msgstr "לחצן 'הסתר הוסף להצעת מחיר' עבור מוצרים שאזלו מהמלאי"
+
+#: view/settings/general.php:1109
+
+msgid ""
+"Show Add to Quote button only for Out of Stock\n"
+"                                        products"
+msgstr ""
+"לחצן 'הצג הוסף להצעת מחיר' בלבד עבור 'אזל מהמלאי' בלבד\n"
+"                                        מוצרים"
+
+#: view/settings/general.php:1126
+
+msgid "Third Party API key"
+msgstr "מפתח API של צד שלישי"
+
+#: view/settings/general.php:1134
+
+msgid ""
+"In case you want to get quote requests/orders via third party plugins, Turn "
+"On the below\n"
+"\t\t\t\t\tfunctionality & get the API Key."
+msgstr ""
+"במקרה שברצונך לקבל בקשות הצעת מחיר / הזמנות באמצעות תוספי צד שלישי, הפעל את "
+"הדברים הבאים\n"
+"\t\t\t\t\tפונקציונליות וקבל את מפתח ה- API."
+
+#: view/settings/general.php:1150
+
+msgid "Third Party Usage"
+msgstr "שימוש של צד שלישי"
+
+#: view/settings/general.php:1163
+
+msgid "Turn this ON, to get the API Key."
+msgstr "הפעל אפשרות זו כדי לקבל את מפתח ה- API."
+
+#: view/settings/general.php:1170
+
+msgid "Rest API Key"
+msgstr "מפתח API של מנוחה"
+
+#: view/settings/general.php:1179
+
+msgid "Copy API Key"
+msgstr "העתק מפתח API"
+
+#: view/settings/general.php:1222
+
+msgid "Copied Successfully!"
+msgstr "הועתק בהצלחה!"
+
+#: view/settings/general.php:1239
+
+msgid "Error copying text"
+msgstr "שגיאה בהעתקת טקסט"
+
+#: view/settings/hide_addtocart_price.php:19
+msgid "Hide Price"
+msgstr "הסתרת מחיר"
+
+#: view/settings/hide_addtocart_price.php:21
+
+msgid ""
+"Enabling the Hide Price will automatically enable the Hide Add to Cart "
+"button on the Shop page and the Product Page."
+msgstr ""
+"הפעלת האפשרות הסתר מחיר תפעיל באופן אוטומטי את לחצן הסתר הוסף לעגלה בדף "
+"החנות ובדף המוצר."
+
+#: view/settings/hide_addtocart_price.php:46
+
+msgid ""
+"Turn on to hide price in the Product page, Shop Page and Quote List Page."
+msgstr "הפעל כדי להסתיר מחיר בדף המוצר, בדף החנות ובדף רשימת הצעות מחיר."
+
+#: view/settings/hide_addtocart_price.php:61
+
+msgid "Hide Add to Cart Button on Shop Page"
+msgstr "לחצן 'הסתר הוסף לעגלה' בדף החנות"
+
+#: view/settings/hide_addtocart_price.php:74
+
+msgid "Turn on to hide the add to cart button on the shop page."
+msgstr "הפעל כדי להסתיר את לחצן הוסף לעגלה בדף החנות."
+
+#: view/settings/hide_addtocart_price.php:89
+
+msgid "Hide Add to Cart Button on Product Page"
+msgstr "לחצן 'הסתר הוסף לעגלה' בדף המוצר"
+
+#: view/settings/hide_addtocart_price.php:99
+
+msgid "Turn on to hide the add to cart button on the product page."
+msgstr "הפעל כדי להסתיר את לחצן הוסף לעגלה בדף המוצר."
+
+#: view/settings/hide_addtocart_price.php:133
+#: view/settings/hide_addtocart_price.php:170
+
+msgid ""
+"Turn on & Select the Products for which the above settings should not be "
+"applied"
+msgstr "הפעל ובחר את המוצרים שעבורם אין להחיל את ההגדרות לעיל"
+
+#: view/settings/hide_addtocart_price.php:154
+
+msgid "Exclude Products"
+msgstr "אל תכלול מוצרים"
+
+#: view/settings/hide_addtocart_price.php:184
+
+msgid ""
+"Select the product categories that you want to exclude from the above "
+"applied settings"
+msgstr "בחר את קטגוריות המוצרים שברצונך לא לכלול בהגדרות שהוחלו לעיל"
+
+#: view/settings/hide_addtocart_price.php:230
+
+msgid ""
+"Select the product names that you want to exclude from the above applied "
+"settings"
+msgstr "בחר את שמות המוצרים שברצונך לא לכלול בהגדרות שהוחלו לעיל"
+
+#: view/settings/hide_addtocart_price.php:277
+
+msgid ""
+"Select the product tags that you want to exclude from the above applied "
+"settings"
+msgstr "בחר את תגי המוצר שברצונך לא לכלול בהגדרות שהוחלו לעיל"
+
+#: view/settings/hide_addtocart_price.php:348
+
+msgid ""
+"Select the roles for which the above settings should be\n"
+"                                        applied/not."
+msgstr ""
+"בחר את התפקידים שעבורם ההגדרות לעיל צריכות להיות\n"
+"                                        מוחל / לא."
+
+#: view/settings/template.php:10
+
+msgid ""
+"You can configure your email and sms/chat template here,\n"
+"                Make use of placeholders to\n"
+"                fill the fields dynamically."
+msgstr ""
+"אתה יכול להגדיר את הדוא\"ל ואת תבנית ה- SMS/צ'אט שלך כאן,\n"
+"                השתמש במצייני מיקום כדי\n"
+"                מלא את השדות באופן דינמי."
+
+#: view/settings/template.php:19
+
+msgid ""
+"Please note that placeholders can be applied only to\n"
+"                the\n"
+"                email and chat/sms body."
+msgstr ""
+"אנא שימו לב כי ניתן להחיל מצייני מיקום רק על\n"
+"                ה\n"
+"                דוא\"ל וצ'אט/גוף SMS."
+
+#: view/settings/template.php:28
+
+msgid ""
+"Also note, the @payment_link placeholder can only be\n"
+"                applied to\n"
+"                the email body sent after the quote is approved. You can "
+"also include HTML tags and\n"
+"                inline styles in the email body but the same wont be "
+"applicable to the chat/sms\n"
+"                body."
+msgstr ""
+"כמו כן, שים לב, מציין המיקום @payment_link יכול להיות רק\n"
+"                חל על\n"
+"                גוף הדוא\"ל שנשלח לאחר אישור הצעת המחיר. ניתן גם לכלול תגי "
+"HTML וכן\n"
+"                סגנונות מוטבעים בגוף הדוא\"ל אך אותו הדבר לא יחול על הצ'אט/"
+"SMS\n"
+"                גופה."
+
+#: view/settings/template.php:48
+
+msgid "Use Predefined Email Templates"
+msgstr "שימוש בתבניות דואר אלקטרוני מוגדרות מראש"
+
+#: view/settings/template.php:56
+
+msgid ""
+"Enable this option to use predefined email templates within the plugin. You "
+"can configure the email content below."
+msgstr ""
+"הפעל אפשרות זו כדי להשתמש בתבניות דוא\"ל מוגדרות מראש בתוך התוסף. באפשרותך "
+"להגדיר את תוכן הדוא\"ל להלן."
+
+#: view/settings/template.php:90
+msgid "Email Template"
+msgstr "תבנית אימייל"
+
+#: view/settings/template.php:107 view/settings/template.php:134
+#: view/settings/template.php:154
+msgid "Preview Template"
+msgstr "תצוגה מקדימה של הטמפלייט"
+
+#: view/settings/template.php:125
+
+msgid ""
+"Rectangle Logo\n"
+"\t\t\t\t\t\t\t\t\t\t\tTemplate"
+msgstr ""
+"סמל מלבן\n"
+"\t\t\t\t\t\t\t\t\t\t\tתבנית"
+
+#: view/settings/template.php:150
+
+msgid "Non Logo Template"
+msgstr "תבנית ללא לוגו"
+
+#: view/settings/template.php:166
+msgid "Company Logo"
+msgstr "לוגו החברה"
+
+#: view/settings/template.php:179 view/settings/template.php:187
+
+msgid "d-none"
+msgstr "D-אין"
+
+#: view/settings/template.php:198
+
+msgid "upload png or jpeg file"
+msgstr "העלה קובץ PNG או JPEG"
+
+#: view/settings/template.php:208
+msgid "Terms and Condition"
+msgstr "תנאי השימוש"
+
+#: view/settings/template.php:210
+
+msgid ""
+"Enable this option if you wish to include the terms and conditions in the "
+"email template."
+msgstr "הפעל אפשרות זו אם ברצונך לכלול את התנאים וההתניות בתבנית הדוא\"ל."
+
+#: view/settings/template.php:242
+
+msgid "Terms and Condition Content"
+msgstr "תוכן תנאים והתניות"
+
+#: view/settings/template.php:257
+
+msgid "Quote Request Email Template: Sent to the Site Administrator"
+msgstr "תבנית דוא\"ל של בקשה להצעת מחיר: נשלחה למנהל האתר"
+
+#: view/settings/template.php:264 view/settings/template.php:382
+#: view/settings/template.php:494 view/settings/template.php:607
+#: view/settings/template.php:726 view/settings/template.php:840
+msgid "Email Subject"
+msgstr "נושא המייל"
+
+#: view/settings/template.php:266
+
+msgid ""
+"Enter the subject for the email sent to the administrator when a quote is "
+"received."
+msgstr ""
+"הזן את הנושא עבור הודעת הדואר האלקטרוני שנשלחה למנהל המערכת בעת קבלת הצעת "
+"מחיר."
+
+#: view/settings/template.php:291
+
+msgid "Quote Request"
+msgstr "בקשה להצעת מחיר"
+
+#: view/settings/template.php:300 view/settings/template.php:417
+#: view/settings/template.php:529 view/settings/template.php:642
+#: view/settings/template.php:760 view/settings/template.php:874
+msgid "Email Heading"
+msgstr "כותרת האימייל"
+
+#: view/settings/template.php:302
+
+msgid ""
+"Enter the heading for the email sent to the administrator when a quote is "
+"received."
+msgstr ""
+"הזן את הכותרת עבור הודעת הדואר האלקטרוני שנשלחה למנהל המערכת כאשר הצעת מחיר "
+"מתקבלת."
+
+#: view/settings/template.php:326 view/settings/template.php:443
+
+msgid "Your Quote Request has been received."
+msgstr "בקשת הצעת המחיר שלך התקבלה."
+
+#: view/settings/template.php:336 view/settings/template.php:453
+#: view/settings/template.php:565 view/settings/template.php:678
+#: view/settings/template.php:794 view/settings/template.php:908
+msgid "Email Body"
+msgstr "גוף האימייל"
+
+#: view/settings/template.php:338
+
+msgid ""
+"Enter the body for the email sent to the administrator when a quote is "
+"received."
+msgstr ""
+"הזן את גוף הודעת הדואר האלקטרוני שנשלחה למנהל המערכת בעת קבלת הצעת מחיר."
+
+#: view/settings/template.php:375
+
+msgid "Quote Requested Email Template: Sent to the Customer"
+msgstr "הצעת מחיר מבוקשת תבנית דוא\"ל: נשלחה ללקוח"
+
+#: view/settings/template.php:384
+
+msgid ""
+"Enter the subject for the email sent to the customer when a quote is "
+"requested."
+msgstr ""
+"הזן את הנושא עבור הודעת הדואר האלקטרוני שנשלחת ללקוח כאשר מתבקשת הצעת מחיר."
+
+#: view/settings/template.php:419
+
+msgid ""
+"Enter the heading for the email sent to the customer when a quote is "
+"requested."
+msgstr ""
+"הזן את הכותרת עבור הודעת הדואר האלקטרוני שנשלחת ללקוח כאשר מתבקשת הצעת מחיר."
+
+#: view/settings/template.php:455
+
+msgid ""
+"Enter the body for the email sent to the customer when a quote is requested."
+msgstr "הזן את גוף הודעת הדוא\"ל שנשלחה ללקוח כאשר מתבקשת הצעת מחיר."
+
+#: view/settings/template.php:487
+
+msgid "Quote Approved Email Template: Sent to the Customer"
+msgstr "הצעת מחיר תבנית דוא\"ל מאושרת: נשלחה ללקוח"
+
+#: view/settings/template.php:496
+
+msgid ""
+"Enter the subject for the email sent to the customer when a quote is "
+"accepted by the administrator."
+msgstr ""
+"הזן את הנושא עבור הודעת הדואר האלקטרוני שנשלחה ללקוח כאשר הצעת מחיר מתקבלת "
+"על-ידי מנהל המערכת."
+
+#: view/settings/template.php:531
+
+msgid ""
+"Enter the heading for the email sent to the customer after the quote request "
+"is accepted by the administrator."
+msgstr ""
+"הזן את הכותרת עבור הודעת הדואר האלקטרוני שנשלחה ללקוח לאחר שבקשת הצעת המחיר "
+"התקבלה על-ידי מנהל המערכת."
+
+#: view/settings/template.php:555
+
+msgid "Your Quote Request has been approved."
+msgstr "בקשת הצעת המחיר שלך אושרה."
+
+#: view/settings/template.php:567
+
+msgid ""
+"Enter the body for the email sent to the customer after the quote request is "
+"accepted by the administrator."
+msgstr ""
+"הזן את גוף הודעת הדואר האלקטרוני שנשלחה ללקוח לאחר שבקשת הצעת המחיר התקבלה "
+"על-ידי מנהל המערכת."
+
+#: view/settings/template.php:600
+
+msgid "Quote Rejected Email Template: Sent to the Customer"
+msgstr "הצעת מחיר נדחתה תבנית דוא\"ל: נשלחה ללקוח"
+
+#: view/settings/template.php:609
+
+msgid ""
+"Enter the subject for the email sent to the customer when a quote is "
+"rejected by the administrator."
+msgstr ""
+"הזן את הנושא עבור הודעת הדואר האלקטרוני שנשלחה ללקוח כאשר הצעת מחיר נדחית על-"
+"ידי מנהל המערכת."
+
+#: view/settings/template.php:644
+
+msgid ""
+"Enter the heading for the email sent to the customer after the quote request "
+"is rejected by the administrator."
+msgstr ""
+"הזן את הכותרת עבור הודעת הדואר האלקטרוני שנשלחה ללקוח לאחר שבקשת הצעת המחיר "
+"נדחתה על-ידי מנהל המערכת."
+
+#: view/settings/template.php:668
+
+msgid "Your Quote Request has been rejected."
+msgstr "בקשתך להצעת מחיר נדחתה."
+
+#: view/settings/template.php:680
+
+msgid ""
+"Enter the body for the email sent to the customer after the quote request is "
+"rejected by the administrator."
+msgstr ""
+"הזן את גוף הודעת הדואר האלקטרוני שנשלחה ללקוח לאחר שבקשת הצעת המחיר נדחתה על-"
+"ידי מנהל המערכת."
+
+#: view/settings/template.php:714
+
+msgid "Reminder Email Template: Sent to the Customer"
+msgstr "תבנית דוא\"ל תזכורת: נשלחה ללקוח"
+
+#: view/settings/template.php:728
+
+msgid ""
+"Enter the subject for the email sent to the customer when there is no action "
+"from the customer."
+msgstr ""
+"הזן את הנושא עבור הודעת הדואר האלקטרוני שנשלחה ללקוח כאשר אין פעולה מצד "
+"הלקוח."
+
+#: view/settings/template.php:762
+
+msgid "Enter the heading for the reminder email sent to the customer."
+msgstr "הזן את הכותרת עבור דוא\"ל התזכורת שנשלח ללקוח."
+
+#: view/settings/template.php:796
+
+msgid "Enter the email body for the reminder email sent to the customer."
+msgstr "הזן את גוף הדואר האלקטרוני עבור דוא\"ל התזכורת שנשלח ללקוח."
+
+#: view/settings/template.php:828
+
+msgid "Negotiation Email Template: Sent to the Customer"
+msgstr "תבנית דוא\"ל משא ומתן: נשלחה ללקוח"
+
+#: view/settings/template.php:842
+
+msgid "Enter the subject for the negotiation email sent to the customer."
+msgstr "הזן את הנושא עבור דוא\"ל המשא ומתן שנשלח ללקוח."
+
+#: view/settings/template.php:876
+
+msgid "Enter the heading for the negotiation email sent to the customer."
+msgstr "הזן את הכותרת עבור הודעת הדואר האלקטרוני של המשא ומתן שנשלחה ללקוח."
+
+#: view/settings/template.php:910
+
+msgid "Enter the email body for the negotiation email sent to the customer."
+msgstr "הזן את גוף הדואר האלקטרוני עבור דוא\"ל המשא ומתן שנשלח ללקוח."
+
+#: view/settings/template.php:942
+
+msgid ""
+"Quote Requested SMS / Google Chat Template: Sent to the Site Administrator"
+msgstr "הצעת מחיר מבוקשת SMS / Google Chat תבנית: נשלחה למנהל האתר"
+
+#: view/settings/template.php:949
+
+msgid "SMS And Google Chat Body"
+msgstr "SMS וגוף הצ'אט של גוגל"
+
+#: view/settings/template.php:952
+
+msgid ""
+"Enter the content for the SMS/google chat notification sent to the "
+"administrator on receiving a quote request. you can enter text or fill the "
+"fields dynamically using placeholders from the above table. HTML tags are "
+"not accepted in this field."
+msgstr ""
+"הזן את התוכן עבור הודעת SMS/Google Chat שנשלחת למנהל המערכת עם קבלת בקשה "
+"להצעת מחיר. באפשרותך להזין טקסט או למלא את השדות באופן דינמי באמצעות מצייני "
+"מיקום מהטבלה לעיל. תגי HTML אינם מתקבלים בשדה זה."
+
+#: view/settings/template.php:992
+msgid "Title"
+msgstr "כותרת"
+
+#: view/settings/template.php:993
+msgid "Placeholder"
+msgstr "ממלא מקום"
+
+#: view/settings/template.php:998
+
+msgid "Core Fields"
+msgstr "שדות ליבה"
+
+#: view/settings/template.php:1003
+msgid "Billing First Name"
+msgstr "שם פרטי חיוב"
+
+#: view/settings/template.php:1004
+
+msgid "@billing_first_name"
+msgstr "שם פרטי חיוב"
+
+#: view/settings/template.php:1008
+msgid "Billing Last Name"
+msgstr "שם משפחה לחיוב"
+
+#: view/settings/template.php:1009
+
+msgid "@billing_last_name"
+msgstr "שם משפחה לחיוב"
+
+#: view/settings/template.php:1013
+msgid "Billing Company"
+msgstr "שם חברה לחיוב"
+
+#: view/settings/template.php:1014
+
+msgid "@billing_company"
+msgstr "שם חברה לחיוב"
+
+#: view/settings/template.php:1018
+msgid "Billing Country"
+msgstr "ארץ"
+
+#: view/settings/template.php:1019
+
+msgid "@billing_country"
+msgstr "ארץ"
+
+#: view/settings/template.php:1022
+msgid "Billing Address 1"
+msgstr "כתובת חיוב 1"
+
+#: view/settings/template.php:1023
+
+msgid "@billing_address_1"
+msgstr "@billing_address_1"
+
+#: view/settings/template.php:1027
+msgid "Billing Address 2"
+msgstr "כתובת חיוב 2"
+
+#: view/settings/template.php:1028
+
+msgid "@billing_address_2"
+msgstr "@billing_address_2"
+
+#: view/settings/template.php:1031
+msgid "Billing City"
+msgstr "עיר"
+
+#: view/settings/template.php:1032
+
+msgid "@billing_city"
+msgstr "עיר"
+
+#: view/settings/template.php:1035
+msgid "Billing State"
+msgstr "מדינה"
+
+#: view/settings/template.php:1036
+
+msgid "@billing_state"
+msgstr "מדינה"
+
+#: view/settings/template.php:1039
+msgid "Billing Postcode"
+msgstr "מיקוד לחיוב"
+
+#: view/settings/template.php:1040
+
+msgid "@billing_postcode"
+msgstr "מיקוד לחיוב"
+
+#: view/settings/template.php:1043
+msgid "Billing Phone"
+msgstr "מס' טלפון"
+
+#: view/settings/template.php:1044
+
+msgid "@billing_phone"
+msgstr "מס' טלפון"
+
+#: view/settings/template.php:1047
+msgid "Billing Email"
+msgstr "דוא\"ל לחיוב"
+
+#: view/settings/template.php:1048
+
+msgid "@billing_email"
+msgstr "דוא\"ל לחיוב"
+
+#: view/settings/template.php:1051
+msgid "Order Items"
+msgstr "פרטי ההזמנה"
+
+#: view/settings/template.php:1052
+
+msgid "@order_items"
+msgstr "פרטי ההזמנה"
+
+#: view/settings/template.php:1055
+msgid "Payment Link"
+msgstr "קישור תשלום"
+
+#: view/settings/template.php:1056
+
+msgid "@payment_link"
+msgstr "קישור תשלום"
+
+#: view/settings/template.php:1059
+msgid "Customer Note"
+msgstr "הערת לקוח"
+
+#: view/settings/template.php:1060
+
+msgid "@customer_note"
+msgstr "הערת לקוח"
+
+#: view/settings/template.php:1063
+msgid "Order ID"
+msgstr "מזהה ההזמנה"
+
+#: view/settings/template.php:1064
+
+msgid "@order_id"
+msgstr "@order_id"
+
+#: view/settings/template.php:1067
+msgid "Custom Fields"
+msgstr "שדות מותאמים אישית"
+
+#: view/settings/widget.php:11
+
+msgid "Show Quote List Icon"
+msgstr "הצג סמל רשימת הצעות מחיר"
+
+#: view/settings/widget.php:31
+
+msgid "Quote List Color On Hover"
+msgstr "צבע רשימת הצעות מחיר בעת ריחוף"
+
+#: view/settings/widget.php:33
+
+msgid "Select the color of the widget when a customer hovers over it."
+msgstr "בחר את צבע הווידג'ט כשלקוח מרחף מעליו."
+
+#: view/settings/widget.php:61
+
+msgid "Quote List Icon Type"
+msgstr "סוג סמל רשימת הצעות מחיר"
+
+#: view/settings/widget.php:63
+
+msgid ""
+"You may face compatibility issues with specific themes when Fixed icon type "
+"is chosen."
+msgstr ""
+"ייתכן שתיתקל בבעיות תאימות עם ערכות נושא ספציפיות כאשר נבחר סוג סמל קבוע."
+
+#: view/settings/widget.php:81
+msgid "Float"
+msgstr "הצמדה"
+
+#: view/settings/widget.php:82
+msgid "Fixed"
+msgstr "קבוע"
+
+#: view/settings/widget.php:93
+
+msgid "Show Button Label Next to Icon"
+msgstr "הצג תווית לחצן לצד סמל"
+
+#: view/settings/widget.php:128
+
+msgid "Please enter the text that you would like to display as a button label."
+msgstr "הזן את הטקסט שברצונך להציג כתווית כפתור."
+
+#: view/settings/widget.php:163
+
+msgid "Show List Pop Up on Hover"
+msgstr "הצג רשימה מוקפצת ב- Hover"
+
+#: view/settings/widget.php:165
+
+msgid ""
+"Turn it on or off if you want to display or hide the list of products in the "
+"quote list by hovering over the quote list widget."
+msgstr ""
+"הפעל או בטל אותו אם ברצונך להציג או להסתיר את רשימת המוצרים ברשימת הצעות "
+"המחיר על-ידי ריחוף מעל רכיב widget של רשימת הצעות מחיר."
+
+#. Plugin Name of the plugin/theme
+
+msgid "ELEX WooCommerce Request a Quote - Basic"
+msgstr "ELEX WooCommerce בקש הצעת מחיר - בסיסי"
+
+#. Plugin URI of the plugin/theme
+
+msgid "https://elextensions.com/plugin/"
+msgstr "https://elextensions.com/plugin/"
+
+#. Description of the plugin/theme
+
+msgid ""
+"Create Request a Quote option for your WooCommerce products. You can also "
+"create and customize request a quote forms to be displayed on the frontend. "
+"The plugin will also send automated email notifications for quote "
+"submissions, approvals, and rejections."
+msgstr ""
+"צור אפשרות בקש הצעת מחיר עבור מוצרי WooCommerce שלך. באפשרותך גם ליצור "
+"ולהתאים אישית טופסי בקשת הצעת מחיר שיוצגו בחזית. התוסף ישלח גם התראות "
+"אוטומטיות בדוא\"ל על הגשת הצעות מחיר, אישורים ודחיות."
+
+#. Author of the plugin/theme
+
+msgid "ELEXtensions"
+msgstr "ELEXtensions"
+
+#. Author URI of the plugin/theme
+
+msgid "https://elextensions.com/"
+msgstr "https://elextensions.com/"

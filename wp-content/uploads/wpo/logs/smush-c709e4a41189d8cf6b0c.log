@@ -1,0 +1,217 @@
+[2024-11-12 17:10:10 : INFO] - Re_Smush_It_Task with attachment ID : 1128, autocreated on : November 12, 2024 05:10:10 
+[2024-11-12 17:10:14 : INFO] - Re_Smush_It_Task with attachment ID : 1129, autocreated on : November 12, 2024 05:10:14 
+[2024-11-12 17:10:18 : INFO] - Re_Smush_It_Task with attachment ID : 1130, autocreated on : November 12, 2024 05:10:18 
+[2024-11-12 17:10:21 : INFO] - Re_Smush_It_Task with attachment ID : 1131, autocreated on : November 12, 2024 05:10:21 
+[2024-11-12 17:10:24 : INFO] - Re_Smush_It_Task with attachment ID : 1132, autocreated on : November 12, 2024 05:10:24 
+[2024-11-12 17:10:27 : INFO] - Re_Smush_It_Task with attachment ID : 1133, autocreated on : November 12, 2024 05:10:27 
+[2024-11-12 17:10:32 : INFO] - Re_Smush_It_Task with attachment ID : 1134, autocreated on : November 12, 2024 05:10:32 
+[2024-11-12 17:15:20 : INFO] - A total of 7 tasks of type smush found and will be processed in this iteration 
+[2024-11-12 17:15:20 : DEBUG] - Lock option (updraft_lock_smush, AsY3bhiLE_options) was created in the database 
+[2024-11-12 17:15:20 : INFO] - Lock (updraft_lock_smush, AsY3bhiLE_options) acquired after initialising the database 
+[2024-11-12 17:15:20 : INFO] - Processing task with ID : 918, and type 'smush' 
+[2024-11-12 17:15:20 : INFO] - Re_Smush_It_Task with attachment ID : 1128, autocreated on : November 12, 2024 05:10:10 
+[2024-11-12 17:15:20 : INFO] - File: 9781523523153_RetailCover_RetailAndCatalog.jpg, Compression quality: 92 
+[2024-11-12 17:15:41 : INFO] - Backing up the original image - 2024/11/9781523523153_RetailCover_RetailAndCatalog-updraft-pre-smush-original.jpg 
+[2024-11-12 17:16:20 : INFO] - Successfully optimized the image - /home4/cni64049/public_html/wp-content/uploads/2024/11/9781523523153_RetailCover_RetailAndCatalog.jpg.El archivo se ha comprimido de 387.51 KB a 387.51 KB, ahorrando un 0 por ciento, usando WP-Optimize 
+[2024-11-12 17:16:20 : INFO] - Completed processing task with ID : 918, and type 'smush' 
+[2024-11-12 17:16:20 : INFO] - Processing task with ID : 919, and type 'smush' 
+[2024-11-12 17:16:20 : INFO] - Re_Smush_It_Task with attachment ID : 1129, autocreated on : November 12, 2024 05:10:14 
+[2024-11-12 17:16:20 : INFO] - File: 9781523502073.jpg, Compression quality: 92 
+[2024-11-12 17:16:38 : INFO] - Backing up the original image - 2024/11/9781523502073-updraft-pre-smush-original.jpg 
+[2024-11-12 17:17:25 : INFO] - Successfully optimized the image - /home4/cni64049/public_html/wp-content/uploads/2024/11/9781523502073.jpg.El archivo se ha comprimido de 619.80 KB a 619.80 KB, ahorrando un 0 por ciento, usando WP-Optimize 
+[2024-11-12 17:17:25 : INFO] - Completed processing task with ID : 919, and type 'smush' 
+[2024-11-12 17:17:25 : INFO] - Processing task with ID : 920, and type 'smush' 
+[2024-11-12 17:17:25 : INFO] - Re_Smush_It_Task with attachment ID : 1130, autocreated on : November 12, 2024 05:10:18 
+[2024-11-12 17:17:25 : INFO] - File: 9781523506231.jpg, Compression quality: 92 
+[2024-11-12 17:17:40 : INFO] - Backing up the original image - 2024/11/9781523506231-updraft-pre-smush-original.jpg 
+[2024-11-12 17:18:30 : INFO] - Successfully optimized the image - /home4/cni64049/public_html/wp-content/uploads/2024/11/9781523506231.jpg.El archivo se ha comprimido de 348.52 KB a 348.52 KB, ahorrando un 0 por ciento, usando WP-Optimize 
+[2024-11-12 17:18:30 : INFO] - Completed processing task with ID : 920, and type 'smush' 
+[2024-11-12 17:18:30 : INFO] - Processing task with ID : 921, and type 'smush' 
+[2024-11-12 17:18:30 : INFO] - Re_Smush_It_Task with attachment ID : 1131, autocreated on : November 12, 2024 05:10:21 
+[2024-11-12 17:18:30 : INFO] - File: 9781523506224.jpg, Compression quality: 92 
+[2024-11-12 17:31:36 : INFO] - A total of 4 tasks of type smush found and will be processed in this iteration 
+[2024-11-12 17:31:36 : INFO] - Lock (updraft_lock_smush, AsY3bhiLE_options) acquired 
+[2024-11-12 17:31:36 : INFO] - Processing task with ID : 921, and type 'smush' 
+[2024-11-12 17:31:36 : INFO] - Re_Smush_It_Task with attachment ID : 1131, autocreated on : November 12, 2024 05:10:21 
+[2024-11-12 17:31:36 : INFO] - File: 9781523506224.jpg, Compression quality: 92 
+[2024-11-12 17:31:58 : INFO] - Backing up the original image - 2024/11/9781523506224-updraft-pre-smush-original.jpg 
+[2024-11-12 17:32:37 : INFO] - Successfully optimized the image - /home4/cni64049/public_html/wp-content/uploads/2024/11/9781523506224.jpg.El archivo se ha comprimido de 318.49 KB a 318.49 KB, ahorrando un 0 por ciento, usando WP-Optimize 
+[2024-11-12 17:32:37 : INFO] - Completed processing task with ID : 921, and type 'smush' 
+[2024-11-12 17:32:37 : INFO] - Processing task with ID : 922, and type 'smush' 
+[2024-11-12 17:32:37 : INFO] - Re_Smush_It_Task with attachment ID : 1132, autocreated on : November 12, 2024 05:10:24 
+[2024-11-12 17:32:37 : INFO] - File: 9781523506248.jpg, Compression quality: 92 
+[2024-11-12 17:32:53 : INFO] - Backing up the original image - 2024/11/9781523506248-updraft-pre-smush-original.jpg 
+[2024-11-12 17:33:36 : INFO] - Successfully optimized the image - /home4/cni64049/public_html/wp-content/uploads/2024/11/9781523506248.jpg.El archivo se ha comprimido de 382.06 KB a 382.06 KB, ahorrando un 0 por ciento, usando WP-Optimize 
+[2024-11-12 17:33:36 : INFO] - Completed processing task with ID : 922, and type 'smush' 
+[2024-11-12 17:33:36 : INFO] - Processing task with ID : 923, and type 'smush' 
+[2024-11-12 17:33:36 : INFO] - Re_Smush_It_Task with attachment ID : 1133, autocreated on : November 12, 2024 05:10:27 
+[2024-11-12 17:33:36 : INFO] - File: 9781523504688.jpg, Compression quality: 92 
+[2024-11-12 17:34:02 : INFO] - Backing up the original image - 2024/11/9781523504688-updraft-pre-smush-original.jpg 
+[2024-11-12 17:34:51 : INFO] - Successfully optimized the image - /home4/cni64049/public_html/wp-content/uploads/2024/11/9781523504688.jpg.El archivo se ha comprimido de 872.82 KB a 872.82 KB, ahorrando un 0 por ciento, usando WP-Optimize 
+[2024-11-12 17:34:51 : INFO] - Completed processing task with ID : 923, and type 'smush' 
+[2024-11-12 17:34:51 : INFO] - Processing task with ID : 924, and type 'smush' 
+[2024-11-12 17:34:51 : INFO] - Re_Smush_It_Task with attachment ID : 1134, autocreated on : November 12, 2024 05:10:32 
+[2024-11-12 17:34:51 : INFO] - File: 9780761193081_RetailCover_RetailOnly.jpg, Compression quality: 92 
+[2024-11-12 17:35:12 : INFO] - Backing up the original image - 2024/11/9780761193081_RetailCover_RetailOnly-updraft-pre-smush-original.jpg 
+[2024-11-12 17:42:21 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-11-12 17:42:21 : INFO] - Lock (updraft_lock_smush, AsY3bhiLE_options) acquired 
+[2024-11-12 17:42:21 : INFO] - Processing task with ID : 924, and type 'smush' 
+[2024-11-12 17:42:21 : INFO] - Re_Smush_It_Task with attachment ID : 1134, autocreated on : November 12, 2024 05:10:32 
+[2024-11-12 17:42:21 : INFO] - File: 9780761193081_RetailCover_RetailOnly.jpg, Compression quality: 92 
+[2024-11-12 17:42:44 : INFO] - Backing up the original image - 2024/11/9780761193081_RetailCover_RetailOnly-updraft-pre-smush-original.jpg 
+[2024-11-12 17:43:40 : INFO] - Successfully optimized the image - /home4/cni64049/public_html/wp-content/uploads/2024/11/9780761193081_RetailCover_RetailOnly.jpg.El archivo se ha comprimido de 867.95 KB a 867.95 KB, ahorrando un 0 por ciento, usando WP-Optimize 
+[2024-11-12 17:43:40 : INFO] - Completed processing task with ID : 924, and type 'smush' 
+[2024-11-12 17:43:40 : INFO] - Lock option (updraft_lock_smush, AsY3bhiLE_options) released 
+[2024-11-12 17:43:40 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2024-11-12 17:43:40 : INFO] - Lock option (updraft_lock_smush, AsY3bhiLE_options) was deleted from the database 
+[2024-11-12 17:43:40 : INFO] - Cleaning up tasks of type (smush). A total of 7 tasks will be deleted. 
+[2024-11-14 23:06:45 : INFO] - Re_Smush_It_Task with attachment ID : 1174, autocreated on : November 14, 2024 11:06:45 
+[2024-11-14 23:11:53 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-11-14 23:11:53 : DEBUG] - Lock option (updraft_lock_smush, AsY3bhiLE_options) was created in the database 
+[2024-11-14 23:11:53 : INFO] - Lock (updraft_lock_smush, AsY3bhiLE_options) acquired after initialising the database 
+[2024-11-14 23:11:53 : INFO] - Processing task with ID : 1020, and type 'smush' 
+[2024-11-14 23:11:53 : INFO] - Re_Smush_It_Task with attachment ID : 1174, autocreated on : November 14, 2024 11:06:45 
+[2024-11-14 23:11:53 : INFO] - File: mt-sample-background.jpg, Compression quality: 92 
+[2024-11-14 23:12:08 : INFO] - Backing up the original image - 2024/11/mt-sample-background-updraft-pre-smush-original.jpg 
+[2024-11-14 23:12:24 : INFO] - Successfully optimized the image - /home4/cni64049/public_html/wp-content/uploads/2024/11/mt-sample-background.jpg.El archivo se ha comprimido de 212.49 KB a 212.49 KB, ahorrando un 0 por ciento, usando WP-Optimize 
+[2024-11-14 23:12:24 : INFO] - Completed processing task with ID : 1020, and type 'smush' 
+[2024-11-14 23:12:24 : INFO] - Lock option (updraft_lock_smush, AsY3bhiLE_options) released 
+[2024-11-14 23:12:24 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2024-11-14 23:12:24 : INFO] - Lock option (updraft_lock_smush, AsY3bhiLE_options) was deleted from the database 
+[2024-11-14 23:12:24 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2024-11-15 23:34:15 : INFO] - Re_Smush_It_Task server status: Online 
+[2024-11-15 23:34:16 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-11-15 23:34:16 : DEBUG] - Lock option (updraft_lock_smush, AsY3bhiLE_options) was created in the database 
+[2024-11-15 23:34:16 : INFO] - Lock (updraft_lock_smush, AsY3bhiLE_options) acquired after initialising the database 
+[2024-11-15 23:34:16 : INFO] - Processing task with ID : 1138, and type 'smush' 
+[2024-11-15 23:34:16 : INFO] - Re_Smush_It_Task - Attachment ID : 816, Started on : November 15, 2024 11:34:16 
+[2024-11-15 23:34:16 : INFO] - File: MINI-¦RBOL.jpg, Compression quality: 60 
+[2024-11-15 23:35:16 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-11-15 23:35:16 : DEBUG] - Lock option (updraft_lock_smush, AsY3bhiLE_options) already existed in the database 
+[2024-11-15 23:35:16 : INFO] - Lock (updraft_lock_smush, AsY3bhiLE_options) could not be acquired (it is locked) 
+[2024-11-15 23:35:16 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2024-11-15 23:36:16 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-11-15 23:36:16 : DEBUG] - Lock option (updraft_lock_smush, AsY3bhiLE_options) already existed in the database 
+[2024-11-15 23:36:16 : INFO] - Lock (updraft_lock_smush, AsY3bhiLE_options) could not be acquired (it is locked) 
+[2024-11-15 23:36:16 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2024-11-15 23:37:16 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-11-15 23:37:16 : DEBUG] - Lock option (updraft_lock_smush, AsY3bhiLE_options) already existed in the database 
+[2024-11-15 23:37:16 : INFO] - Lock (updraft_lock_smush, AsY3bhiLE_options) could not be acquired (it is locked) 
+[2024-11-15 23:37:16 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2024-11-15 23:38:16 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-11-15 23:38:16 : DEBUG] - Lock option (updraft_lock_smush, AsY3bhiLE_options) already existed in the database 
+[2024-11-15 23:38:16 : INFO] - Lock (updraft_lock_smush, AsY3bhiLE_options) could not be acquired (it is locked) 
+[2024-11-15 23:38:16 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2024-11-15 23:39:16 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-11-15 23:39:16 : DEBUG] - Lock option (updraft_lock_smush, AsY3bhiLE_options) already existed in the database 
+[2024-11-15 23:39:16 : INFO] - Lock (updraft_lock_smush, AsY3bhiLE_options) could not be acquired (it is locked) 
+[2024-11-15 23:39:16 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2024-11-15 23:40:16 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-11-15 23:40:16 : INFO] - Lock (updraft_lock_smush, AsY3bhiLE_options) acquired 
+[2024-11-15 23:40:16 : INFO] - Processing task with ID : 1138, and type 'smush' 
+[2024-11-15 23:40:16 : INFO] - Re_Smush_It_Task - Attachment ID : 816, Started on : November 15, 2024 11:34:16 
+[2024-11-15 23:40:16 : INFO] - File: MINI-¦RBOL.jpg, Compression quality: 60 
+[2024-11-15 23:41:16 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-11-15 23:41:16 : DEBUG] - Lock option (updraft_lock_smush, AsY3bhiLE_options) already existed in the database 
+[2024-11-15 23:41:16 : INFO] - Lock (updraft_lock_smush, AsY3bhiLE_options) could not be acquired (it is locked) 
+[2024-11-15 23:41:16 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2024-11-15 23:42:16 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-11-15 23:42:16 : DEBUG] - Lock option (updraft_lock_smush, AsY3bhiLE_options) already existed in the database 
+[2024-11-15 23:42:16 : INFO] - Lock (updraft_lock_smush, AsY3bhiLE_options) could not be acquired (it is locked) 
+[2024-11-15 23:42:16 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2024-11-15 23:43:16 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-11-15 23:43:16 : DEBUG] - Lock option (updraft_lock_smush, AsY3bhiLE_options) already existed in the database 
+[2024-11-15 23:43:16 : INFO] - Lock (updraft_lock_smush, AsY3bhiLE_options) could not be acquired (it is locked) 
+[2024-11-15 23:43:16 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2024-11-15 23:44:16 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-11-15 23:44:16 : DEBUG] - Lock option (updraft_lock_smush, AsY3bhiLE_options) already existed in the database 
+[2024-11-15 23:44:16 : INFO] - Lock (updraft_lock_smush, AsY3bhiLE_options) could not be acquired (it is locked) 
+[2024-11-15 23:44:16 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2024-11-15 23:44:17 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-11-15 23:44:17 : DEBUG] - Lock option (updraft_lock_smush, AsY3bhiLE_options) already existed in the database 
+[2024-11-15 23:44:17 : INFO] - Lock (updraft_lock_smush, AsY3bhiLE_options) could not be acquired (it is locked) 
+[2024-11-15 23:44:17 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2024-11-15 23:45:17 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-11-15 23:45:17 : INFO] - Lock (updraft_lock_smush, AsY3bhiLE_options) acquired 
+[2024-11-15 23:45:17 : INFO] - Processing task with ID : 1138, and type 'smush' 
+[2024-11-15 23:45:17 : INFO] - Re_Smush_It_Task - Attachment ID : 816, Started on : November 15, 2024 11:34:16 
+[2024-11-15 23:45:17 : INFO] - File: MINI-¦RBOL.jpg, Compression quality: 60 
+[2024-11-15 23:49:34 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-11-15 23:49:34 : DEBUG] - Lock option (updraft_lock_smush, AsY3bhiLE_options) already existed in the database 
+[2024-11-15 23:49:34 : INFO] - Lock (updraft_lock_smush, AsY3bhiLE_options) could not be acquired (it is locked) 
+[2024-11-15 23:49:34 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2024-11-15 23:50:34 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-11-15 23:50:34 : INFO] - Lock (updraft_lock_smush, AsY3bhiLE_options) acquired 
+[2024-11-15 23:50:34 : INFO] - Processing task with ID : 1138, and type 'smush' 
+[2024-11-15 23:50:34 : INFO] - Re_Smush_It_Task - Attachment ID : 816, Started on : November 15, 2024 11:34:16 
+[2024-11-15 23:50:34 : INFO] - File: MINI-¦RBOL.jpg, Compression quality: 60 
+[2024-11-15 23:51:33 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-11-15 23:51:33 : DEBUG] - Lock option (updraft_lock_smush, AsY3bhiLE_options) already existed in the database 
+[2024-11-15 23:51:33 : INFO] - Lock (updraft_lock_smush, AsY3bhiLE_options) could not be acquired (it is locked) 
+[2024-11-15 23:51:33 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2024-11-15 23:52:34 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-11-15 23:52:34 : DEBUG] - Lock option (updraft_lock_smush, AsY3bhiLE_options) already existed in the database 
+[2024-11-15 23:52:34 : INFO] - Lock (updraft_lock_smush, AsY3bhiLE_options) could not be acquired (it is locked) 
+[2024-11-15 23:52:34 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2024-11-15 23:53:33 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-11-15 23:53:33 : DEBUG] - Lock option (updraft_lock_smush, AsY3bhiLE_options) already existed in the database 
+[2024-11-15 23:53:33 : INFO] - Lock (updraft_lock_smush, AsY3bhiLE_options) could not be acquired (it is locked) 
+[2024-11-15 23:53:33 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2024-11-15 23:54:33 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-11-15 23:54:33 : DEBUG] - Lock option (updraft_lock_smush, AsY3bhiLE_options) already existed in the database 
+[2024-11-15 23:54:33 : INFO] - Lock (updraft_lock_smush, AsY3bhiLE_options) could not be acquired (it is locked) 
+[2024-11-15 23:54:33 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2024-11-15 23:54:34 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-11-15 23:54:34 : DEBUG] - Lock option (updraft_lock_smush, AsY3bhiLE_options) already existed in the database 
+[2024-11-15 23:54:34 : INFO] - Lock (updraft_lock_smush, AsY3bhiLE_options) could not be acquired (it is locked) 
+[2024-11-15 23:54:34 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2024-11-15 23:55:33 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-11-15 23:55:33 : DEBUG] - Lock option (updraft_lock_smush, AsY3bhiLE_options) already existed in the database 
+[2024-11-15 23:55:33 : INFO] - Lock (updraft_lock_smush, AsY3bhiLE_options) could not be acquired (it is locked) 
+[2024-11-15 23:55:33 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2024-11-15 23:56:33 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-11-15 23:56:33 : INFO] - Lock (updraft_lock_smush, AsY3bhiLE_options) acquired 
+[2024-11-15 23:56:33 : INFO] - Processing task with ID : 1138, and type 'smush' 
+[2024-11-15 23:56:33 : INFO] - Re_Smush_It_Task - Attachment ID : 816, Started on : November 15, 2024 11:34:16 
+[2024-11-15 23:56:33 : INFO] - File: MINI-¦RBOL.jpg, Compression quality: 60 
+[2024-11-15 23:57:33 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-11-15 23:57:33 : DEBUG] - Lock option (updraft_lock_smush, AsY3bhiLE_options) already existed in the database 
+[2024-11-15 23:57:33 : INFO] - Lock (updraft_lock_smush, AsY3bhiLE_options) could not be acquired (it is locked) 
+[2024-11-15 23:57:33 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2024-11-15 23:58:33 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-11-15 23:58:33 : DEBUG] - Lock option (updraft_lock_smush, AsY3bhiLE_options) already existed in the database 
+[2024-11-15 23:58:33 : INFO] - Lock (updraft_lock_smush, AsY3bhiLE_options) could not be acquired (it is locked) 
+[2024-11-15 23:58:33 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2024-11-15 23:59:33 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-11-15 23:59:33 : DEBUG] - Lock option (updraft_lock_smush, AsY3bhiLE_options) already existed in the database 
+[2024-11-15 23:59:33 : INFO] - Lock (updraft_lock_smush, AsY3bhiLE_options) could not be acquired (it is locked) 
+[2024-11-15 23:59:33 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2024-11-16 00:00:33 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-11-16 00:00:33 : DEBUG] - Lock option (updraft_lock_smush, AsY3bhiLE_options) already existed in the database 
+[2024-11-16 00:00:33 : INFO] - Lock (updraft_lock_smush, AsY3bhiLE_options) could not be acquired (it is locked) 
+[2024-11-16 00:00:33 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2024-11-16 00:01:33 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-11-16 00:01:33 : DEBUG] - Lock option (updraft_lock_smush, AsY3bhiLE_options) already existed in the database 
+[2024-11-16 00:01:33 : INFO] - Lock (updraft_lock_smush, AsY3bhiLE_options) could not be acquired (it is locked) 
+[2024-11-16 00:01:33 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2024-11-16 00:02:33 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-11-16 00:02:33 : INFO] - Lock (updraft_lock_smush, AsY3bhiLE_options) acquired 
+[2024-11-16 00:02:33 : INFO] - Task with ID 1138 and type (smush) failed with error code max_attempts_exceeded - Maximum attempts (5) exceeded for task 
+[2024-11-16 00:02:33 : INFO] - Lock option (updraft_lock_smush, AsY3bhiLE_options) released 
+[2024-11-16 00:02:33 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2024-11-16 00:02:33 : INFO] - Lock option (updraft_lock_smush, AsY3bhiLE_options) was deleted from the database 
+[2024-11-16 00:41:46 : INFO] - Re_Smush_It_Task with attachment ID : 1189, autocreated on : November 16, 2024 12:41:46 
+[2024-11-16 00:47:04 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-11-16 00:47:04 : DEBUG] - Lock option (updraft_lock_smush, AsY3bhiLE_options) was created in the database 
+[2024-11-16 00:47:04 : INFO] - Lock (updraft_lock_smush, AsY3bhiLE_options) acquired after initialising the database 
+[2024-11-16 00:47:04 : INFO] - Processing task with ID : 1175, and type 'smush' 
+[2024-11-16 00:47:04 : INFO] - Re_Smush_It_Task with attachment ID : 1189, autocreated on : November 16, 2024 12:41:46 
+[2024-11-16 00:47:04 : INFO] - File: Elementor-post-screenshot_983_2024-11-16-00-41-46_5ed5b978.png, Compression quality: 60 
+[2024-11-16 00:47:10 : INFO] - Backing up the original image - elementor/screenshots/Elementor-post-screenshot_983_2024-11-16-00-41-46_5ed5b978-updraft-pre-smush-original.png 
+[2024-11-16 00:47:10 : INFO] - Successfully optimized the image - /home4/cni64049/public_html/wp-content/uploads/elementor/screenshots/Elementor-post-screenshot_983_2024-11-16-00-41-46_5ed5b978.png.El archivo se ha comprimido de 166.57 KB a 42.19 KB, ahorrando un 74.67 por ciento, usando WP-Optimize 
+[2024-11-16 00:47:10 : INFO] - Completed processing task with ID : 1175, and type 'smush' 
+[2024-11-16 00:47:10 : INFO] - Lock option (updraft_lock_smush, AsY3bhiLE_options) released 
+[2024-11-16 00:47:10 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2024-11-16 00:47:10 : INFO] - Lock option (updraft_lock_smush, AsY3bhiLE_options) was deleted from the database 
+[2024-11-16 00:47:10 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2024-11-16 01:43:53 : INFO] - Pruning the smush log file 
